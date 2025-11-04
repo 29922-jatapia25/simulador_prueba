@@ -1,0 +1,1272 @@
+[
+  {
+    "id": "Q2319TUZ",
+    "type": "mcq",
+    "question": "¿Cuál de los siguientes científicos observó por primera vez la 'transformación' en bacterias al mezclar cepas patógenas muertas por calor con cepas no patógenas vivas?",
+    "options": [
+      "Oswald Avery",
+      "Frederick Griffith",
+      "Alfred Hershey",
+      "Erwin Chargaff"
+    ],
+    "answerIndex": 1,
+    "explanation": "En 1928, Griffith describió la transformación en Streptococcus pneumoniae, mostrando la adquisición heredable de patogenicidad."
+  },
+  {
+    "id": "QX5CH6UR",
+    "type": "mcq",
+    "question": "El experimento de Hershey y Chase con el fago T2 demostró que el material genético del virus era:",
+    "options": [
+      "Proteína, al detectarse azufre radiactivo dentro de E. coli",
+      "RNA, al detectarse uracilo radiactivo en el precipitado",
+      "DNA, al detectarse fósforo radiactivo dentro de E. coli",
+      "Carbohidrato, al detectarse glucosa marcada en el sobrenadante"
+    ],
+    "answerIndex": 2,
+    "explanation": "Marcaron proteínas con 35S y DNA con 32P; solo el 32P ingresó a las bacterias, indicando que el DNA programa la maquinaria celular."
+  },
+  {
+    "id": "QT7R1AO8",
+    "type": "mcq",
+    "question": "Las reglas de Chargaff establecen que en el DNA de una especie dada:",
+    "options": [
+      "A = G y C = T",
+      "A = T y G = C",
+      "A + T = G + C en todos los casos",
+      "La proporción A/T varía libremente entre especies"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chargaff encontró que A ≈ T y G ≈ C, aunque la composición total varía entre especies."
+  },
+  {
+    "id": "QUO6D3XB",
+    "type": "mcq",
+    "question": "¿Qué aportó la foto de difracción de rayos X de Rosalind Franklin para el modelo de DNA?",
+    "options": [
+      "Confirmó que el DNA era una hélice triple",
+      "Reveló la anchura y el paso de la doble hélice",
+      "Demostró la secuencia exacta de bases",
+      "Mostró los telómeros en eucariotas"
+    ],
+    "answerIndex": 1,
+    "explanation": "La fotografía permitió inferir que el DNA era helicoidal, el diámetro (~2 nm) y el intervalo (~3,4 nm por vuelta)."
+  },
+  {
+    "id": "Q71SVXZZ",
+    "type": "mcq",
+    "question": "El modelo de replicación del DNA confirmado por Meselson y Stahl fue:",
+    "options": [
+      "Conservador",
+      "Semiconservador",
+      "Dispersivo",
+      "Transposicional"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tras dos rondas en 14N, observaron bandas compatibles con el modelo semiconservador."
+  },
+  {
+    "id": "QQ64TC2A",
+    "type": "mcq",
+    "question": "Durante la replicación, la DNA polimerasa extiende la cadena naciente:",
+    "options": [
+      "Solo en dirección 3'→5'",
+      "En ambas direcciones",
+      "Solo en dirección 5'→3'",
+      "Solo cuando hay dNTPs con ribosa"
+    ],
+    "answerIndex": 2,
+    "explanation": "La síntesis de DNA siempre ocurre en dirección 5'→3' añadiendo nucleótidos al extremo 3' libre."
+  },
+  {
+    "id": "Q2XG19T9",
+    "type": "mcq",
+    "question": "¿Qué enzima separa las hebras parentales de DNA en la horquilla de replicación?",
+    "options": [
+      "Ligasa",
+      "Primasa",
+      "Helicasa",
+      "Topoisomerasa"
+    ],
+    "answerIndex": 2,
+    "explanation": "La helicasa desenrolla y separa las hebras para permitir el copiado."
+  },
+  {
+    "id": "Q9RVFUQ6",
+    "type": "mcq",
+    "question": "Los fragmentos de Okazaki se sintetizan:",
+    "options": [
+      "En la hebra adelantada",
+      "Solo en procariotas",
+      "En la hebra retrasada como segmentos cortos",
+      "Únicamente por polimerasa I"
+    ],
+    "answerIndex": 2,
+    "explanation": "La hebra retrasada se sintetiza de forma discontinua en fragmentos que luego se unen por ligasa."
+  },
+  {
+    "id": "Q3AUSW76",
+    "type": "mcq",
+    "question": "¿Cuál es la función principal de la primasa durante la replicación?",
+    "options": [
+      "Reparar errores de apareamiento",
+      "Insertar cebadores de RNA",
+      "Soldar huecos del esqueleto azúcar-fosfato",
+      "Aliviar la sobre-torsión del DNA"
+    ],
+    "answerIndex": 1,
+    "explanation": "La primasa sintetiza cebadores de RNA necesarios para que actúen las polimerasas de DNA."
+  },
+  {
+    "id": "QMBWHU7X",
+    "type": "mcq",
+    "question": "La reparación por escisión de nucleótidos (NER) involucra:",
+    "options": [
+      "Telomerasa, helicasa, ligasa",
+      "Nucleasa, DNA polimerasa y ligasa",
+      "Primasa, topoisomerasa y helicasa",
+      "ARN polimerasa, ribosoma y endonucleasas"
+    ],
+    "answerIndex": 1,
+    "explanation": "Una nucleasa elimina el tramo dañado; DNA polimerasa rellena y ligasa sella."
+  },
+  {
+    "id": "QITT4RJH",
+    "type": "mcq",
+    "question": "¿Qué enzima une fragmentos de Okazaki creando enlaces fosfodiéster?",
+    "options": [
+      "Primasa",
+      "Ligasa",
+      "Topoisomerasa",
+      "RNasa H"
+    ],
+    "answerIndex": 1,
+    "explanation": "La ligasa sella rupturas en el esqueleto azúcar-fosfato."
+  },
+  {
+    "id": "QHC0ROZJ",
+    "type": "mcq",
+    "question": "La topoisomerasa actúa principalmente para:",
+    "options": [
+      "Introducir uracilo en DNA",
+      "Aliviar tensión por sobreenrollamiento",
+      "Marcar proteínas con 35S",
+      "Añadir cebadores"
+    ],
+    "answerIndex": 1,
+    "explanation": "Rompe, gira y vuelve a unir el DNA para aliviar superenrollamiento."
+  },
+  {
+    "id": "QWQPX894",
+    "type": "mcq",
+    "question": "En E. coli la velocidad de elongación ronda:",
+    "options": [
+      "5 nucleótidos/seg",
+      "50 nucleótidos/seg",
+      "500 nucleótidos/seg",
+      "5000 nucleótidos/seg"
+    ],
+    "answerIndex": 2,
+    "explanation": "Alrededor de 500 nt/s en bacterias; ~50 nt/s en células humanas."
+  },
+  {
+    "id": "QRXJ8G4J",
+    "type": "mcq",
+    "question": "El antiparalelismo en DNA implica que:",
+    "options": [
+      "Ambas hebras van 5'→5'",
+      "Una hebra va 5'→3' y la complementaria 3'→5'",
+      "Ambas van 3'→3'",
+      "No existe direccionalidad"
+    ],
+    "answerIndex": 1,
+    "explanation": "Las hebras están orientadas en direcciones opuestas."
+  },
+  {
+    "id": "Q9Q7L7JU",
+    "type": "mcq",
+    "question": "La exactitud de replicación mejora gracias a:",
+    "options": [
+      "Apareamiento inespecífico",
+      "Prueba y corrección de polimerasas",
+      "Uso de NTPs en lugar de dNTPs",
+      "Emparejar purina con purina"
+    ],
+    "answerIndex": 1,
+    "explanation": "Las polimerasas corrigen nucleótidos mal incorporados (proofreading)."
+  },
+  {
+    "id": "QFJLUU7X",
+    "type": "mcq",
+    "question": "En el experimento de Griffith, el rasgo heredado fue:",
+    "options": [
+      "Resistencia a antibióticos",
+      "Patogenicidad",
+      "Fluorescencia",
+      "Motilidad"
+    ],
+    "answerIndex": 1,
+    "explanation": "Las bacterias R adquirieron la capacidad patógena de las S muertas por calor."
+  },
+  {
+    "id": "QI9UQW3H",
+    "type": "mcq",
+    "question": "Un dimero de timina es causado típicamente por:",
+    "options": [
+      "Luz ultravioleta",
+      "Rayos gamma",
+      "Calor moderado",
+      "Baja salinidad"
+    ],
+    "answerIndex": 0,
+    "explanation": "La radiación UV forma enlaces covalentes entre timinas adyacentes."
+  },
+  {
+    "id": "QRHMQI3V",
+    "type": "mcq",
+    "question": "¿Qué componente está en el exterior de la doble hélice según el modelo?",
+    "options": [
+      "Bases nitrogenadas",
+      "Azúcar-fosfato",
+      "Grupos amino",
+      "Puentes disulfuro"
+    ],
+    "answerIndex": 1,
+    "explanation": "Los esqueletos azúcar-fosfato externos; bases en el interior apareadas."
+  },
+  {
+    "id": "Q7CXDAZ6",
+    "type": "mcq",
+    "question": "La 'burbuja de replicación' se observa:",
+    "options": [
+      "Solo en eucariotas",
+      "Solo en procariotas",
+      "En ambos, donde se separan hebras y avanzan horquillas",
+      "Solo en virus"
+    ],
+    "answerIndex": 2,
+    "explanation": "Es un rasgo universal de la replicación del DNA."
+  },
+  {
+    "id": "Q13WJBWM",
+    "type": "mcq",
+    "question": "En bacterias suele haber:",
+    "options": [
+      "Miles de orígenes por cromosoma",
+      "Un origen de replicación por cromosoma circular",
+      "Orígenes cambiantes cada ciclo",
+      "Ningún origen definido"
+    ],
+    "answerIndex": 1,
+    "explanation": "El cromosoma circular bacteriano tiene un origen principal (OriC)."
+  },
+  {
+    "id": "QE343R5U",
+    "type": "tf",
+    "question": "En la hebra adelantada se requiere un solo cebador de RNA para iniciar la síntesis continua.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La hebra adelantada se sintetiza de forma continua desde un único cebador."
+  },
+  {
+    "id": "Q0B54Q3Z",
+    "type": "tf",
+    "question": "Los fragmentos de Okazaki en eucariotas suelen ser más cortos que en bacterias.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "En eucariotas ~100–200 nt; en E. coli ~1000–2000 nt."
+  },
+  {
+    "id": "QPTMAS6M",
+    "type": "tf",
+    "question": "Las purinas (A y G) se aparean entre sí para mantener el diámetro uniforme de la hélice.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "El diámetro uniforme se logra apareando purina–pirimidina (A–T y G–C)."
+  },
+  {
+    "id": "QH624VV8",
+    "type": "tf",
+    "question": "La polimerasa de DNA añade nucleótidos al extremo 3' del cebador.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La elongación siempre es 5'→3' añadiendo al 3'OH disponible."
+  },
+  {
+    "id": "QEL7R95J",
+    "type": "tf",
+    "question": "En el modelo conservador, cada molécula hija contiene una mezcla de DNA nuevo y viejo en cada hebra.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "Eso describe el modelo dispersivo; el conservador mantendría intacta la molécula parental."
+  },
+  {
+    "id": "Q8MCVJA8",
+    "type": "tf",
+    "question": "El fago T2 contiene DNA y proteína; no contiene RNA.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "El T2 clásico está compuesto por DNA y cápside proteica."
+  },
+  {
+    "id": "QEO8ZSJL",
+    "type": "tf",
+    "question": "Las reglas de Chargaff se aplican idénticamente a RNA de cadena sencilla.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "Fueron descritas para DNA de doble cadena; no aplican igual a ssRNA."
+  },
+  {
+    "id": "Q604ULD3",
+    "type": "tf",
+    "question": "La nucleasa en NER corta el segmento dañado y la ligasa sella al final.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "NER: corte, relleno por polimerasa, sellado por ligasa."
+  },
+  {
+    "id": "QTU7O1GH",
+    "type": "tf",
+    "question": "La topoisomerasa aumenta la torsión positiva por delante de la horquilla.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "La topoisomerasa alivia la torsión, no la incrementa."
+  },
+  {
+    "id": "Q8RZED1Q",
+    "type": "tf",
+    "question": "Rosalind Franklin recibió el Premio Nobel junto a Watson y Crick en 1962.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "El Nobel fue para Watson, Crick y Wilkins; Franklin había fallecido en 1958."
+  },
+  {
+    "id": "QK4OCAUU",
+    "type": "mcq",
+    "question": "¿Qué característica del apareamiento de bases explica las reglas de Chargaff?",
+    "options": [
+      "Enlaces iónicos entre A–T y G–C",
+      "Dos H para A–T y tres H para G–C",
+      "Mismo peso molecular de todas las bases",
+      "Rotación libre de azúcares"
+    ],
+    "answerIndex": 1,
+    "explanation": "A–T forman 2 puentes de H; G–C forman 3, favoreciendo esos pares específicos."
+  },
+  {
+    "id": "Q9J4KOPI",
+    "type": "mcq",
+    "question": "En términos de fidelidad, los errores tras replicación y reparación rondan:",
+    "options": [
+      "1 por 10^3 nt",
+      "1 por 10^6 nt",
+      "1 por 10^9–10^10 nt",
+      "Cero errores"
+    ],
+    "answerIndex": 2,
+    "explanation": "La tasa efectiva es extremadamente baja, ~10^(-9) a 10^(-10) por nt."
+  },
+  {
+    "id": "QR7SAZ3Z",
+    "type": "mcq",
+    "question": "La función principal de la DNA polimerasa I en E. coli es:",
+    "options": [
+      "Sintetizar la mayor parte de la hebra adelantada",
+      "Reemplazar cebadores de RNA por DNA",
+      "Iniciar cebadores",
+      "Aliviar tensión torsional"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pol I sustituye los ribonucleótidos de los cebadores por desoxirribonucleótidos."
+  },
+  {
+    "id": "QF6SU6ZN",
+    "type": "mcq",
+    "question": "¿Cuál NO es un componente de un nucleótido de DNA?",
+    "options": [
+      "Desoxirribosa",
+      "Fosfato",
+      "Uracilo",
+      "Base nitrogenada"
+    ],
+    "answerIndex": 2,
+    "explanation": "Uracilo es típico de RNA; en DNA la base correspondiente es timina."
+  },
+  {
+    "id": "QA8UV5D4",
+    "type": "mcq",
+    "question": "¿Qué observación apoya que el DNA sea el material genético en eucariotas?",
+    "options": [
+      "La cantidad de DNA no cambia antes de la mitosis",
+      "El DNA se duplica antes de la mitosis y se reparte a hijas",
+      "Las proteínas se duplican solo en G2",
+      "El RNA es doble cadena en cromosomas"
+    ],
+    "answerIndex": 1,
+    "explanation": "El DNA aumenta previo a la división y se distribuye equitativamente."
+  },
+  {
+    "id": "QTHON15Q",
+    "type": "mcq",
+    "question": "Una consecuencia del antiparalelismo es que:",
+    "options": [
+      "Las polimerasas trabajan 3'→5' en la hebra retrasada",
+      "Ambas hebras se sintetizan 5'→3' pero una de forma discontinua",
+      "Las bases giran 180°",
+      "Se requieren dos helicasas"
+    ],
+    "answerIndex": 1,
+    "explanation": "Las polimerasas siempre sintetizan 5'→3'; la hebra retrasada debe ser discontinua."
+  },
+  {
+    "id": "Q720MA43",
+    "type": "mcq",
+    "question": "El cebador de RNA típico tiene una longitud aproximada de:",
+    "options": [
+      "1–2 nt",
+      "5–10 nt",
+      "50–100 nt",
+      "200–500 nt"
+    ],
+    "answerIndex": 1,
+    "explanation": "Los cebadores suelen ser cortos (≈5–10 nt)."
+  },
+  {
+    "id": "Q7VOWQ0E",
+    "type": "mcq",
+    "question": "El paso helicoidal (distancia por vuelta) aproximado del DNA B es:",
+    "options": [
+      "0,34 nm",
+      "1,7 nm",
+      "3,4 nm",
+      "34 nm"
+    ],
+    "answerIndex": 2,
+    "explanation": "≈3,4 nm por vuelta con ~10 pares de bases (0,34 nm por par)."
+  },
+  {
+    "id": "QME25UAX",
+    "type": "mcq",
+    "question": "¿Qué componente se mantiene generalmente fuera de la célula huésped durante la infección por fago T2?",
+    "options": [
+      "El DNA del fago",
+      "La proteína de la cápside",
+      "El fósforo radiactivo",
+      "Los iones Mg2+"
+    ],
+    "answerIndex": 1,
+    "explanation": "La cápside queda fuera; el DNA entra a la bacteria."
+  },
+  {
+    "id": "QJRM4OS3",
+    "type": "mcq",
+    "question": "La evidencia de que la composición de bases varía entre especies sugiere:",
+    "options": [
+      "Que la proteína es el material genético",
+      "Que el DNA es demasiado uniforme",
+      "Diversidad suficiente para codificar información",
+      "Que A=T siempre 40%"
+    ],
+    "answerIndex": 2,
+    "explanation": "La variación entre especies respalda la capacidad informacional del DNA."
+  },
+  {
+    "id": "QS1JFWCE",
+    "type": "tf",
+    "question": "Los dNTPs liberan pirofosfato al incorporarse, impulsando la reacción de polimerización.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La hidrólisis del pirofosfato hace termodinámicamente favorable la síntesis."
+  },
+  {
+    "id": "QDJSGWYX",
+    "type": "tf",
+    "question": "La hebra retrasada se sintetiza hacia la horquilla de replicación.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "Se sintetiza alejándose de la horquilla, en segmentos sucesivos."
+  },
+  {
+    "id": "QXO7C8NU",
+    "type": "tf",
+    "question": "Las proteínas de unión a cadena sencilla estabilizan DNA de doble cadena.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "Se unen a DNA monocatenario para evitar el re-apareamiento."
+  },
+  {
+    "id": "QHES6RSF",
+    "type": "tf",
+    "question": "Los orígenes de replicación en eucariotas suelen ser múltiples por cromosoma.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Múltiples orígenes permiten acelerar la duplicación de cromosomas largos."
+  },
+  {
+    "id": "QD1DPDA4",
+    "type": "tf",
+    "question": "El modelo de tres cadenas para el DNA fue finalmente aceptado por la comunidad científica.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "El modelo correcto es de doble hélice (Watson y Crick)."
+  },
+  {
+    "id": "QDE116F3",
+    "type": "mcq",
+    "question": "¿Qué base es una pirimidina?",
+    "options": [
+      "Adenina",
+      "Guanina",
+      "Citosina",
+      "Adenosina"
+    ],
+    "answerIndex": 2,
+    "explanation": "Citosina y timina son pirimidinas; adenina y guanina son purinas."
+  },
+  {
+    "id": "Q8FHDAMB",
+    "type": "mcq",
+    "question": "¿Cuántos anillos tienen las purinas?",
+    "options": [
+      "Uno",
+      "Dos",
+      "Tres",
+      "Cuatro"
+    ],
+    "answerIndex": 1,
+    "explanation": "Las purinas tienen dos anillos; pirimidinas, uno."
+  },
+  {
+    "id": "QM1MFSS8",
+    "type": "mcq",
+    "question": "La timina se aparea con:",
+    "options": [
+      "Adenina",
+      "Citosina",
+      "Guanina",
+      "Uracilo"
+    ],
+    "answerIndex": 0,
+    "explanation": "En DNA, A–T y G–C."
+  },
+  {
+    "id": "QYS0F8HV",
+    "type": "mcq",
+    "question": "¿Qué enzima rellena huecos tras NER?",
+    "options": [
+      "DNA polimerasa",
+      "RNasa A",
+      "Amilasa",
+      "Proteasa"
+    ],
+    "answerIndex": 0,
+    "explanation": "La DNA polimerasa reincorpora nucleótidos correctos."
+  },
+  {
+    "id": "QT0OPWQL",
+    "type": "mcq",
+    "question": "El diámetro aproximado de la doble hélice B-DNA es:",
+    "options": [
+      "0,2 nm",
+      "2 nm",
+      "20 nm",
+      "200 nm"
+    ],
+    "answerIndex": 1,
+    "explanation": "El diámetro es ~2 nm."
+  },
+  {
+    "id": "QL7GNXUK",
+    "type": "mcq",
+    "question": "¿Qué científico midió composiciones de bases en diferentes especies?",
+    "options": [
+      "Martha Chase",
+      "Erwin Chargaff",
+      "Colin MacLeod",
+      "Linus Pauling"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chargaff estableció sus reglas a partir de estos análisis."
+  },
+  {
+    "id": "Q0GX9BQX",
+    "type": "mcq",
+    "question": "¿Qué se observa tras la primera ronda de Meselson-Stahl en 14N?",
+    "options": [
+      "Una banda pesada",
+      "Una banda ligera",
+      "Una banda intermedia (híbrida)",
+      "Dos bandas (pesada y ligera)"
+    ],
+    "answerIndex": 2,
+    "explanation": "La primera ronda produce DNA híbrido."
+  },
+  {
+    "id": "Q4ILOOG2",
+    "type": "mcq",
+    "question": "La función de RNasa H en algunos sistemas de replicación es:",
+    "options": [
+      "Eliminar cebadores de RNA",
+      "Agregar cebadores",
+      "Unir fragmentos",
+      "Desenrollar DNA"
+    ],
+    "answerIndex": 0,
+    "explanation": "RNasa H puede retirar los cebadores de RNA."
+  },
+  {
+    "id": "QIVOMQC0",
+    "type": "mcq",
+    "question": "¿Cuál opción describe mejor un virus?",
+    "options": [
+      "Célula procariota",
+      "DNA o RNA en cápside proteica",
+      "Organelo eucariota",
+      "Proteína sin ácidos nucleicos"
+    ],
+    "answerIndex": 1,
+    "explanation": "Virus: ácido nucleico + cápside."
+  },
+  {
+    "id": "Q0RZSRL7",
+    "type": "mcq",
+    "question": "Las horquillas de replicación avanzan:",
+    "options": [
+      "Solo en una dirección desde el origen",
+      "En ambas direcciones desde el origen",
+      "No se mueven",
+      "Desde telómeros hacia centromero"
+    ],
+    "answerIndex": 1,
+    "explanation": "La replicación es bidireccional desde cada origen."
+  },
+  {
+    "id": "QB8EWTEI",
+    "type": "mcq",
+    "question": "¿Qué base es una pirimidina?",
+    "options": [
+      "Adenina",
+      "Guanina",
+      "Citosina",
+      "Adenosina"
+    ],
+    "answerIndex": 2,
+    "explanation": "Citosina y timina son pirimidinas; adenina y guanina son purinas."
+  },
+  {
+    "id": "QEAC7GAN",
+    "type": "mcq",
+    "question": "¿Cuántos anillos tienen las purinas?",
+    "options": [
+      "Uno",
+      "Dos",
+      "Tres",
+      "Cuatro"
+    ],
+    "answerIndex": 1,
+    "explanation": "Las purinas tienen dos anillos; pirimidinas, uno."
+  },
+  {
+    "id": "QB0U65IK",
+    "type": "mcq",
+    "question": "La timina se aparea con:",
+    "options": [
+      "Adenina",
+      "Citosina",
+      "Guanina",
+      "Uracilo"
+    ],
+    "answerIndex": 0,
+    "explanation": "En DNA, A–T y G–C."
+  },
+  {
+    "id": "Q73IVLBQ",
+    "type": "mcq",
+    "question": "¿Qué enzima rellena huecos tras NER?",
+    "options": [
+      "DNA polimerasa",
+      "RNasa A",
+      "Amilasa",
+      "Proteasa"
+    ],
+    "answerIndex": 0,
+    "explanation": "La DNA polimerasa reincorpora nucleótidos correctos."
+  },
+  {
+    "id": "QF22U5I4",
+    "type": "mcq",
+    "question": "El diámetro aproximado de la doble hélice B-DNA es:",
+    "options": [
+      "0,2 nm",
+      "2 nm",
+      "20 nm",
+      "200 nm"
+    ],
+    "answerIndex": 1,
+    "explanation": "El diámetro es ~2 nm."
+  },
+  {
+    "id": "QWTQJ5IL",
+    "type": "mcq",
+    "question": "¿Qué científico midió composiciones de bases en diferentes especies?",
+    "options": [
+      "Martha Chase",
+      "Erwin Chargaff",
+      "Colin MacLeod",
+      "Linus Pauling"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chargaff estableció sus reglas a partir de estos análisis."
+  },
+  {
+    "id": "Q651APXV",
+    "type": "mcq",
+    "question": "¿Qué se observa tras la primera ronda de Meselson-Stahl en 14N?",
+    "options": [
+      "Una banda pesada",
+      "Una banda ligera",
+      "Una banda intermedia (híbrida)",
+      "Dos bandas (pesada y ligera)"
+    ],
+    "answerIndex": 2,
+    "explanation": "La primera ronda produce DNA híbrido."
+  },
+  {
+    "id": "QM75X3R6",
+    "type": "mcq",
+    "question": "La función de RNasa H en algunos sistemas de replicación es:",
+    "options": [
+      "Eliminar cebadores de RNA",
+      "Agregar cebadores",
+      "Unir fragmentos",
+      "Desenrollar DNA"
+    ],
+    "answerIndex": 0,
+    "explanation": "RNasa H puede retirar los cebadores de RNA."
+  },
+  {
+    "id": "QN252WZ9",
+    "type": "mcq",
+    "question": "¿Cuál opción describe mejor un virus?",
+    "options": [
+      "Célula procariota",
+      "DNA o RNA en cápside proteica",
+      "Organelo eucariota",
+      "Proteína sin ácidos nucleicos"
+    ],
+    "answerIndex": 1,
+    "explanation": "Virus: ácido nucleico + cápside."
+  },
+  {
+    "id": "Q0BAI1NC",
+    "type": "mcq",
+    "question": "Las horquillas de replicación avanzan:",
+    "options": [
+      "Solo en una dirección desde el origen",
+      "En ambas direcciones desde el origen",
+      "No se mueven",
+      "Desde telómeros hacia centromero"
+    ],
+    "answerIndex": 1,
+    "explanation": "La replicación es bidireccional desde cada origen."
+  },
+  {
+    "id": "QKCLBYXG",
+    "type": "mcq",
+    "question": "¿Qué base es una pirimidina?",
+    "options": [
+      "Adenina",
+      "Guanina",
+      "Citosina",
+      "Adenosina"
+    ],
+    "answerIndex": 2,
+    "explanation": "Citosina y timina son pirimidinas; adenina y guanina son purinas."
+  },
+  {
+    "id": "QUNOKK6A",
+    "type": "mcq",
+    "question": "¿Cuántos anillos tienen las purinas?",
+    "options": [
+      "Uno",
+      "Dos",
+      "Tres",
+      "Cuatro"
+    ],
+    "answerIndex": 1,
+    "explanation": "Las purinas tienen dos anillos; pirimidinas, uno."
+  },
+  {
+    "id": "QIHDM2P9",
+    "type": "mcq",
+    "question": "La timina se aparea con:",
+    "options": [
+      "Adenina",
+      "Citosina",
+      "Guanina",
+      "Uracilo"
+    ],
+    "answerIndex": 0,
+    "explanation": "En DNA, A–T y G–C."
+  },
+  {
+    "id": "QWWOD7H2",
+    "type": "mcq",
+    "question": "¿Qué enzima rellena huecos tras NER?",
+    "options": [
+      "DNA polimerasa",
+      "RNasa A",
+      "Amilasa",
+      "Proteasa"
+    ],
+    "answerIndex": 0,
+    "explanation": "La DNA polimerasa reincorpora nucleótidos correctos."
+  },
+  {
+    "id": "QQ27KZV3",
+    "type": "mcq",
+    "question": "El diámetro aproximado de la doble hélice B-DNA es:",
+    "options": [
+      "0,2 nm",
+      "2 nm",
+      "20 nm",
+      "200 nm"
+    ],
+    "answerIndex": 1,
+    "explanation": "El diámetro es ~2 nm."
+  },
+  {
+    "id": "Q5HC2Y21",
+    "type": "mcq",
+    "question": "¿Qué científico midió composiciones de bases en diferentes especies?",
+    "options": [
+      "Martha Chase",
+      "Erwin Chargaff",
+      "Colin MacLeod",
+      "Linus Pauling"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chargaff estableció sus reglas a partir de estos análisis."
+  },
+  {
+    "id": "QH4CRHWU",
+    "type": "mcq",
+    "question": "¿Qué se observa tras la primera ronda de Meselson-Stahl en 14N?",
+    "options": [
+      "Una banda pesada",
+      "Una banda ligera",
+      "Una banda intermedia (híbrida)",
+      "Dos bandas (pesada y ligera)"
+    ],
+    "answerIndex": 2,
+    "explanation": "La primera ronda produce DNA híbrido."
+  },
+  {
+    "id": "QY0GDAYB",
+    "type": "mcq",
+    "question": "La función de RNasa H en algunos sistemas de replicación es:",
+    "options": [
+      "Eliminar cebadores de RNA",
+      "Agregar cebadores",
+      "Unir fragmentos",
+      "Desenrollar DNA"
+    ],
+    "answerIndex": 0,
+    "explanation": "RNasa H puede retirar los cebadores de RNA."
+  },
+  {
+    "id": "QC78VUM4",
+    "type": "mcq",
+    "question": "¿Cuál opción describe mejor un virus?",
+    "options": [
+      "Célula procariota",
+      "DNA o RNA en cápside proteica",
+      "Organelo eucariota",
+      "Proteína sin ácidos nucleicos"
+    ],
+    "answerIndex": 1,
+    "explanation": "Virus: ácido nucleico + cápside."
+  },
+  {
+    "id": "QZGOMBA6",
+    "type": "mcq",
+    "question": "Las horquillas de replicación avanzan:",
+    "options": [
+      "Solo en una dirección desde el origen",
+      "En ambas direcciones desde el origen",
+      "No se mueven",
+      "Desde telómeros hacia centromero"
+    ],
+    "answerIndex": 1,
+    "explanation": "La replicación es bidireccional desde cada origen."
+  },
+  {
+    "id": "QU11DEV9",
+    "type": "mcq",
+    "question": "¿Qué base es una pirimidina?",
+    "options": [
+      "Adenina",
+      "Guanina",
+      "Citosina",
+      "Adenosina"
+    ],
+    "answerIndex": 2,
+    "explanation": "Citosina y timina son pirimidinas; adenina y guanina son purinas."
+  },
+  {
+    "id": "QDY8EN6B",
+    "type": "mcq",
+    "question": "¿Cuántos anillos tienen las purinas?",
+    "options": [
+      "Uno",
+      "Dos",
+      "Tres",
+      "Cuatro"
+    ],
+    "answerIndex": 1,
+    "explanation": "Las purinas tienen dos anillos; pirimidinas, uno."
+  },
+  {
+    "id": "Q0T1KBYW",
+    "type": "mcq",
+    "question": "La timina se aparea con:",
+    "options": [
+      "Adenina",
+      "Citosina",
+      "Guanina",
+      "Uracilo"
+    ],
+    "answerIndex": 0,
+    "explanation": "En DNA, A–T y G–C."
+  },
+  {
+    "id": "QV13N469",
+    "type": "mcq",
+    "question": "¿Qué enzima rellena huecos tras NER?",
+    "options": [
+      "DNA polimerasa",
+      "RNasa A",
+      "Amilasa",
+      "Proteasa"
+    ],
+    "answerIndex": 0,
+    "explanation": "La DNA polimerasa reincorpora nucleótidos correctos."
+  },
+  {
+    "id": "Q6SOBN73",
+    "type": "mcq",
+    "question": "El diámetro aproximado de la doble hélice B-DNA es:",
+    "options": [
+      "0,2 nm",
+      "2 nm",
+      "20 nm",
+      "200 nm"
+    ],
+    "answerIndex": 1,
+    "explanation": "El diámetro es ~2 nm."
+  },
+  {
+    "id": "Q0HGYSNX",
+    "type": "mcq",
+    "question": "¿Qué científico midió composiciones de bases en diferentes especies?",
+    "options": [
+      "Martha Chase",
+      "Erwin Chargaff",
+      "Colin MacLeod",
+      "Linus Pauling"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chargaff estableció sus reglas a partir de estos análisis."
+  },
+  {
+    "id": "QYT83IQ8",
+    "type": "mcq",
+    "question": "¿Qué se observa tras la primera ronda de Meselson-Stahl en 14N?",
+    "options": [
+      "Una banda pesada",
+      "Una banda ligera",
+      "Una banda intermedia (híbrida)",
+      "Dos bandas (pesada y ligera)"
+    ],
+    "answerIndex": 2,
+    "explanation": "La primera ronda produce DNA híbrido."
+  },
+  {
+    "id": "QNQTBZYK",
+    "type": "mcq",
+    "question": "La función de RNasa H en algunos sistemas de replicación es:",
+    "options": [
+      "Eliminar cebadores de RNA",
+      "Agregar cebadores",
+      "Unir fragmentos",
+      "Desenrollar DNA"
+    ],
+    "answerIndex": 0,
+    "explanation": "RNasa H puede retirar los cebadores de RNA."
+  },
+  {
+    "id": "QC6H302Z",
+    "type": "mcq",
+    "question": "¿Cuál opción describe mejor un virus?",
+    "options": [
+      "Célula procariota",
+      "DNA o RNA en cápside proteica",
+      "Organelo eucariota",
+      "Proteína sin ácidos nucleicos"
+    ],
+    "answerIndex": 1,
+    "explanation": "Virus: ácido nucleico + cápside."
+  },
+  {
+    "id": "QT1HJXE7",
+    "type": "mcq",
+    "question": "Las horquillas de replicación avanzan:",
+    "options": [
+      "Solo en una dirección desde el origen",
+      "En ambas direcciones desde el origen",
+      "No se mueven",
+      "Desde telómeros hacia centromero"
+    ],
+    "answerIndex": 1,
+    "explanation": "La replicación es bidireccional desde cada origen."
+  },
+  {
+    "id": "QQLUVVS0",
+    "type": "mcq",
+    "question": "¿Qué base es una pirimidina?",
+    "options": [
+      "Adenina",
+      "Guanina",
+      "Citosina",
+      "Adenosina"
+    ],
+    "answerIndex": 2,
+    "explanation": "Citosina y timina son pirimidinas; adenina y guanina son purinas."
+  },
+  {
+    "id": "QDCPEWMG",
+    "type": "mcq",
+    "question": "¿Cuántos anillos tienen las purinas?",
+    "options": [
+      "Uno",
+      "Dos",
+      "Tres",
+      "Cuatro"
+    ],
+    "answerIndex": 1,
+    "explanation": "Las purinas tienen dos anillos; pirimidinas, uno."
+  },
+  {
+    "id": "QZ6CMN1C",
+    "type": "mcq",
+    "question": "La timina se aparea con:",
+    "options": [
+      "Adenina",
+      "Citosina",
+      "Guanina",
+      "Uracilo"
+    ],
+    "answerIndex": 0,
+    "explanation": "En DNA, A–T y G–C."
+  },
+  {
+    "id": "QJ5E3JMS",
+    "type": "mcq",
+    "question": "¿Qué enzima rellena huecos tras NER?",
+    "options": [
+      "DNA polimerasa",
+      "RNasa A",
+      "Amilasa",
+      "Proteasa"
+    ],
+    "answerIndex": 0,
+    "explanation": "La DNA polimerasa reincorpora nucleótidos correctos."
+  },
+  {
+    "id": "QG8VCBKK",
+    "type": "mcq",
+    "question": "El diámetro aproximado de la doble hélice B-DNA es:",
+    "options": [
+      "0,2 nm",
+      "2 nm",
+      "20 nm",
+      "200 nm"
+    ],
+    "answerIndex": 1,
+    "explanation": "El diámetro es ~2 nm."
+  },
+  {
+    "id": "Q3KQ6K0K",
+    "type": "mcq",
+    "question": "¿Qué científico midió composiciones de bases en diferentes especies?",
+    "options": [
+      "Martha Chase",
+      "Erwin Chargaff",
+      "Colin MacLeod",
+      "Linus Pauling"
+    ],
+    "answerIndex": 1,
+    "explanation": "Chargaff estableció sus reglas a partir de estos análisis."
+  },
+  {
+    "id": "Q6CQJ1X3",
+    "type": "mcq",
+    "question": "¿Qué se observa tras la primera ronda de Meselson-Stahl en 14N?",
+    "options": [
+      "Una banda pesada",
+      "Una banda ligera",
+      "Una banda intermedia (híbrida)",
+      "Dos bandas (pesada y ligera)"
+    ],
+    "answerIndex": 2,
+    "explanation": "La primera ronda produce DNA híbrido."
+  },
+  {
+    "id": "QS7K3V2I",
+    "type": "mcq",
+    "question": "La función de RNasa H en algunos sistemas de replicación es:",
+    "options": [
+      "Eliminar cebadores de RNA",
+      "Agregar cebadores",
+      "Unir fragmentos",
+      "Desenrollar DNA"
+    ],
+    "answerIndex": 0,
+    "explanation": "RNasa H puede retirar los cebadores de RNA."
+  },
+  {
+    "id": "QP7XHZ6H",
+    "type": "mcq",
+    "question": "¿Cuál opción describe mejor un virus?",
+    "options": [
+      "Célula procariota",
+      "DNA o RNA en cápside proteica",
+      "Organelo eucariota",
+      "Proteína sin ácidos nucleicos"
+    ],
+    "answerIndex": 1,
+    "explanation": "Virus: ácido nucleico + cápside."
+  },
+  {
+    "id": "QKMERNMP",
+    "type": "mcq",
+    "question": "Las horquillas de replicación avanzan:",
+    "options": [
+      "Solo en una dirección desde el origen",
+      "En ambas direcciones desde el origen",
+      "No se mueven",
+      "Desde telómeros hacia centromero"
+    ],
+    "answerIndex": 1,
+    "explanation": "La replicación es bidireccional desde cada origen."
+  },
+  {
+    "id": "QTQMW69L",
+    "type": "mcq",
+    "question": "¿Qué base es una pirimidina?",
+    "options": [
+      "Adenina",
+      "Guanina",
+      "Citosina",
+      "Adenosina"
+    ],
+    "answerIndex": 2,
+    "explanation": "Citosina y timina son pirimidinas; adenina y guanina son purinas."
+  },
+  {
+    "id": "QC92TXDH",
+    "type": "mcq",
+    "question": "¿Cuántos anillos tienen las purinas?",
+    "options": [
+      "Uno",
+      "Dos",
+      "Tres",
+      "Cuatro"
+    ],
+    "answerIndex": 1,
+    "explanation": "Las purinas tienen dos anillos; pirimidinas, uno."
+  },
+  {
+    "id": "QGYF2NPS",
+    "type": "mcq",
+    "question": "La timina se aparea con:",
+    "options": [
+      "Adenina",
+      "Citosina",
+      "Guanina",
+      "Uracilo"
+    ],
+    "answerIndex": 0,
+    "explanation": "En DNA, A–T y G–C."
+  },
+  {
+    "id": "QZIUSCYK",
+    "type": "mcq",
+    "question": "¿Qué enzima rellena huecos tras NER?",
+    "options": [
+      "DNA polimerasa",
+      "RNasa A",
+      "Amilasa",
+      "Proteasa"
+    ],
+    "answerIndex": 0,
+    "explanation": "La DNA polimerasa reincorpora nucleótidos correctos."
+  },
+  {
+    "id": "Q4M9VGYS",
+    "type": "mcq",
+    "question": "El diámetro aproximado de la doble hélice B-DNA es:",
+    "options": [
+      "0,2 nm",
+      "2 nm",
+      "20 nm",
+      "200 nm"
+    ],
+    "answerIndex": 1,
+    "explanation": "El diámetro es ~2 nm."
+  }
+]

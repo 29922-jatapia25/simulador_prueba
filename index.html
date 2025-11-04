@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Simulador de Prueba — Biología Molecular (Campbell &amp; Reece)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <div class="logo">🧬</div>
+      <div class="titles">
+        <h1>Simulador de Prueba</h1>
+        <p>Cap. 16 — Bases moleculares de la herencia (Campbell &amp; Reece)</p>
+      </div>
+    </div>
+    <div class="actions">
+      <button id="btn-import" class="btn ghost">Importar preguntas (JSON)</button>
+      <a class="btn ghost" href="questions.json" download>Descargar banco (JSON)</a>
+      <button id="btn-help" class="btn ghost">Ayuda</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="setup" class="card">
+      <h2>Configura tu simulación</h2>
+      <div class="grid">
+        <div class="field">
+          <label for="num-questions">Número de preguntas</label>
+          <input id="num-questions" type="number" min="5" max="120" step="5" value="50" />
+          <small>El banco incluye 100 preguntas (MCQ y V/F).</small>
+        </div>
+        <div class="field">
+          <label for="time-limit">Límite de tiempo (minutos)</label>
+          <input id="time-limit" type="number" min="5" max="180" step="5" value="60" />
+          <small>Puedes desactivar el tiempo marcando <em>sin límite</em>.</small>
+        </div>
+        <div class="field checkbox">
+          <input id="no-timer" type="checkbox" />
+          <label for="no-timer">Sin límite de tiempo</label>
+        </div>
+        <div class="field checkbox">
+          <input id="shuffle" type="checkbox" checked />
+          <label for="shuffle">Barajar preguntas y alternativas</label>
+        </div>
+      </div>
+      <div class="actions">
+        <button id="btn-start" class="btn primary">Comenzar simulación</button>
+      </div>
+    </section>
+
+    <section id="exam" class="hidden">
+      <div class="exam-topbar">
+        <div class="timer">
+          <span id="timer-icon">⏳</span>
+          <span id="timer-text">00:00:00</span>
+        </div>
+        <div class="progress">
+          <div id="progress-bar" class="progress-bar"></div>
+          <span id="progress-text">0 / 0</span>
+        </div>
+        <div class="exam-actions">
+          <button id="btn-mark" class="btn ghost">Marcar</button>
+          <button id="btn-clear" class="btn ghost">Limpiar respuesta</button>
+          <button id="btn-submit" class="btn danger">Finalizar</button>
+        </div>
+      </div>
+
+      <div class="exam-body">
+        <aside class="nav">
+          <h3>Navegación</h3>
+          <div id="grid"></div>
+          <div class="legend">
+            <span><i class="dot current"></i>Actual</span>
+            <span><i class="dot answered"></i>Respondida</span>
+            <span><i class="dot flagged"></i>Marcada</span>
+            <span><i class="dot blank"></i>En blanco</span>
+          </div>
+        </aside>
+        <section class="question-area">
+          <div id="qtext" class="qtext"></div>
+          <ul id="options" class="options"></ul>
+          <div class="q-actions">
+            <button id="prev" class="btn ghost">← Anterior</button>
+            <button id="next" class="btn ghost">Siguiente →</button>
+          </div>
+        </section>
+      </div>
+    </section>
+
+    <section id="results" class="card hidden">
+      <h2>Resultados</h2>
+      <div class="stats">
+        <div class="stat">
+          <div class="kpi" id="kpi-score">0%</div>
+          <div class="label">Puntaje</div>
+        </div>
+        <div class="stat">
+          <div class="kpi" id="kpi-correct">0</div>
+          <div class="label">Correctas</div>
+        </div>
+        <div class="stat">
+          <div class="kpi" id="kpi-wrong">0</div>
+          <div class="label">Incorrectas</div>
+        </div>
+        <div class="stat">
+          <div class="kpi" id="kpi-blank">0</div>
+          <div class="label">En blanco</div>
+        </div>
+        <div class="stat">
+          <div class="kpi" id="kpi-time">00:00:00</div>
+          <div class="label">Tiempo usado</div>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button id="btn-review" class="btn">Revisar respuestas</button>
+        <button id="btn-export" class="btn ghost">Exportar revisión (HTML)</button>
+        <button id="btn-restart" class="btn primary">Nueva simulación</button>
+      </div>
+
+      <div id="review" class="review hidden"></div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <p>Banco de preguntas basado en Campbell &amp; Reece, Capítulo 16 (uso académico).</p>
+    <p class="muted">Este simulador funciona 100% local (sin servidor). Guarda tu avance en este navegador.</p>
+  </footer>
+
+  <input id="file-input" type="file" accept="application/json" hidden />
+  <dialog id="helpDialog">
+    <h3>Ayuda</h3>
+    <ol>
+      <li>Ajusta el número de preguntas y tiempo.</li>
+      <li>Haz clic en <strong>Comenzar</strong> para iniciar.</li>
+      <li>Navega desde la rejilla lateral o con Anterior/Siguiente.</li>
+      <li>Puedes <em>marcar</em> ítems para revisar luego.</li>
+      <li>Al finalizar, obtén puntaje y revisión con explicaciones.</li>
+      <li>Usa <strong>Exportar</strong> para guardar tu revisión como HTML.</li>
+    </ol>
+    <form method="dialog">
+      <button class="btn primary">Cerrar</button>
+    </form>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>
