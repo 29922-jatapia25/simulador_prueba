@@ -1,1272 +1,732 @@
 [
   {
-    "id": "Q2319TUZ",
-    "type": "mcq",
-    "question": "¿Cuál de los siguientes científicos observó por primera vez la 'transformación' en bacterias al mezclar cepas patógenas muertas por calor con cepas no patógenas vivas?",
+    "id": "QNEW1713",
+    "type": "tf",
+    "question": "La replicación del ADN ocurre durante la fase S del ciclo celular.",
     "options": [
-      "Oswald Avery",
-      "Frederick Griffith",
-      "Alfred Hershey",
-      "Erwin Chargaff"
+      "Verdadero",
+      "Falso"
     ],
-    "answerIndex": 1,
-    "explanation": "En 1928, Griffith describió la transformación en Streptococcus pneumoniae, mostrando la adquisición heredable de patogenicidad."
+    "answerIndex": 0,
+    "explanation": "Durante la fase S del ciclo celular, el ADN se duplica por completo."
   },
   {
-    "id": "QX5CH6UR",
-    "type": "mcq",
-    "question": "El experimento de Hershey y Chase con el fago T2 demostró que el material genético del virus era:",
+    "id": "QNEW8596",
+    "type": "tf",
+    "question": "La replicación del ADN es un proceso semiconservador.",
     "options": [
-      "Proteína, al detectarse azufre radiactivo dentro de E. coli",
-      "RNA, al detectarse uracilo radiactivo en el precipitado",
-      "DNA, al detectarse fósforo radiactivo dentro de E. coli",
-      "Carbohidrato, al detectarse glucosa marcada en el sobrenadante"
+      "Verdadero",
+      "Falso"
     ],
-    "answerIndex": 2,
-    "explanation": "Marcaron proteínas con 35S y DNA con 32P; solo el 32P ingresó a las bacterias, indicando que el DNA programa la maquinaria celular."
+    "answerIndex": 0,
+    "explanation": "Cada molécula hija conserva una hebra parental y una nueva."
   },
   {
-    "id": "QT7R1AO8",
-    "type": "mcq",
-    "question": "Las reglas de Chargaff establecen que en el DNA de una especie dada:",
+    "id": "QNEW9617",
+    "type": "tf",
+    "question": "La ADN polimerasa necesita un cebador para iniciar la síntesis.",
     "options": [
-      "A = G y C = T",
-      "A = T y G = C",
-      "A + T = G + C en todos los casos",
-      "La proporción A/T varía libremente entre especies"
+      "Verdadero",
+      "Falso"
     ],
-    "answerIndex": 1,
-    "explanation": "Chargaff encontró que A ≈ T y G ≈ C, aunque la composición total varía entre especies."
+    "answerIndex": 0,
+    "explanation": "La enzima requiere un extremo 3'OH libre para añadir nucleótidos."
   },
   {
-    "id": "QUO6D3XB",
-    "type": "mcq",
-    "question": "¿Qué aportó la foto de difracción de rayos X de Rosalind Franklin para el modelo de DNA?",
+    "id": "QNEW4435",
+    "type": "tf",
+    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN.",
     "options": [
-      "Confirmó que el DNA era una hélice triple",
-      "Reveló la anchura y el paso de la doble hélice",
-      "Demostró la secuencia exacta de bases",
-      "Mostró los telómeros en eucariotas"
+      "Verdadero",
+      "Falso"
     ],
-    "answerIndex": 1,
-    "explanation": "La fotografía permitió inferir que el DNA era helicoidal, el diámetro (~2 nm) y el intervalo (~3,4 nm por vuelta)."
+    "answerIndex": 0,
+    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "Q71SVXZZ",
-    "type": "mcq",
-    "question": "El modelo de replicación del DNA confirmado por Meselson y Stahl fue:",
+    "id": "QNEW9825",
+    "type": "tf",
+    "question": "Los fragmentos de Okazaki se forman en la hebra retardada.",
     "options": [
-      "Conservador",
-      "Semiconservador",
-      "Dispersivo",
-      "Transposicional"
+      "Verdadero",
+      "Falso"
     ],
-    "answerIndex": 1,
-    "explanation": "Tras dos rondas en 14N, observaron bandas compatibles con el modelo semiconservador."
+    "answerIndex": 0,
+    "explanation": "Se sintetizan de forma discontinua en la hebra retrasada."
   },
   {
-    "id": "QQ64TC2A",
+    "id": "QNEW7112",
     "type": "mcq",
-    "question": "Durante la replicación, la DNA polimerasa extiende la cadena naciente:",
-    "options": [
-      "Solo en dirección 3'→5'",
-      "En ambas direcciones",
-      "Solo en dirección 5'→3'",
-      "Solo cuando hay dNTPs con ribosa"
-    ],
-    "answerIndex": 2,
-    "explanation": "La síntesis de DNA siempre ocurre en dirección 5'→3' añadiendo nucleótidos al extremo 3' libre."
-  },
-  {
-    "id": "Q2XG19T9",
-    "type": "mcq",
-    "question": "¿Qué enzima separa las hebras parentales de DNA en la horquilla de replicación?",
+    "question": "¿Qué enzima sintetiza los cebadores de ARN durante la replicación?",
     "options": [
       "Ligasa",
       "Primasa",
+      "Topoisomerasa",
+      "Helicasa"
+    ],
+    "answerIndex": 1,
+    "explanation": "La primasa genera pequeños fragmentos de ARN que sirven como punto de inicio."
+  },
+  {
+    "id": "QNEW4438",
+    "type": "mcq",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN?",
+    "options": [
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
+    ],
+    "answerIndex": 0,
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
+  },
+  {
+    "id": "QNEW6815",
+    "type": "mcq",
+    "question": "¿Qué función cumple la ADN ligasa?",
+    "options": [
+      "Eliminar cebadores",
+      "Sella fragmentos de Okazaki",
+      "Desenrollar ADN",
+      "Iniciar síntesis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Une fragmentos de ADN mediante enlaces fosfodiéster."
+  },
+  {
+    "id": "QNEW2095",
+    "type": "mcq",
+    "question": "¿Qué enzima evita el superenrollamiento delante de la horquilla de replicación?",
+    "options": [
       "Helicasa",
-      "Topoisomerasa"
-    ],
-    "answerIndex": 2,
-    "explanation": "La helicasa desenrolla y separa las hebras para permitir el copiado."
-  },
-  {
-    "id": "Q9RVFUQ6",
-    "type": "mcq",
-    "question": "Los fragmentos de Okazaki se sintetizan:",
-    "options": [
-      "En la hebra adelantada",
-      "Solo en procariotas",
-      "En la hebra retrasada como segmentos cortos",
-      "Únicamente por polimerasa I"
-    ],
-    "answerIndex": 2,
-    "explanation": "La hebra retrasada se sintetiza de forma discontinua en fragmentos que luego se unen por ligasa."
-  },
-  {
-    "id": "Q3AUSW76",
-    "type": "mcq",
-    "question": "¿Cuál es la función principal de la primasa durante la replicación?",
-    "options": [
-      "Reparar errores de apareamiento",
-      "Insertar cebadores de RNA",
-      "Soldar huecos del esqueleto azúcar-fosfato",
-      "Aliviar la sobre-torsión del DNA"
-    ],
-    "answerIndex": 1,
-    "explanation": "La primasa sintetiza cebadores de RNA necesarios para que actúen las polimerasas de DNA."
-  },
-  {
-    "id": "QMBWHU7X",
-    "type": "mcq",
-    "question": "La reparación por escisión de nucleótidos (NER) involucra:",
-    "options": [
-      "Telomerasa, helicasa, ligasa",
-      "Nucleasa, DNA polimerasa y ligasa",
-      "Primasa, topoisomerasa y helicasa",
-      "ARN polimerasa, ribosoma y endonucleasas"
-    ],
-    "answerIndex": 1,
-    "explanation": "Una nucleasa elimina el tramo dañado; DNA polimerasa rellena y ligasa sella."
-  },
-  {
-    "id": "QITT4RJH",
-    "type": "mcq",
-    "question": "¿Qué enzima une fragmentos de Okazaki creando enlaces fosfodiéster?",
-    "options": [
-      "Primasa",
       "Ligasa",
       "Topoisomerasa",
-      "RNasa H"
-    ],
-    "answerIndex": 1,
-    "explanation": "La ligasa sella rupturas en el esqueleto azúcar-fosfato."
-  },
-  {
-    "id": "QHC0ROZJ",
-    "type": "mcq",
-    "question": "La topoisomerasa actúa principalmente para:",
-    "options": [
-      "Introducir uracilo en DNA",
-      "Aliviar tensión por sobreenrollamiento",
-      "Marcar proteínas con 35S",
-      "Añadir cebadores"
-    ],
-    "answerIndex": 1,
-    "explanation": "Rompe, gira y vuelve a unir el DNA para aliviar superenrollamiento."
-  },
-  {
-    "id": "QWQPX894",
-    "type": "mcq",
-    "question": "En E. coli la velocidad de elongación ronda:",
-    "options": [
-      "5 nucleótidos/seg",
-      "50 nucleótidos/seg",
-      "500 nucleótidos/seg",
-      "5000 nucleótidos/seg"
+      "Primasa"
     ],
     "answerIndex": 2,
-    "explanation": "Alrededor de 500 nt/s en bacterias; ~50 nt/s en células humanas."
+    "explanation": "La topoisomerasa corta y vuelve a unir el ADN para liberar tensión."
   },
   {
-    "id": "QRXJ8G4J",
+    "id": "QNEW6627",
     "type": "mcq",
-    "question": "El antiparalelismo en DNA implica que:",
+    "question": "¿Qué estructura se forma cuando el ADN comienza a replicarse?",
     "options": [
-      "Ambas hebras van 5'→5'",
-      "Una hebra va 5'→3' y la complementaria 3'→5'",
-      "Ambas van 3'→3'",
-      "No existe direccionalidad"
-    ],
-    "answerIndex": 1,
-    "explanation": "Las hebras están orientadas en direcciones opuestas."
-  },
-  {
-    "id": "Q9Q7L7JU",
-    "type": "mcq",
-    "question": "La exactitud de replicación mejora gracias a:",
-    "options": [
-      "Apareamiento inespecífico",
-      "Prueba y corrección de polimerasas",
-      "Uso de NTPs en lugar de dNTPs",
-      "Emparejar purina con purina"
-    ],
-    "answerIndex": 1,
-    "explanation": "Las polimerasas corrigen nucleótidos mal incorporados (proofreading)."
-  },
-  {
-    "id": "QFJLUU7X",
-    "type": "mcq",
-    "question": "En el experimento de Griffith, el rasgo heredado fue:",
-    "options": [
-      "Resistencia a antibióticos",
-      "Patogenicidad",
-      "Fluorescencia",
-      "Motilidad"
-    ],
-    "answerIndex": 1,
-    "explanation": "Las bacterias R adquirieron la capacidad patógena de las S muertas por calor."
-  },
-  {
-    "id": "QI9UQW3H",
-    "type": "mcq",
-    "question": "Un dimero de timina es causado típicamente por:",
-    "options": [
-      "Luz ultravioleta",
-      "Rayos gamma",
-      "Calor moderado",
-      "Baja salinidad"
+      "Horquilla de replicación",
+      "Telómero",
+      "Centrosoma",
+      "Cromátida"
     ],
     "answerIndex": 0,
-    "explanation": "La radiación UV forma enlaces covalentes entre timinas adyacentes."
+    "explanation": "Es la zona donde se separan las hebras y se inicia la síntesis."
   },
   {
-    "id": "QRHMQI3V",
+    "id": "QNEW9985",
     "type": "mcq",
-    "question": "¿Qué componente está en el exterior de la doble hélice según el modelo?",
+    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas?",
     "options": [
-      "Bases nitrogenadas",
-      "Azúcar-fosfato",
-      "Grupos amino",
-      "Puentes disulfuro"
+      "Helicasa",
+      "Telomerasa",
+      "Ligasa",
+      "ADN polimerasa III"
     ],
     "answerIndex": 1,
-    "explanation": "Los esqueletos azúcar-fosfato externos; bases en el interior apareadas."
+    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
   },
   {
-    "id": "Q7CXDAZ6",
-    "type": "mcq",
-    "question": "La 'burbuja de replicación' se observa:",
-    "options": [
-      "Solo en eucariotas",
-      "Solo en procariotas",
-      "En ambos, donde se separan hebras y avanzan horquillas",
-      "Solo en virus"
-    ],
-    "answerIndex": 2,
-    "explanation": "Es un rasgo universal de la replicación del DNA."
-  },
-  {
-    "id": "Q13WJBWM",
-    "type": "mcq",
-    "question": "En bacterias suele haber:",
-    "options": [
-      "Miles de orígenes por cromosoma",
-      "Un origen de replicación por cromosoma circular",
-      "Orígenes cambiantes cada ciclo",
-      "Ningún origen definido"
-    ],
-    "answerIndex": 1,
-    "explanation": "El cromosoma circular bacteriano tiene un origen principal (OriC)."
-  },
-  {
-    "id": "QE343R5U",
+    "id": "QNEW1207",
     "type": "tf",
-    "question": "En la hebra adelantada se requiere un solo cebador de RNA para iniciar la síntesis continua.",
+    "question": "La replicación del ADN en eucariotas tiene múltiples orígenes de replicación.",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "La hebra adelantada se sintetiza de forma continua desde un único cebador."
+    "explanation": "Cada cromosoma eucariota posee múltiples orígenes para acelerar el proceso."
   },
   {
-    "id": "Q0B54Q3Z",
+    "id": "QNEW4839",
     "type": "tf",
-    "question": "Los fragmentos de Okazaki en eucariotas suelen ser más cortos que en bacterias.",
+    "question": "En procariotas, el origen de replicación se llama OriC.",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "En eucariotas ~100–200 nt; en E. coli ~1000–2000 nt."
+    "explanation": "OriC es el punto único de inicio en el ADN circular bacteriano."
   },
   {
-    "id": "QPTMAS6M",
-    "type": "tf",
-    "question": "Las purinas (A y G) se aparean entre sí para mantener el diámetro uniforme de la hélice.",
+    "id": "QNEW6255",
+    "type": "mcq",
+    "question": "¿Qué proteína mantiene separadas las hebras simples durante la replicación?",
     "options": [
-      "Verdadero",
-      "Falso"
+      "Helicasa",
+      "SSB",
+      "Ligasa",
+      "Topoisomerasa"
     ],
     "answerIndex": 1,
-    "explanation": "El diámetro uniforme se logra apareando purina–pirimidina (A–T y G–C)."
+    "explanation": "Las proteínas SSB evitan que las hebras complementarias se vuelvan a unir."
   },
   {
-    "id": "QH624VV8",
-    "type": "tf",
-    "question": "La polimerasa de DNA añade nucleótidos al extremo 3' del cebador.",
+    "id": "QNEW8526",
+    "type": "mcq",
+    "question": "¿Qué polimerasa reemplaza los cebadores de ARN por ADN en E. coli?",
     "options": [
-      "Verdadero",
-      "Falso"
+      "ADN polimerasa I",
+      "ADN polimerasa III",
+      "ARN polimerasa",
+      "Telomerasa"
     ],
     "answerIndex": 0,
-    "explanation": "La elongación siempre es 5'→3' añadiendo al 3'OH disponible."
+    "explanation": "La ADN polimerasa I elimina los cebadores y rellena con ADN."
   },
   {
-    "id": "QEL7R95J",
-    "type": "tf",
-    "question": "En el modelo conservador, cada molécula hija contiene una mezcla de DNA nuevo y viejo en cada hebra.",
+    "id": "QNEW1210",
+    "type": "mcq",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada)",
     "options": [
-      "Verdadero",
-      "Falso"
-    ],
-    "answerIndex": 1,
-    "explanation": "Eso describe el modelo dispersivo; el conservador mantendría intacta la molécula parental."
-  },
-  {
-    "id": "Q8MCVJA8",
-    "type": "tf",
-    "question": "El fago T2 contiene DNA y proteína; no contiene RNA.",
-    "options": [
-      "Verdadero",
-      "Falso"
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
     ],
     "answerIndex": 0,
-    "explanation": "El T2 clásico está compuesto por DNA y cápside proteica."
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
   },
   {
-    "id": "QEO8ZSJL",
-    "type": "tf",
-    "question": "Las reglas de Chargaff se aplican idénticamente a RNA de cadena sencilla.",
+    "id": "QNEW2098",
+    "type": "mcq",
+    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas? (versión ampliada)",
     "options": [
-      "Verdadero",
-      "Falso"
+      "Helicasa",
+      "Telomerasa",
+      "Ligasa",
+      "ADN polimerasa III"
     ],
     "answerIndex": 1,
-    "explanation": "Fueron descritas para DNA de doble cadena; no aplican igual a ssRNA."
+    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
   },
   {
-    "id": "Q604ULD3",
-    "type": "tf",
-    "question": "La nucleasa en NER corta el segmento dañado y la ligasa sella al final.",
+    "id": "QNEW8826",
+    "type": "mcq",
+    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas? (versión ampliada)",
     "options": [
-      "Verdadero",
-      "Falso"
+      "Helicasa",
+      "Telomerasa",
+      "Ligasa",
+      "ADN polimerasa III"
+    ],
+    "answerIndex": 1,
+    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
+  },
+  {
+    "id": "QNEW9096",
+    "type": "mcq",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada)",
+    "options": [
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
     ],
     "answerIndex": 0,
-    "explanation": "NER: corte, relleno por polimerasa, sellado por ligasa."
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
   },
   {
-    "id": "QTU7O1GH",
+    "id": "QNEW7678",
     "type": "tf",
-    "question": "La topoisomerasa aumenta la torsión positiva por delante de la horquilla.",
-    "options": [
-      "Verdadero",
-      "Falso"
-    ],
-    "answerIndex": 1,
-    "explanation": "La topoisomerasa alivia la torsión, no la incrementa."
-  },
-  {
-    "id": "Q8RZED1Q",
-    "type": "tf",
-    "question": "Rosalind Franklin recibió el Premio Nobel junto a Watson y Crick en 1962.",
-    "options": [
-      "Verdadero",
-      "Falso"
-    ],
-    "answerIndex": 1,
-    "explanation": "El Nobel fue para Watson, Crick y Wilkins; Franklin había fallecido en 1958."
-  },
-  {
-    "id": "QK4OCAUU",
-    "type": "mcq",
-    "question": "¿Qué característica del apareamiento de bases explica las reglas de Chargaff?",
-    "options": [
-      "Enlaces iónicos entre A–T y G–C",
-      "Dos H para A–T y tres H para G–C",
-      "Mismo peso molecular de todas las bases",
-      "Rotación libre de azúcares"
-    ],
-    "answerIndex": 1,
-    "explanation": "A–T forman 2 puentes de H; G–C forman 3, favoreciendo esos pares específicos."
-  },
-  {
-    "id": "Q9J4KOPI",
-    "type": "mcq",
-    "question": "En términos de fidelidad, los errores tras replicación y reparación rondan:",
-    "options": [
-      "1 por 10^3 nt",
-      "1 por 10^6 nt",
-      "1 por 10^9–10^10 nt",
-      "Cero errores"
-    ],
-    "answerIndex": 2,
-    "explanation": "La tasa efectiva es extremadamente baja, ~10^(-9) a 10^(-10) por nt."
-  },
-  {
-    "id": "QR7SAZ3Z",
-    "type": "mcq",
-    "question": "La función principal de la DNA polimerasa I en E. coli es:",
-    "options": [
-      "Sintetizar la mayor parte de la hebra adelantada",
-      "Reemplazar cebadores de RNA por DNA",
-      "Iniciar cebadores",
-      "Aliviar tensión torsional"
-    ],
-    "answerIndex": 1,
-    "explanation": "Pol I sustituye los ribonucleótidos de los cebadores por desoxirribonucleótidos."
-  },
-  {
-    "id": "QF6SU6ZN",
-    "type": "mcq",
-    "question": "¿Cuál NO es un componente de un nucleótido de DNA?",
-    "options": [
-      "Desoxirribosa",
-      "Fosfato",
-      "Uracilo",
-      "Base nitrogenada"
-    ],
-    "answerIndex": 2,
-    "explanation": "Uracilo es típico de RNA; en DNA la base correspondiente es timina."
-  },
-  {
-    "id": "QA8UV5D4",
-    "type": "mcq",
-    "question": "¿Qué observación apoya que el DNA sea el material genético en eucariotas?",
-    "options": [
-      "La cantidad de DNA no cambia antes de la mitosis",
-      "El DNA se duplica antes de la mitosis y se reparte a hijas",
-      "Las proteínas se duplican solo en G2",
-      "El RNA es doble cadena en cromosomas"
-    ],
-    "answerIndex": 1,
-    "explanation": "El DNA aumenta previo a la división y se distribuye equitativamente."
-  },
-  {
-    "id": "QTHON15Q",
-    "type": "mcq",
-    "question": "Una consecuencia del antiparalelismo es que:",
-    "options": [
-      "Las polimerasas trabajan 3'→5' en la hebra retrasada",
-      "Ambas hebras se sintetizan 5'→3' pero una de forma discontinua",
-      "Las bases giran 180°",
-      "Se requieren dos helicasas"
-    ],
-    "answerIndex": 1,
-    "explanation": "Las polimerasas siempre sintetizan 5'→3'; la hebra retrasada debe ser discontinua."
-  },
-  {
-    "id": "Q720MA43",
-    "type": "mcq",
-    "question": "El cebador de RNA típico tiene una longitud aproximada de:",
-    "options": [
-      "1–2 nt",
-      "5–10 nt",
-      "50–100 nt",
-      "200–500 nt"
-    ],
-    "answerIndex": 1,
-    "explanation": "Los cebadores suelen ser cortos (≈5–10 nt)."
-  },
-  {
-    "id": "Q7VOWQ0E",
-    "type": "mcq",
-    "question": "El paso helicoidal (distancia por vuelta) aproximado del DNA B es:",
-    "options": [
-      "0,34 nm",
-      "1,7 nm",
-      "3,4 nm",
-      "34 nm"
-    ],
-    "answerIndex": 2,
-    "explanation": "≈3,4 nm por vuelta con ~10 pares de bases (0,34 nm por par)."
-  },
-  {
-    "id": "QME25UAX",
-    "type": "mcq",
-    "question": "¿Qué componente se mantiene generalmente fuera de la célula huésped durante la infección por fago T2?",
-    "options": [
-      "El DNA del fago",
-      "La proteína de la cápside",
-      "El fósforo radiactivo",
-      "Los iones Mg2+"
-    ],
-    "answerIndex": 1,
-    "explanation": "La cápside queda fuera; el DNA entra a la bacteria."
-  },
-  {
-    "id": "QJRM4OS3",
-    "type": "mcq",
-    "question": "La evidencia de que la composición de bases varía entre especies sugiere:",
-    "options": [
-      "Que la proteína es el material genético",
-      "Que el DNA es demasiado uniforme",
-      "Diversidad suficiente para codificar información",
-      "Que A=T siempre 40%"
-    ],
-    "answerIndex": 2,
-    "explanation": "La variación entre especies respalda la capacidad informacional del DNA."
-  },
-  {
-    "id": "QS1JFWCE",
-    "type": "tf",
-    "question": "Los dNTPs liberan pirofosfato al incorporarse, impulsando la reacción de polimerización.",
+    "question": "La ADN polimerasa necesita un cebador para iniciar la síntesis. (versión ampliada)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "La hidrólisis del pirofosfato hace termodinámicamente favorable la síntesis."
+    "explanation": "La enzima requiere un extremo 3'OH libre para añadir nucleótidos."
   },
   {
-    "id": "QDJSGWYX",
+    "id": "QNEW9941",
     "type": "tf",
-    "question": "La hebra retrasada se sintetiza hacia la horquilla de replicación.",
-    "options": [
-      "Verdadero",
-      "Falso"
-    ],
-    "answerIndex": 1,
-    "explanation": "Se sintetiza alejándose de la horquilla, en segmentos sucesivos."
-  },
-  {
-    "id": "QXO7C8NU",
-    "type": "tf",
-    "question": "Las proteínas de unión a cadena sencilla estabilizan DNA de doble cadena.",
-    "options": [
-      "Verdadero",
-      "Falso"
-    ],
-    "answerIndex": 1,
-    "explanation": "Se unen a DNA monocatenario para evitar el re-apareamiento."
-  },
-  {
-    "id": "QHES6RSF",
-    "type": "tf",
-    "question": "Los orígenes de replicación en eucariotas suelen ser múltiples por cromosoma.",
+    "question": "La replicación del ADN es un proceso semiconservador. (versión ampliada)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Múltiples orígenes permiten acelerar la duplicación de cromosomas largos."
+    "explanation": "Cada molécula hija conserva una hebra parental y una nueva."
   },
   {
-    "id": "QD1DPDA4",
+    "id": "QNEW2305",
     "type": "tf",
-    "question": "El modelo de tres cadenas para el DNA fue finalmente aceptado por la comunidad científica.",
+    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada)",
     "options": [
       "Verdadero",
       "Falso"
     ],
-    "answerIndex": 1,
-    "explanation": "El modelo correcto es de doble hélice (Watson y Crick)."
+    "answerIndex": 0,
+    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QDE116F3",
+    "id": "QNEW8832",
     "type": "mcq",
-    "question": "¿Qué base es una pirimidina?",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada)",
     "options": [
-      "Adenina",
-      "Guanina",
-      "Citosina",
-      "Adenosina"
-    ],
-    "answerIndex": 2,
-    "explanation": "Citosina y timina son pirimidinas; adenina y guanina son purinas."
-  },
-  {
-    "id": "Q8FHDAMB",
-    "type": "mcq",
-    "question": "¿Cuántos anillos tienen las purinas?",
-    "options": [
-      "Uno",
-      "Dos",
-      "Tres",
-      "Cuatro"
-    ],
-    "answerIndex": 1,
-    "explanation": "Las purinas tienen dos anillos; pirimidinas, uno."
-  },
-  {
-    "id": "QM1MFSS8",
-    "type": "mcq",
-    "question": "La timina se aparea con:",
-    "options": [
-      "Adenina",
-      "Citosina",
-      "Guanina",
-      "Uracilo"
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
     ],
     "answerIndex": 0,
-    "explanation": "En DNA, A–T y G–C."
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
   },
   {
-    "id": "QYS0F8HV",
-    "type": "mcq",
-    "question": "¿Qué enzima rellena huecos tras NER?",
+    "id": "QNEW7687",
+    "type": "tf",
+    "question": "Los fragmentos de Okazaki se forman en la hebra retardada. (versión ampliada)",
     "options": [
-      "DNA polimerasa",
-      "RNasa A",
-      "Amilasa",
-      "Proteasa"
+      "Verdadero",
+      "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "La DNA polimerasa reincorpora nucleótidos correctos."
+    "explanation": "Se sintetizan de forma discontinua en la hebra retrasada."
   },
   {
-    "id": "QT0OPWQL",
+    "id": "QNEW9314",
     "type": "mcq",
-    "question": "El diámetro aproximado de la doble hélice B-DNA es:",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada)",
     "options": [
-      "0,2 nm",
-      "2 nm",
-      "20 nm",
-      "200 nm"
-    ],
-    "answerIndex": 1,
-    "explanation": "El diámetro es ~2 nm."
-  },
-  {
-    "id": "QL7GNXUK",
-    "type": "mcq",
-    "question": "¿Qué científico midió composiciones de bases en diferentes especies?",
-    "options": [
-      "Martha Chase",
-      "Erwin Chargaff",
-      "Colin MacLeod",
-      "Linus Pauling"
-    ],
-    "answerIndex": 1,
-    "explanation": "Chargaff estableció sus reglas a partir de estos análisis."
-  },
-  {
-    "id": "Q0GX9BQX",
-    "type": "mcq",
-    "question": "¿Qué se observa tras la primera ronda de Meselson-Stahl en 14N?",
-    "options": [
-      "Una banda pesada",
-      "Una banda ligera",
-      "Una banda intermedia (híbrida)",
-      "Dos bandas (pesada y ligera)"
-    ],
-    "answerIndex": 2,
-    "explanation": "La primera ronda produce DNA híbrido."
-  },
-  {
-    "id": "Q4ILOOG2",
-    "type": "mcq",
-    "question": "La función de RNasa H en algunos sistemas de replicación es:",
-    "options": [
-      "Eliminar cebadores de RNA",
-      "Agregar cebadores",
-      "Unir fragmentos",
-      "Desenrollar DNA"
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
     ],
     "answerIndex": 0,
-    "explanation": "RNasa H puede retirar los cebadores de RNA."
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
   },
   {
-    "id": "QIVOMQC0",
+    "id": "QNEW7006",
     "type": "mcq",
-    "question": "¿Cuál opción describe mejor un virus?",
+    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas? (versión ampliada)",
     "options": [
-      "Célula procariota",
-      "DNA o RNA en cápside proteica",
-      "Organelo eucariota",
-      "Proteína sin ácidos nucleicos"
+      "Helicasa",
+      "Telomerasa",
+      "Ligasa",
+      "ADN polimerasa III"
     ],
     "answerIndex": 1,
-    "explanation": "Virus: ácido nucleico + cápside."
+    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
   },
   {
-    "id": "Q0RZSRL7",
+    "id": "QNEW3400",
     "type": "mcq",
-    "question": "Las horquillas de replicación avanzan:",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada)",
     "options": [
-      "Solo en una dirección desde el origen",
-      "En ambas direcciones desde el origen",
-      "No se mueven",
-      "Desde telómeros hacia centromero"
-    ],
-    "answerIndex": 1,
-    "explanation": "La replicación es bidireccional desde cada origen."
-  },
-  {
-    "id": "QB8EWTEI",
-    "type": "mcq",
-    "question": "¿Qué base es una pirimidina?",
-    "options": [
-      "Adenina",
-      "Guanina",
-      "Citosina",
-      "Adenosina"
-    ],
-    "answerIndex": 2,
-    "explanation": "Citosina y timina son pirimidinas; adenina y guanina son purinas."
-  },
-  {
-    "id": "QEAC7GAN",
-    "type": "mcq",
-    "question": "¿Cuántos anillos tienen las purinas?",
-    "options": [
-      "Uno",
-      "Dos",
-      "Tres",
-      "Cuatro"
-    ],
-    "answerIndex": 1,
-    "explanation": "Las purinas tienen dos anillos; pirimidinas, uno."
-  },
-  {
-    "id": "QB0U65IK",
-    "type": "mcq",
-    "question": "La timina se aparea con:",
-    "options": [
-      "Adenina",
-      "Citosina",
-      "Guanina",
-      "Uracilo"
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
     ],
     "answerIndex": 0,
-    "explanation": "En DNA, A–T y G–C."
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
   },
   {
-    "id": "Q73IVLBQ",
-    "type": "mcq",
-    "question": "¿Qué enzima rellena huecos tras NER?",
+    "id": "QNEW4057",
+    "type": "tf",
+    "question": "Los fragmentos de Okazaki se forman en la hebra retardada. (versión ampliada)",
     "options": [
-      "DNA polimerasa",
-      "RNasa A",
-      "Amilasa",
-      "Proteasa"
+      "Verdadero",
+      "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "La DNA polimerasa reincorpora nucleótidos correctos."
+    "explanation": "Se sintetizan de forma discontinua en la hebra retrasada."
   },
   {
-    "id": "QF22U5I4",
+    "id": "QNEW7000",
     "type": "mcq",
-    "question": "El diámetro aproximado de la doble hélice B-DNA es:",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada)",
     "options": [
-      "0,2 nm",
-      "2 nm",
-      "20 nm",
-      "200 nm"
-    ],
-    "answerIndex": 1,
-    "explanation": "El diámetro es ~2 nm."
-  },
-  {
-    "id": "QWTQJ5IL",
-    "type": "mcq",
-    "question": "¿Qué científico midió composiciones de bases en diferentes especies?",
-    "options": [
-      "Martha Chase",
-      "Erwin Chargaff",
-      "Colin MacLeod",
-      "Linus Pauling"
-    ],
-    "answerIndex": 1,
-    "explanation": "Chargaff estableció sus reglas a partir de estos análisis."
-  },
-  {
-    "id": "Q651APXV",
-    "type": "mcq",
-    "question": "¿Qué se observa tras la primera ronda de Meselson-Stahl en 14N?",
-    "options": [
-      "Una banda pesada",
-      "Una banda ligera",
-      "Una banda intermedia (híbrida)",
-      "Dos bandas (pesada y ligera)"
-    ],
-    "answerIndex": 2,
-    "explanation": "La primera ronda produce DNA híbrido."
-  },
-  {
-    "id": "QM75X3R6",
-    "type": "mcq",
-    "question": "La función de RNasa H en algunos sistemas de replicación es:",
-    "options": [
-      "Eliminar cebadores de RNA",
-      "Agregar cebadores",
-      "Unir fragmentos",
-      "Desenrollar DNA"
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
     ],
     "answerIndex": 0,
-    "explanation": "RNasa H puede retirar los cebadores de RNA."
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
   },
   {
-    "id": "QN252WZ9",
-    "type": "mcq",
-    "question": "¿Cuál opción describe mejor un virus?",
+    "id": "QNEW4027",
+    "type": "tf",
+    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada) (versión ampliada)",
     "options": [
-      "Célula procariota",
-      "DNA o RNA en cápside proteica",
-      "Organelo eucariota",
-      "Proteína sin ácidos nucleicos"
-    ],
-    "answerIndex": 1,
-    "explanation": "Virus: ácido nucleico + cápside."
-  },
-  {
-    "id": "Q0BAI1NC",
-    "type": "mcq",
-    "question": "Las horquillas de replicación avanzan:",
-    "options": [
-      "Solo en una dirección desde el origen",
-      "En ambas direcciones desde el origen",
-      "No se mueven",
-      "Desde telómeros hacia centromero"
-    ],
-    "answerIndex": 1,
-    "explanation": "La replicación es bidireccional desde cada origen."
-  },
-  {
-    "id": "QKCLBYXG",
-    "type": "mcq",
-    "question": "¿Qué base es una pirimidina?",
-    "options": [
-      "Adenina",
-      "Guanina",
-      "Citosina",
-      "Adenosina"
-    ],
-    "answerIndex": 2,
-    "explanation": "Citosina y timina son pirimidinas; adenina y guanina son purinas."
-  },
-  {
-    "id": "QUNOKK6A",
-    "type": "mcq",
-    "question": "¿Cuántos anillos tienen las purinas?",
-    "options": [
-      "Uno",
-      "Dos",
-      "Tres",
-      "Cuatro"
-    ],
-    "answerIndex": 1,
-    "explanation": "Las purinas tienen dos anillos; pirimidinas, uno."
-  },
-  {
-    "id": "QIHDM2P9",
-    "type": "mcq",
-    "question": "La timina se aparea con:",
-    "options": [
-      "Adenina",
-      "Citosina",
-      "Guanina",
-      "Uracilo"
+      "Verdadero",
+      "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "En DNA, A–T y G–C."
+    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QWWOD7H2",
-    "type": "mcq",
-    "question": "¿Qué enzima rellena huecos tras NER?",
+    "id": "QNEW2235",
+    "type": "tf",
+    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada)",
     "options": [
-      "DNA polimerasa",
-      "RNasa A",
-      "Amilasa",
-      "Proteasa"
+      "Verdadero",
+      "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "La DNA polimerasa reincorpora nucleótidos correctos."
+    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QQ27KZV3",
+    "id": "QNEW7415",
     "type": "mcq",
-    "question": "El diámetro aproximado de la doble hélice B-DNA es:",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada)",
     "options": [
-      "0,2 nm",
-      "2 nm",
-      "20 nm",
-      "200 nm"
-    ],
-    "answerIndex": 1,
-    "explanation": "El diámetro es ~2 nm."
-  },
-  {
-    "id": "Q5HC2Y21",
-    "type": "mcq",
-    "question": "¿Qué científico midió composiciones de bases en diferentes especies?",
-    "options": [
-      "Martha Chase",
-      "Erwin Chargaff",
-      "Colin MacLeod",
-      "Linus Pauling"
-    ],
-    "answerIndex": 1,
-    "explanation": "Chargaff estableció sus reglas a partir de estos análisis."
-  },
-  {
-    "id": "QH4CRHWU",
-    "type": "mcq",
-    "question": "¿Qué se observa tras la primera ronda de Meselson-Stahl en 14N?",
-    "options": [
-      "Una banda pesada",
-      "Una banda ligera",
-      "Una banda intermedia (híbrida)",
-      "Dos bandas (pesada y ligera)"
-    ],
-    "answerIndex": 2,
-    "explanation": "La primera ronda produce DNA híbrido."
-  },
-  {
-    "id": "QY0GDAYB",
-    "type": "mcq",
-    "question": "La función de RNasa H en algunos sistemas de replicación es:",
-    "options": [
-      "Eliminar cebadores de RNA",
-      "Agregar cebadores",
-      "Unir fragmentos",
-      "Desenrollar DNA"
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
     ],
     "answerIndex": 0,
-    "explanation": "RNasa H puede retirar los cebadores de RNA."
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
   },
   {
-    "id": "QC78VUM4",
-    "type": "mcq",
-    "question": "¿Cuál opción describe mejor un virus?",
+    "id": "QNEW5459",
+    "type": "tf",
+    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada) (versión ampliada)",
     "options": [
-      "Célula procariota",
-      "DNA o RNA en cápside proteica",
-      "Organelo eucariota",
-      "Proteína sin ácidos nucleicos"
-    ],
-    "answerIndex": 1,
-    "explanation": "Virus: ácido nucleico + cápside."
-  },
-  {
-    "id": "QZGOMBA6",
-    "type": "mcq",
-    "question": "Las horquillas de replicación avanzan:",
-    "options": [
-      "Solo en una dirección desde el origen",
-      "En ambas direcciones desde el origen",
-      "No se mueven",
-      "Desde telómeros hacia centromero"
-    ],
-    "answerIndex": 1,
-    "explanation": "La replicación es bidireccional desde cada origen."
-  },
-  {
-    "id": "QU11DEV9",
-    "type": "mcq",
-    "question": "¿Qué base es una pirimidina?",
-    "options": [
-      "Adenina",
-      "Guanina",
-      "Citosina",
-      "Adenosina"
-    ],
-    "answerIndex": 2,
-    "explanation": "Citosina y timina son pirimidinas; adenina y guanina son purinas."
-  },
-  {
-    "id": "QDY8EN6B",
-    "type": "mcq",
-    "question": "¿Cuántos anillos tienen las purinas?",
-    "options": [
-      "Uno",
-      "Dos",
-      "Tres",
-      "Cuatro"
-    ],
-    "answerIndex": 1,
-    "explanation": "Las purinas tienen dos anillos; pirimidinas, uno."
-  },
-  {
-    "id": "Q0T1KBYW",
-    "type": "mcq",
-    "question": "La timina se aparea con:",
-    "options": [
-      "Adenina",
-      "Citosina",
-      "Guanina",
-      "Uracilo"
+      "Verdadero",
+      "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "En DNA, A–T y G–C."
+    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QV13N469",
+    "id": "QNEW8893",
     "type": "mcq",
-    "question": "¿Qué enzima rellena huecos tras NER?",
+    "question": "¿Qué estructura se forma cuando el ADN comienza a replicarse? (versión ampliada)",
     "options": [
-      "DNA polimerasa",
-      "RNasa A",
-      "Amilasa",
-      "Proteasa"
+      "Horquilla de replicación",
+      "Telómero",
+      "Centrosoma",
+      "Cromátida"
     ],
     "answerIndex": 0,
-    "explanation": "La DNA polimerasa reincorpora nucleótidos correctos."
+    "explanation": "Es la zona donde se separan las hebras y se inicia la síntesis."
   },
   {
-    "id": "Q6SOBN73",
+    "id": "QNEW5116",
     "type": "mcq",
-    "question": "El diámetro aproximado de la doble hélice B-DNA es:",
+    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas? (versión ampliada) (versión ampliada)",
     "options": [
-      "0,2 nm",
-      "2 nm",
-      "20 nm",
-      "200 nm"
+      "Helicasa",
+      "Telomerasa",
+      "Ligasa",
+      "ADN polimerasa III"
     ],
     "answerIndex": 1,
-    "explanation": "El diámetro es ~2 nm."
+    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
   },
   {
-    "id": "Q0HGYSNX",
+    "id": "QNEW4247",
     "type": "mcq",
-    "question": "¿Qué científico midió composiciones de bases en diferentes especies?",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada)",
     "options": [
-      "Martha Chase",
-      "Erwin Chargaff",
-      "Colin MacLeod",
-      "Linus Pauling"
-    ],
-    "answerIndex": 1,
-    "explanation": "Chargaff estableció sus reglas a partir de estos análisis."
-  },
-  {
-    "id": "QYT83IQ8",
-    "type": "mcq",
-    "question": "¿Qué se observa tras la primera ronda de Meselson-Stahl en 14N?",
-    "options": [
-      "Una banda pesada",
-      "Una banda ligera",
-      "Una banda intermedia (híbrida)",
-      "Dos bandas (pesada y ligera)"
-    ],
-    "answerIndex": 2,
-    "explanation": "La primera ronda produce DNA híbrido."
-  },
-  {
-    "id": "QNQTBZYK",
-    "type": "mcq",
-    "question": "La función de RNasa H en algunos sistemas de replicación es:",
-    "options": [
-      "Eliminar cebadores de RNA",
-      "Agregar cebadores",
-      "Unir fragmentos",
-      "Desenrollar DNA"
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
     ],
     "answerIndex": 0,
-    "explanation": "RNasa H puede retirar los cebadores de RNA."
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
   },
   {
-    "id": "QC6H302Z",
-    "type": "mcq",
-    "question": "¿Cuál opción describe mejor un virus?",
+    "id": "QNEW5934",
+    "type": "tf",
+    "question": "La ADN polimerasa necesita un cebador para iniciar la síntesis. (versión ampliada)",
     "options": [
-      "Célula procariota",
-      "DNA o RNA en cápside proteica",
-      "Organelo eucariota",
-      "Proteína sin ácidos nucleicos"
-    ],
-    "answerIndex": 1,
-    "explanation": "Virus: ácido nucleico + cápside."
-  },
-  {
-    "id": "QT1HJXE7",
-    "type": "mcq",
-    "question": "Las horquillas de replicación avanzan:",
-    "options": [
-      "Solo en una dirección desde el origen",
-      "En ambas direcciones desde el origen",
-      "No se mueven",
-      "Desde telómeros hacia centromero"
-    ],
-    "answerIndex": 1,
-    "explanation": "La replicación es bidireccional desde cada origen."
-  },
-  {
-    "id": "QQLUVVS0",
-    "type": "mcq",
-    "question": "¿Qué base es una pirimidina?",
-    "options": [
-      "Adenina",
-      "Guanina",
-      "Citosina",
-      "Adenosina"
-    ],
-    "answerIndex": 2,
-    "explanation": "Citosina y timina son pirimidinas; adenina y guanina son purinas."
-  },
-  {
-    "id": "QDCPEWMG",
-    "type": "mcq",
-    "question": "¿Cuántos anillos tienen las purinas?",
-    "options": [
-      "Uno",
-      "Dos",
-      "Tres",
-      "Cuatro"
-    ],
-    "answerIndex": 1,
-    "explanation": "Las purinas tienen dos anillos; pirimidinas, uno."
-  },
-  {
-    "id": "QZ6CMN1C",
-    "type": "mcq",
-    "question": "La timina se aparea con:",
-    "options": [
-      "Adenina",
-      "Citosina",
-      "Guanina",
-      "Uracilo"
+      "Verdadero",
+      "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "En DNA, A–T y G–C."
+    "explanation": "La enzima requiere un extremo 3'OH libre para añadir nucleótidos."
   },
   {
-    "id": "QJ5E3JMS",
-    "type": "mcq",
-    "question": "¿Qué enzima rellena huecos tras NER?",
+    "id": "QNEW9434",
+    "type": "tf",
+    "question": "La replicación del ADN ocurre durante la fase S del ciclo celular. (versión ampliada)",
     "options": [
-      "DNA polimerasa",
-      "RNasa A",
-      "Amilasa",
-      "Proteasa"
+      "Verdadero",
+      "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "La DNA polimerasa reincorpora nucleótidos correctos."
+    "explanation": "Durante la fase S del ciclo celular, el ADN se duplica por completo."
   },
   {
-    "id": "QG8VCBKK",
+    "id": "QNEW5615",
     "type": "mcq",
-    "question": "El diámetro aproximado de la doble hélice B-DNA es:",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada)",
     "options": [
-      "0,2 nm",
-      "2 nm",
-      "20 nm",
-      "200 nm"
-    ],
-    "answerIndex": 1,
-    "explanation": "El diámetro es ~2 nm."
-  },
-  {
-    "id": "Q3KQ6K0K",
-    "type": "mcq",
-    "question": "¿Qué científico midió composiciones de bases en diferentes especies?",
-    "options": [
-      "Martha Chase",
-      "Erwin Chargaff",
-      "Colin MacLeod",
-      "Linus Pauling"
-    ],
-    "answerIndex": 1,
-    "explanation": "Chargaff estableció sus reglas a partir de estos análisis."
-  },
-  {
-    "id": "Q6CQJ1X3",
-    "type": "mcq",
-    "question": "¿Qué se observa tras la primera ronda de Meselson-Stahl en 14N?",
-    "options": [
-      "Una banda pesada",
-      "Una banda ligera",
-      "Una banda intermedia (híbrida)",
-      "Dos bandas (pesada y ligera)"
-    ],
-    "answerIndex": 2,
-    "explanation": "La primera ronda produce DNA híbrido."
-  },
-  {
-    "id": "QS7K3V2I",
-    "type": "mcq",
-    "question": "La función de RNasa H en algunos sistemas de replicación es:",
-    "options": [
-      "Eliminar cebadores de RNA",
-      "Agregar cebadores",
-      "Unir fragmentos",
-      "Desenrollar DNA"
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
     ],
     "answerIndex": 0,
-    "explanation": "RNasa H puede retirar los cebadores de RNA."
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
   },
   {
-    "id": "QP7XHZ6H",
+    "id": "QNEW5159",
     "type": "mcq",
-    "question": "¿Cuál opción describe mejor un virus?",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada) (versión ampliada)",
     "options": [
-      "Célula procariota",
-      "DNA o RNA en cápside proteica",
-      "Organelo eucariota",
-      "Proteína sin ácidos nucleicos"
-    ],
-    "answerIndex": 1,
-    "explanation": "Virus: ácido nucleico + cápside."
-  },
-  {
-    "id": "QKMERNMP",
-    "type": "mcq",
-    "question": "Las horquillas de replicación avanzan:",
-    "options": [
-      "Solo en una dirección desde el origen",
-      "En ambas direcciones desde el origen",
-      "No se mueven",
-      "Desde telómeros hacia centromero"
-    ],
-    "answerIndex": 1,
-    "explanation": "La replicación es bidireccional desde cada origen."
-  },
-  {
-    "id": "QTQMW69L",
-    "type": "mcq",
-    "question": "¿Qué base es una pirimidina?",
-    "options": [
-      "Adenina",
-      "Guanina",
-      "Citosina",
-      "Adenosina"
-    ],
-    "answerIndex": 2,
-    "explanation": "Citosina y timina son pirimidinas; adenina y guanina son purinas."
-  },
-  {
-    "id": "QC92TXDH",
-    "type": "mcq",
-    "question": "¿Cuántos anillos tienen las purinas?",
-    "options": [
-      "Uno",
-      "Dos",
-      "Tres",
-      "Cuatro"
-    ],
-    "answerIndex": 1,
-    "explanation": "Las purinas tienen dos anillos; pirimidinas, uno."
-  },
-  {
-    "id": "QGYF2NPS",
-    "type": "mcq",
-    "question": "La timina se aparea con:",
-    "options": [
-      "Adenina",
-      "Citosina",
-      "Guanina",
-      "Uracilo"
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
     ],
     "answerIndex": 0,
-    "explanation": "En DNA, A–T y G–C."
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
   },
   {
-    "id": "QZIUSCYK",
+    "id": "QNEW3613",
     "type": "mcq",
-    "question": "¿Qué enzima rellena huecos tras NER?",
+    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas? (versión ampliada) (versión ampliada)",
     "options": [
-      "DNA polimerasa",
-      "RNasa A",
-      "Amilasa",
-      "Proteasa"
-    ],
-    "answerIndex": 0,
-    "explanation": "La DNA polimerasa reincorpora nucleótidos correctos."
-  },
-  {
-    "id": "Q4M9VGYS",
-    "type": "mcq",
-    "question": "El diámetro aproximado de la doble hélice B-DNA es:",
-    "options": [
-      "0,2 nm",
-      "2 nm",
-      "20 nm",
-      "200 nm"
+      "Helicasa",
+      "Telomerasa",
+      "Ligasa",
+      "ADN polimerasa III"
     ],
     "answerIndex": 1,
-    "explanation": "El diámetro es ~2 nm."
+    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
+  },
+  {
+    "id": "QNEW4024",
+    "type": "tf",
+    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada) (versión ampliada) (versión ampliada)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "QNEW7940",
+    "type": "mcq",
+    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas? (versión ampliada)",
+    "options": [
+      "Helicasa",
+      "Telomerasa",
+      "Ligasa",
+      "ADN polimerasa III"
+    ],
+    "answerIndex": 1,
+    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
+  },
+  {
+    "id": "QNEW8953",
+    "type": "tf",
+    "question": "La replicación del ADN ocurre durante la fase S del ciclo celular. (versión ampliada) (versión ampliada)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Durante la fase S del ciclo celular, el ADN se duplica por completo."
+  },
+  {
+    "id": "QNEW2280",
+    "type": "tf",
+    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada) (versión ampliada) (versión ampliada) (versión ampliada)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "QNEW5600",
+    "type": "tf",
+    "question": "La ADN polimerasa necesita un cebador para iniciar la síntesis. (versión ampliada) (versión ampliada)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La enzima requiere un extremo 3'OH libre para añadir nucleótidos."
+  },
+  {
+    "id": "QNEW6197",
+    "type": "mcq",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada)",
+    "options": [
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
+    ],
+    "answerIndex": 0,
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
+  },
+  {
+    "id": "QNEW9564",
+    "type": "mcq",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada) (versión ampliada)",
+    "options": [
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
+    ],
+    "answerIndex": 0,
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
+  },
+  {
+    "id": "QNEW1690",
+    "type": "mcq",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada) (versión ampliada) (versión ampliada)",
+    "options": [
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
+    ],
+    "answerIndex": 0,
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
+  },
+  {
+    "id": "QNEW9216",
+    "type": "tf",
+    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada) (versión ampliada)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "QNEW7622",
+    "type": "tf",
+    "question": "La replicación del ADN ocurre durante la fase S del ciclo celular. (versión ampliada) (versión ampliada) (versión ampliada)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Durante la fase S del ciclo celular, el ADN se duplica por completo."
+  },
+  {
+    "id": "QNEW2295",
+    "type": "tf",
+    "question": "La ADN polimerasa necesita un cebador para iniciar la síntesis. (versión ampliada) (versión ampliada)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La enzima requiere un extremo 3'OH libre para añadir nucleótidos."
+  },
+  {
+    "id": "QNEW8752",
+    "type": "mcq",
+    "question": "¿Qué estructura se forma cuando el ADN comienza a replicarse? (versión ampliada)",
+    "options": [
+      "Horquilla de replicación",
+      "Telómero",
+      "Centrosoma",
+      "Cromátida"
+    ],
+    "answerIndex": 0,
+    "explanation": "Es la zona donde se separan las hebras y se inicia la síntesis."
+  },
+  {
+    "id": "QNEW6923",
+    "type": "mcq",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada) (versión ampliada) (versión ampliada)",
+    "options": [
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
+    ],
+    "answerIndex": 0,
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
+  },
+  {
+    "id": "QNEW2124",
+    "type": "mcq",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada) (versión ampliada) (versión ampliada)",
+    "options": [
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
+    ],
+    "answerIndex": 0,
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
+  },
+  {
+    "id": "QNEW7044",
+    "type": "mcq",
+    "question": "¿Qué polimerasa reemplaza los cebadores de ARN por ADN en E. coli? (versión ampliada)",
+    "options": [
+      "ADN polimerasa I",
+      "ADN polimerasa III",
+      "ARN polimerasa",
+      "Telomerasa"
+    ],
+    "answerIndex": 0,
+    "explanation": "La ADN polimerasa I elimina los cebadores y rellena con ADN."
+  },
+  {
+    "id": "QNEW6521",
+    "type": "mcq",
+    "question": "¿Qué función cumple la ADN ligasa? (versión ampliada)",
+    "options": [
+      "Eliminar cebadores",
+      "Sella fragmentos de Okazaki",
+      "Desenrollar ADN",
+      "Iniciar síntesis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Une fragmentos de ADN mediante enlaces fosfodiéster."
+  },
+  {
+    "id": "QNEW9331",
+    "type": "tf",
+    "question": "Los fragmentos de Okazaki se forman en la hebra retardada. (versión ampliada) (versión ampliada)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Se sintetizan de forma discontinua en la hebra retrasada."
+  },
+  {
+    "id": "QNEW2107",
+    "type": "mcq",
+    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada) (versión ampliada)",
+    "options": [
+      "5'→3'",
+      "3'→5'",
+      "Ambas direcciones",
+      "Depende del organismo"
+    ],
+    "answerIndex": 0,
+    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
+  },
+  {
+    "id": "QNEW5714",
+    "type": "mcq",
+    "question": "¿Qué función cumple la ADN ligasa? (versión ampliada) (versión ampliada)",
+    "options": [
+      "Eliminar cebadores",
+      "Sella fragmentos de Okazaki",
+      "Desenrollar ADN",
+      "Iniciar síntesis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Une fragmentos de ADN mediante enlaces fosfodiéster."
   }
 ]

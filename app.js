@@ -117,19 +117,38 @@ function buildExam(n = 50, shuffleAll = true) {
 
 
 function saveProgress() {
-  localStorage.setItem("simulador_state", JSON.stringify({
-    EXAM, state
-  }));
+  const snapshot = {
+    EXAM,
+    state: {
+      ...state,
+      flagged: Array.from(state.flagged || [])
+    }
+  };
+  localStorage.setItem("simulador_state", JSON.stringify(snapshot));
 }
 function loadProgress() {
   const raw = localStorage.getItem("simulador_state");
   if (!raw) return false;
   try {
-    const { EXAM: e, state: s } = JSON.parse(raw);
-    if (!Array.isArray(e) || !s) return false;
-    EXAM = e; state = s;
+    const parsed = JSON.parse(raw);
+    const e = parsed && Array.isArray(parsed.EXAM) ? parsed.EXAM : null;
+    const s = parsed && parsed.state ? parsed.state : null;
+    if (!e || !s) return false;
+    EXAM = e;
+    state = {
+      idx: Number.isInteger(s.idx) ? s.idx : 0,
+      answers: (s.answers && typeof s.answers === 'object') ? s.answers : {},
+      flagged: new Set(Array.isArray(s.flagged) ? s.flagged : []),
+      startAt: s.startAt || Date.now(),
+      timeLimit: Number.isFinite(s.timeLimit) ? s.timeLimit : 0,
+      finished: !!s.finished
+    };
     return true;
-  } catch { return false; }
+  } catch (err) {
+    console.error('No se pudo restaurar el progreso:', err);
+    localStorage.removeItem('simulador_state');
+    return false;
+  }
 }
 
 function renderGrid() {
@@ -140,7 +159,7 @@ function renderGrid() {
     btn.textContent = q.n;
     if (state.idx === i) btn.classList.add("current");
     if (state.answers[q.id] !== undefined) btn.classList.add("answered");
-    if (state.flagged.has(q.id)) btn.classList.add("flagged");
+    if (state.flagged && typeof state.flagged.has === 'function' && state.flagged.has(q.id)) btn.classList.add("flagged");
     btn.addEventListener("click", () => { state.idx = i; renderQuestion(); });
     grid.appendChild(btn);
   });
@@ -278,8 +297,8 @@ async function main() {
   if (loadProgress() && !state.finished) {
     $("#setup").classList.add("hidden");
     $("#exam").classList.remove("hidden");
-    renderGrid(); renderQuestion(); renderProgress();
-    startTimer();
+    try { renderGrid(); renderQuestion(); renderProgress(); startTimer(); }
+    catch (e) { console.error(e); localStorage.removeItem('simulador_state'); location.reload(); }
   }
 
   $("#btn-start").addEventListener("click", () => {
