@@ -3,6 +3,38 @@ const $ = (q) => document.querySelector(q);
 const $$ = (q) => Array.from(document.querySelectorAll(q));
 
 let BANK = [];
+
+function randId(){
+  const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+  let s = "Q";
+  for (let i=0;i<7;i++) s += chars[Math.floor(Math.random()*chars.length)];
+  return s;
+}
+function normalizeText(t){
+  return String(t||"").replace(/\s+/g," ").trim().toLowerCase();
+}
+function dedupeBank(arr){
+  const seenText = new Set();
+  const seenId = new Set();
+  const cleaned = [];
+  let removedByText = 0, fixedIds = 0, removedBad = 0;
+  for (const q of arr){
+    if (!q || !q.question || !Array.isArray(q.options)) { removedBad++; continue; }
+    // normalize TF options if needed
+    if (q.type === "tf") q.options = ["Verdadero","Falso"];
+    // ensure id
+    let id = q.id || randId();
+    // fix duplicate ids
+    while (seenId.has(id)) { id = randId(); fixedIds++; }
+    q.id = id; seenId.add(id);
+    const key = normalizeText(q.question);
+    if (seenText.has(key)) { removedByText++; continue; }
+    seenText.add(key);
+    cleaned.push(q);
+  }
+  return {cleaned, removedByText, fixedIds, removedBad};
+}
+
 let EXAM = [];
 let state = {
   idx: 0,
@@ -23,7 +55,12 @@ const hhmmss = (sec) => {
 
 async function loadBank(file = "questions.json") {
   const res = await fetch(file);
-  BANK = await res.json();
+  const raw = await res.json();
+  const {cleaned, removedByText, fixedIds, removedBad} = dedupeBank(raw);
+  BANK = cleaned;
+  if (removedByText || fixedIds || removedBad) {
+    console.info(`Banco depurado → ${BANK.length} preguntas (eliminadas por repetidas: ${removedByText}, IDs ajustados: ${fixedIds}, inválidas: ${removedBad}).`);
+  }
   return BANK;
 }
 
@@ -36,18 +73,48 @@ function shuffle(arr) {
   return a;
 }
 
+
 function buildExam(n = 50, shuffleAll = true) {
   const pool = shuffleAll ? shuffle(BANK) : BANK.slice();
-  const chosen = pool.slice(0, n).map((q, i) => ({
-    ...q,
-    n: i + 1,
-    options: q.type === "tf" ? ["Verdadero", "Falso"] : q.options.slice(),
-  }));
-  if (shuffleAll) chosen.forEach(q => {
-    if (q.type === "mcq") q.options = shuffle(q.options);
+  if (n > pool.length) {
+    alert(`El banco tiene ${pool.length} preguntas únicas; se usarán ${pool.length}.`);
+    n = pool.length;
+  }
+  const chosen = pool.slice(0, n).map((q, i) => {
+    // Clone to avoid mutating BANK
+    const clone = {
+      id: q.id,
+      type: q.type,
+      question: q.question,
+      options: (q.type === "tf" ? ["Verdadero","Falso"] : (q.options || []).slice()),
+      answerIndex: q.answerIndex,
+      explanation: q.explanation || "",
+      n: i + 1
+    };
+
+    // Sanity checks
+    if (!Array.isArray(clone.options) || clone.options.length === 0) {
+      clone.options = ["—"];
+      clone.answerIndex = 0;
+    }
+
+    // Guard: answerIndex must point to actual correct string BEFORE shuffle
+    const correctBefore = clone.options[clone.answerIndex];
+
+    // Shuffle options only for MCQ if requested
+    if (shuffleAll && clone.type === "mcq") {
+      clone.options = shuffle(clone.options);
+    }
+
+    // Remap answerIndex to the new index of the correct option
+    const newIdx = clone.options.findIndex(opt => opt === correctBefore);
+    clone.answerIndex = newIdx >= 0 ? newIdx : 0; // fallback safety
+
+    return clone;
   });
   return chosen;
 }
+
 
 function saveProgress() {
   localStorage.setItem("simulador_state", JSON.stringify({
@@ -269,8 +336,9 @@ async function main() {
       const text = await file.text();
       const data = JSON.parse(text);
       if (!Array.isArray(data)) throw new Error("JSON inválido");
-      BANK = data;
-      alert(`Banco importado: ${BANK.length} preguntas.`);
+      const dep = dedupeBank(data);
+      BANK = dep.cleaned;
+      alert(`Banco importado: ${BANK.length} preguntas. (Repetidas eliminadas: ${dep.removedByText}, IDs corregidos: ${dep.fixedIds}, inválidas: ${dep.removedBad})`);
     } catch (err) {
       alert("No se pudo importar el JSON: " + err.message);
     }

@@ -36,10 +36,9 @@ a{color:var(--primary)}
 
 .exam-topbar{display:flex;gap:16px;align-items:center;justify-content:space-between;margin-bottom:12px}
 .timer{display:flex;align-items:center;gap:8px}
-.progress{display:flex;align-items:center;gap:10px;min-width:240px}
-.progress-bar{height:8px;background:linear-gradient(90deg,var(--primary),var(--ok));width:0;border-radius:999px}
-.progress::before{content:"";display:inline-block;width:140px;height:8px;background:#101420;border:1px solid var(--border);border-radius:999px;position:relative}
-.progress-bar{position:absolute;transform:translateX(35px)}
+
+
+
 
 .exam-body{display:grid;grid-template-columns:240px 1fr;gap:16px}
 .nav{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px;height:520px;overflow:auto}
@@ -81,4 +80,23 @@ a{color:var(--primary)}
 @media (max-width: 900px){
   .exam-body{grid-template-columns:1fr}
   .nav{height:auto}
+}
+.progress {
+  flex: 1;
+  height: 10px;
+  background: #101420;
+  border-radius: 999px;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+.progress-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 0;
+  background: linear-gradient(90deg, var(--primary), var(--ok));
+  border-radius: 999px;
+  transition: width 0.4s ease;
 }
