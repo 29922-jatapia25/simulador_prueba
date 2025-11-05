@@ -1,732 +1,3112 @@
 [
   {
-    "id": "QNEW1713",
+    "id": "Q33892",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 1)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q35034",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 2)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q34080",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 3)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q57359",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 4)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q55781",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 5)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q64130",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 6)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q59448",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 7)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q83849",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 8)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q11962",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 9)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q47419",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 10)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q46605",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 11)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q40356",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 12)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q19024",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 13)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q30059",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 14)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q33182",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 15)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q92748",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 16)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q24602",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 17)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q63474",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 18)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q60591",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 19)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q31654",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 20)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q54937",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 21)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q99928",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 22)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q16380",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 23)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q29081",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 24)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q25842",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 25)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q94166",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 26)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q62135",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 27)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q17415",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 28)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q39205",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 29)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q58832",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 30)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q40785",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 31)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q69328",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 32)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q48064",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 33)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q14450",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 34)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q18909",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 35)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q98112",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 36)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q80965",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 37)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q88866",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 38)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q84696",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 39)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q76513",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 40)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q29017",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 41)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q34037",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 42)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q48874",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 43)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q14652",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 44)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q16056",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 45)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q37531",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 46)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q96474",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 47)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q78052",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 48)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q92050",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 49)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q77062",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 50)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q67631",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 51)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q11908",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 52)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q36068",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 53)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q77542",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 54)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q70817",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 55)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q11155",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 56)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q43024",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 57)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q98375",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 58)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q35722",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 59)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q88349",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 60)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q27280",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 61)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q62490",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 62)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q72242",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 63)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q52704",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 64)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q70977",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 65)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q87921",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 66)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q24239",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 67)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q28266",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 68)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q50298",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 69)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q64774",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 70)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q95156",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 71)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q78033",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 72)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q71831",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 73)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q56163",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 74)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q54333",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 75)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q13076",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 76)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q17967",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 77)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q51778",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 78)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q57306",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 79)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q92308",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 80)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q28202",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 81)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q15843",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 82)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q37836",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 83)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q91100",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 84)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q71266",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 85)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q76885",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 86)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q62633",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 87)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q16310",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 88)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q47514",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 89)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q11124",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 90)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q47546",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 91)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q33677",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 92)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q17536",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 93)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q10286",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 94)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q10625",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 95)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q90291",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 96)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q64103",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 97)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q82818",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 98)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q15049",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 99)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q39980",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 100)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q63126",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 101)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q64387",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 102)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q83985",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 103)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q90582",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 104)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q30511",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 105)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q23286",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 106)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q59857",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 107)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q13219",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 108)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q18675",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 109)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q15587",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 110)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q20301",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 111)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q84414",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 112)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q67574",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 113)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q10132",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 114)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q87099",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 115)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q34740",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 116)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q46566",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 117)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q69488",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 118)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q87604",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 119)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q40328",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 120)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q13118",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 121)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q55377",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 122)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q93878",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 123)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q96912",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 124)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q95207",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 125)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q96383",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 126)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q17534",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 127)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q74228",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 128)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q89497",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 129)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q20112",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 130)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q50394",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 131)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q87970",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 132)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q24411",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 133)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q48786",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 134)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q13530",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 135)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q62393",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 136)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q34274",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 137)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q30984",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 138)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q83622",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 139)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q53350",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 140)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q26569",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 141)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q82244",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 142)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q13873",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 143)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q93147",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 144)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q37812",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 145)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q22218",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 146)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q62729",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 147)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q68551",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 148)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q32777",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 149)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q39140",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 150)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q87853",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 151)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q20695",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 152)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q63820",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 153)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q28507",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 154)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q64070",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 155)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q42190",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 156)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q30696",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 157)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q18203",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 158)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q34917",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 159)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q95674",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 160)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q15981",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 161)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q92482",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 162)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q39359",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 163)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q67264",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 164)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q39085",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 165)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q55193",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 166)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q67252",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 167)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q71420",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 168)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q18242",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 169)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q15274",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 170)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q56757",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 171)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q67575",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 172)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q68873",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 173)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q55703",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 174)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q23960",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 175)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q68890",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 176)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q69282",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 177)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q27318",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 178)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q83995",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 179)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q73102",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la replicación del ADN es correcta? (Pregunta 180)",
+    "options": [
+      "Ocurre en dirección 5' a 3'",
+      "No requiere cebador",
+      "Es un proceso conservador",
+      "Solo ocurre en procariotas"
+    ],
+    "answerIndex": 0,
+    "explanation": "La síntesis de ADN siempre ocurre en dirección 5'→3'."
+  },
+  {
+    "id": "Q76219",
     "type": "tf",
-    "question": "La replicación del ADN ocurre durante la fase S del ciclo celular.",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 1)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Durante la fase S del ciclo celular, el ADN se duplica por completo."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW8596",
+    "id": "Q23894",
     "type": "tf",
-    "question": "La replicación del ADN es un proceso semiconservador.",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 2)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Cada molécula hija conserva una hebra parental y una nueva."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW9617",
+    "id": "Q10245",
     "type": "tf",
-    "question": "La ADN polimerasa necesita un cebador para iniciar la síntesis.",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 3)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "La enzima requiere un extremo 3'OH libre para añadir nucleótidos."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW4435",
+    "id": "Q73564",
     "type": "tf",
-    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN.",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 4)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW9825",
+    "id": "Q56346",
     "type": "tf",
-    "question": "Los fragmentos de Okazaki se forman en la hebra retardada.",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 5)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Se sintetizan de forma discontinua en la hebra retrasada."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW7112",
-    "type": "mcq",
-    "question": "¿Qué enzima sintetiza los cebadores de ARN durante la replicación?",
-    "options": [
-      "Ligasa",
-      "Primasa",
-      "Topoisomerasa",
-      "Helicasa"
-    ],
-    "answerIndex": 1,
-    "explanation": "La primasa genera pequeños fragmentos de ARN que sirven como punto de inicio."
-  },
-  {
-    "id": "QNEW4438",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN?",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW6815",
-    "type": "mcq",
-    "question": "¿Qué función cumple la ADN ligasa?",
-    "options": [
-      "Eliminar cebadores",
-      "Sella fragmentos de Okazaki",
-      "Desenrollar ADN",
-      "Iniciar síntesis"
-    ],
-    "answerIndex": 1,
-    "explanation": "Une fragmentos de ADN mediante enlaces fosfodiéster."
-  },
-  {
-    "id": "QNEW2095",
-    "type": "mcq",
-    "question": "¿Qué enzima evita el superenrollamiento delante de la horquilla de replicación?",
-    "options": [
-      "Helicasa",
-      "Ligasa",
-      "Topoisomerasa",
-      "Primasa"
-    ],
-    "answerIndex": 2,
-    "explanation": "La topoisomerasa corta y vuelve a unir el ADN para liberar tensión."
-  },
-  {
-    "id": "QNEW6627",
-    "type": "mcq",
-    "question": "¿Qué estructura se forma cuando el ADN comienza a replicarse?",
-    "options": [
-      "Horquilla de replicación",
-      "Telómero",
-      "Centrosoma",
-      "Cromátida"
-    ],
-    "answerIndex": 0,
-    "explanation": "Es la zona donde se separan las hebras y se inicia la síntesis."
-  },
-  {
-    "id": "QNEW9985",
-    "type": "mcq",
-    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas?",
-    "options": [
-      "Helicasa",
-      "Telomerasa",
-      "Ligasa",
-      "ADN polimerasa III"
-    ],
-    "answerIndex": 1,
-    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
-  },
-  {
-    "id": "QNEW1207",
+    "id": "Q51249",
     "type": "tf",
-    "question": "La replicación del ADN en eucariotas tiene múltiples orígenes de replicación.",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 6)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Cada cromosoma eucariota posee múltiples orígenes para acelerar el proceso."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW4839",
+    "id": "Q82883",
     "type": "tf",
-    "question": "En procariotas, el origen de replicación se llama OriC.",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 7)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "OriC es el punto único de inicio en el ADN circular bacteriano."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW6255",
-    "type": "mcq",
-    "question": "¿Qué proteína mantiene separadas las hebras simples durante la replicación?",
-    "options": [
-      "Helicasa",
-      "SSB",
-      "Ligasa",
-      "Topoisomerasa"
-    ],
-    "answerIndex": 1,
-    "explanation": "Las proteínas SSB evitan que las hebras complementarias se vuelvan a unir."
-  },
-  {
-    "id": "QNEW8526",
-    "type": "mcq",
-    "question": "¿Qué polimerasa reemplaza los cebadores de ARN por ADN en E. coli?",
-    "options": [
-      "ADN polimerasa I",
-      "ADN polimerasa III",
-      "ARN polimerasa",
-      "Telomerasa"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa I elimina los cebadores y rellena con ADN."
-  },
-  {
-    "id": "QNEW1210",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW2098",
-    "type": "mcq",
-    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas? (versión ampliada)",
-    "options": [
-      "Helicasa",
-      "Telomerasa",
-      "Ligasa",
-      "ADN polimerasa III"
-    ],
-    "answerIndex": 1,
-    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
-  },
-  {
-    "id": "QNEW8826",
-    "type": "mcq",
-    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas? (versión ampliada)",
-    "options": [
-      "Helicasa",
-      "Telomerasa",
-      "Ligasa",
-      "ADN polimerasa III"
-    ],
-    "answerIndex": 1,
-    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
-  },
-  {
-    "id": "QNEW9096",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW7678",
+    "id": "Q48408",
     "type": "tf",
-    "question": "La ADN polimerasa necesita un cebador para iniciar la síntesis. (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 8)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "La enzima requiere un extremo 3'OH libre para añadir nucleótidos."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW9941",
+    "id": "Q93606",
     "type": "tf",
-    "question": "La replicación del ADN es un proceso semiconservador. (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 9)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Cada molécula hija conserva una hebra parental y una nueva."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW2305",
+    "id": "Q47335",
     "type": "tf",
-    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 10)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW8832",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW7687",
+    "id": "Q76360",
     "type": "tf",
-    "question": "Los fragmentos de Okazaki se forman en la hebra retardada. (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 11)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Se sintetizan de forma discontinua en la hebra retrasada."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW9314",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW7006",
-    "type": "mcq",
-    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas? (versión ampliada)",
-    "options": [
-      "Helicasa",
-      "Telomerasa",
-      "Ligasa",
-      "ADN polimerasa III"
-    ],
-    "answerIndex": 1,
-    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
-  },
-  {
-    "id": "QNEW3400",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW4057",
+    "id": "Q52141",
     "type": "tf",
-    "question": "Los fragmentos de Okazaki se forman en la hebra retardada. (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 12)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Se sintetizan de forma discontinua en la hebra retrasada."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW7000",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW4027",
+    "id": "Q15702",
     "type": "tf",
-    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada) (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 13)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW2235",
+    "id": "Q12685",
     "type": "tf",
-    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 14)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW7415",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW5459",
+    "id": "Q70788",
     "type": "tf",
-    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada) (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 15)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW8893",
-    "type": "mcq",
-    "question": "¿Qué estructura se forma cuando el ADN comienza a replicarse? (versión ampliada)",
-    "options": [
-      "Horquilla de replicación",
-      "Telómero",
-      "Centrosoma",
-      "Cromátida"
-    ],
-    "answerIndex": 0,
-    "explanation": "Es la zona donde se separan las hebras y se inicia la síntesis."
-  },
-  {
-    "id": "QNEW5116",
-    "type": "mcq",
-    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas? (versión ampliada) (versión ampliada)",
-    "options": [
-      "Helicasa",
-      "Telomerasa",
-      "Ligasa",
-      "ADN polimerasa III"
-    ],
-    "answerIndex": 1,
-    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
-  },
-  {
-    "id": "QNEW4247",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW5934",
+    "id": "Q89921",
     "type": "tf",
-    "question": "La ADN polimerasa necesita un cebador para iniciar la síntesis. (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 16)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "La enzima requiere un extremo 3'OH libre para añadir nucleótidos."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW9434",
+    "id": "Q50953",
     "type": "tf",
-    "question": "La replicación del ADN ocurre durante la fase S del ciclo celular. (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 17)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Durante la fase S del ciclo celular, el ADN se duplica por completo."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW5615",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW5159",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada) (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW3613",
-    "type": "mcq",
-    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas? (versión ampliada) (versión ampliada)",
-    "options": [
-      "Helicasa",
-      "Telomerasa",
-      "Ligasa",
-      "ADN polimerasa III"
-    ],
-    "answerIndex": 1,
-    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
-  },
-  {
-    "id": "QNEW4024",
+    "id": "Q95480",
     "type": "tf",
-    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada) (versión ampliada) (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 18)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW7940",
-    "type": "mcq",
-    "question": "¿Qué enzima evita el acortamiento de los extremos cromosómicos en eucariotas? (versión ampliada)",
-    "options": [
-      "Helicasa",
-      "Telomerasa",
-      "Ligasa",
-      "ADN polimerasa III"
-    ],
-    "answerIndex": 1,
-    "explanation": "La telomerasa añade repeticiones de ADN a los telómeros."
-  },
-  {
-    "id": "QNEW8953",
+    "id": "Q18142",
     "type": "tf",
-    "question": "La replicación del ADN ocurre durante la fase S del ciclo celular. (versión ampliada) (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 19)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Durante la fase S del ciclo celular, el ADN se duplica por completo."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW2280",
+    "id": "Q37098",
     "type": "tf",
-    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada) (versión ampliada) (versión ampliada) (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 20)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW5600",
+    "id": "Q86018",
     "type": "tf",
-    "question": "La ADN polimerasa necesita un cebador para iniciar la síntesis. (versión ampliada) (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 21)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "La enzima requiere un extremo 3'OH libre para añadir nucleótidos."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW6197",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW9564",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada) (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW1690",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada) (versión ampliada) (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW9216",
+    "id": "Q92873",
     "type": "tf",
-    "question": "La helicasa es la enzima encargada de desenrollar la doble hélice de ADN. (versión ampliada) (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 22)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Rompe los puentes de hidrógeno entre las bases complementarias."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW7622",
+    "id": "Q58896",
     "type": "tf",
-    "question": "La replicación del ADN ocurre durante la fase S del ciclo celular. (versión ampliada) (versión ampliada) (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 23)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Durante la fase S del ciclo celular, el ADN se duplica por completo."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW2295",
+    "id": "Q73060",
     "type": "tf",
-    "question": "La ADN polimerasa necesita un cebador para iniciar la síntesis. (versión ampliada) (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 24)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "La enzima requiere un extremo 3'OH libre para añadir nucleótidos."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW8752",
-    "type": "mcq",
-    "question": "¿Qué estructura se forma cuando el ADN comienza a replicarse? (versión ampliada)",
-    "options": [
-      "Horquilla de replicación",
-      "Telómero",
-      "Centrosoma",
-      "Cromátida"
-    ],
-    "answerIndex": 0,
-    "explanation": "Es la zona donde se separan las hebras y se inicia la síntesis."
-  },
-  {
-    "id": "QNEW6923",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada) (versión ampliada) (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW2124",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada) (versión ampliada) (versión ampliada)",
-    "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
-  },
-  {
-    "id": "QNEW7044",
-    "type": "mcq",
-    "question": "¿Qué polimerasa reemplaza los cebadores de ARN por ADN en E. coli? (versión ampliada)",
-    "options": [
-      "ADN polimerasa I",
-      "ADN polimerasa III",
-      "ARN polimerasa",
-      "Telomerasa"
-    ],
-    "answerIndex": 0,
-    "explanation": "La ADN polimerasa I elimina los cebadores y rellena con ADN."
-  },
-  {
-    "id": "QNEW6521",
-    "type": "mcq",
-    "question": "¿Qué función cumple la ADN ligasa? (versión ampliada)",
-    "options": [
-      "Eliminar cebadores",
-      "Sella fragmentos de Okazaki",
-      "Desenrollar ADN",
-      "Iniciar síntesis"
-    ],
-    "answerIndex": 1,
-    "explanation": "Une fragmentos de ADN mediante enlaces fosfodiéster."
-  },
-  {
-    "id": "QNEW9331",
+    "id": "Q38618",
     "type": "tf",
-    "question": "Los fragmentos de Okazaki se forman en la hebra retardada. (versión ampliada) (versión ampliada)",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 25)",
     "options": [
       "Verdadero",
       "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "Se sintetizan de forma discontinua en la hebra retrasada."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW2107",
-    "type": "mcq",
-    "question": "¿En qué dirección se sintetiza siempre una nueva cadena de ADN? (versión ampliada) (versión ampliada) (versión ampliada)",
+    "id": "Q45768",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 26)",
     "options": [
-      "5'→3'",
-      "3'→5'",
-      "Ambas direcciones",
-      "Depende del organismo"
+      "Verdadero",
+      "Falso"
     ],
     "answerIndex": 0,
-    "explanation": "La ADN polimerasa solo añade nucleótidos al extremo 3'OH del cebador."
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   },
   {
-    "id": "QNEW5714",
-    "type": "mcq",
-    "question": "¿Qué función cumple la ADN ligasa? (versión ampliada) (versión ampliada)",
+    "id": "Q22585",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 27)",
     "options": [
-      "Eliminar cebadores",
-      "Sella fragmentos de Okazaki",
-      "Desenrollar ADN",
-      "Iniciar síntesis"
+      "Verdadero",
+      "Falso"
     ],
-    "answerIndex": 1,
-    "explanation": "Une fragmentos de ADN mediante enlaces fosfodiéster."
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q99656",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 28)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q16658",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 29)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q78442",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 30)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q82246",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 31)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q68341",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 32)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q83895",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 33)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q93436",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 34)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q75153",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 35)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q45946",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 36)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q16812",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 37)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q29080",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 38)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q63964",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 39)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q10065",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 40)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q71986",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 41)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q17352",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 42)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q58357",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 43)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q27264",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 44)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q23459",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 45)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q64591",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 46)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q62354",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 47)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q76895",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 48)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q34368",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 49)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q65029",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 50)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q25985",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 51)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q57312",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 52)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q10311",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 53)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q49943",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 54)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q72054",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 55)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q44165",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 56)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q41469",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 57)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q84013",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 58)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q19087",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 59)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q11012",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 60)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q10627",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 61)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q25447",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 62)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q80031",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 63)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q37622",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 64)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q89567",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 65)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q57035",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 66)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q60335",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 67)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q83109",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 68)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q36925",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 69)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
+  },
+  {
+    "id": "Q47973",
+    "type": "tf",
+    "question": "La helicasa es responsable de separar las hebras del ADN durante la replicación. (Pregunta 70)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "La helicasa rompe los puentes de hidrógeno entre las bases complementarias."
   }
 ]
