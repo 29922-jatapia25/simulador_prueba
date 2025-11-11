@@ -1,151 +1,114 @@
 <!doctype html>
 <html lang="es">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Simulador de Prueba — Biología Molecular (Campbell &amp; Reece)</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css" />
+  <meta charset="utf-8">
+  <title>Simulador de Prueba - Biología Molecular</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <header class="app-header">
-    <div class="brand">
-      <div class="logo">🧬</div>
-      <div class="titles">
-        <h1>Simulador de Prueba</h1>
-        <p>Cap. 16 — Bases moleculares de la herencia (Campbell &amp; Reece)</p>
-      </div>
-    </div>
-    <div class="actions">
-      <button id="btn-import" class="btn ghost">Importar preguntas (JSON)</button>
-      <a class="btn ghost" href="questions.json" download>Descargar banco (JSON)</a>
-      <button id="btn-help" class="btn ghost">Ayuda</button>
-    </div>
-  </header>
+  <div class="app">
+    <header class="topbar">
+      <h1>Simulador de Pruebas - Biología</h1>
+      <button id="btn-help" class="ghost">Ayuda</button>
+    </header>
+    <main>
+      <section id="setup" class="card">
+        <h2>Configura tu simulación</h2>
+        <label for="bank-select" class="label">Selecciona la prueba</label>
+        <select id="bank-select" class="input">
+          <option value="questions.json">Cap. 16 - Replicación y estructura del ADN</option>
+          <option value="question2.json">Cap. 9</option>
+        </select>
 
-  <main class="container">
-    <section id="setup" class="card">
-      <h2>Configura tu simulación</h2>
-      <div class="grid">
-        <div class="field">
-          <label for="num-questions">Número de preguntas</label>
-          <input id="num-questions" type="number" min="5" max="120" step="5" value="50" />
-          <small>El banco incluye 100 preguntas (MCQ y V/F).</small>
-        </div>
-        <div class="field">
-          <label for="time-limit">Límite de tiempo (minutos)</label>
-          <input id="time-limit" type="number" min="5" max="180" step="5" value="60" />
-          <small>Puedes desactivar el tiempo marcando <em>sin límite</em>.</small>
-        </div>
-        <div class="field checkbox">
-          <input id="no-timer" type="checkbox" />
-          <label for="no-timer">Sin límite de tiempo</label>
-        </div>
-        <div class="field checkbox">
-          <input id="shuffle" type="checkbox" checked />
-          <label for="shuffle">Barajar preguntas y alternativas</label>
-        </div>
-      </div>
-      <div class="actions">
-        <button id="btn-start" class="btn primary">Comenzar simulación</button>
-      </div>
-    </section>
-
-    <section id="exam" class="hidden">
-      <div class="exam-topbar">
-        <div class="timer">
-          <span id="timer-icon">⏳</span>
-          <span id="timer-text">00:00:00</span>
-        </div>
-        <div class="progress">
-          <div id="progress-bar" class="progress-bar"></div>
-          <span id="progress-text">0 / 0</span>
-        </div>
-        <div class="exam-actions">
-          <button id="btn-mark" class="btn ghost">Marcar</button>
-          <button id="btn-clear" class="btn ghost">Limpiar respuesta</button>
-          <button id="btn-submit" class="btn danger">Finalizar</button>
-        </div>
-      </div>
-
-      <div class="exam-body">
-        <aside class="nav">
-          <h3>Navegación</h3>
-          <div id="grid"></div>
-          <div class="legend">
-            <span><i class="dot current"></i>Actual</span>
-            <span><i class="dot answered"></i>Respondida</span>
-            <span><i class="dot flagged"></i>Marcada</span>
-            <span><i class="dot blank"></i>En blanco</span>
+        <small class="muted">Agrega más archivos JSON y opciones aquí si quieres más bancos.</small>
+        <div class="grid-3">
+          <div>
+            <label for="num-questions" class="label">Número de preguntas</label>
+            <input id="num-questions" class="input" type="number" value="50" min="5" max="250">
           </div>
-        </aside>
-        <section class="question-area">
-          <div id="qtext" class="qtext"></div>
-          <ul id="options" class="options"></ul>
-          <div class="q-actions">
-            <button id="prev" class="btn ghost">← Anterior</button>
-            <button id="next" class="btn ghost">Siguiente →</button>
+          <div>
+            <label for="time-limit" class="label">Límite (minutos)</label>
+            <input id="time-limit" class="input" type="number" value="60" min="5" max="600">
           </div>
-        </section>
-      </div>
-    </section>
-
-    <section id="results" class="card hidden">
-      <h2>Resultados</h2>
-      <div class="stats">
-        <div class="stat">
-          <div class="kpi" id="kpi-score">0%</div>
-          <div class="label">Puntaje</div>
+          <div class="check-wrap">
+            <label class="label">Opciones</label>
+            <label class="check">
+              <input id="no-timer" type="checkbox"> Sin tiempo
+            </label>
+            <label class="check">
+              <input id="shuffle" type="checkbox" checked> Barajar preguntas y opciones
+            </label>
+          </div>
         </div>
-        <div class="stat">
-          <div class="kpi" id="kpi-correct">0</div>
-          <div class="label">Correctas</div>
+        <div class="actions">
+          <button id="btn-start" class="primary">Comenzar simulación</button>
+          <button id="btn-import" class="ghost">Importar banco (JSON)</button>
+          <input id="file-input" type="file" accept="application/json" hidden>
         </div>
-        <div class="stat">
-          <div class="kpi" id="kpi-wrong">0</div>
-          <div class="label">Incorrectas</div>
+      </section>
+
+      <section id="exam" class="card hidden">
+        <div class="exam-header">
+          <div>
+            <div class="label">Progreso</div>
+            <div class="progress-wrap">
+              <div id="progress-text">0 / 0</div>
+              <div class="progress">
+                <div id="progress-bar" class="progress-bar"></div>
+              </div>
+            </div>
+          </div>
+          <div class="timer-wrap">
+            <span id="timer-icon">🕒</span>
+            <span id="timer-text">—</span>
+          </div>
         </div>
-        <div class="stat">
-          <div class="kpi" id="kpi-blank">0</div>
-          <div class="label">En blanco</div>
+        <div class="layout">
+          <aside class="grid-nav">
+            <div id="grid" class="grid-btns"></div>
+          </aside>
+          <article class="question-area">
+            <div id="qtext" class="qtext"></div>
+            <ul id="options" class="options"></ul>
+            <div class="q-actions">
+              <button id="prev" class="ghost">&larr; Anterior</button>
+              <button id="next" class="ghost">Siguiente &rarr;</button>
+              <button id="btn-mark" class="ghost">Marcar</button>
+              <button id="btn-clear" class="ghost">Borrar respuesta</button>
+              <button id="btn-submit" class="primary danger">Finalizar</button>
+            </div>
+          </article>
         </div>
-        <div class="stat">
-          <div class="kpi" id="kpi-time">00:00:00</div>
-          <div class="label">Tiempo usado</div>
+      </section>
+
+      <section id="results" class="card hidden">
+        <h2>Resultados</h2>
+        <div class="kpi-wrap">
+          <div class="kpi"><div class="kpi-label">Puntaje</div><div id="kpi-score" class="kpi-value">0%</div></div>
+          <div class="kpi"><div class="kpi-label">Correctas</div><div id="kpi-correct" class="kpi-value">0</div></div>
+          <div class="kpi"><div class="kpi-label">Incorrectas</div><div id="kpi-wrong" class="kpi-value">0</div></div>
+          <div class="kpi"><div class="kpi-label">En blanco</div><div id="kpi-blank" class="kpi-value">0</div></div>
+          <div class="kpi"><div class="kpi-label">Tiempo</div><div id="kpi-time" class="kpi-value">00:00:00</div></div>
         </div>
-      </div>
+        <div class="actions">
+          <button id="btn-review" class="ghost">Mostrar / ocultar revisión</button>
+          <button id="btn-export" class="ghost">Exportar revisión</button>
+          <button id="btn-restart" class="primary">Nueva simulación</button>
+        </div>
+        <div id="review" class="review hidden"></div>
+      </section>
+    </main>
+  </div>
 
-      <div class="actions">
-        <button id="btn-review" class="btn">Revisar respuestas</button>
-        <button id="btn-export" class="btn ghost">Exportar revisión (HTML)</button>
-        <button id="btn-restart" class="btn primary">Nueva simulación</button>
-      </div>
-
-      <div id="review" class="review hidden"></div>
-    </section>
-  </main>
-
-  <footer class="app-footer">
-    <p>Banco de preguntas basado en Campbell &amp; Reece, Capítulo 16 (uso académico).</p>
-    <p class="muted">Este simulador funciona 100% local (sin servidor). Guarda tu avance en este navegador.</p>
-  </footer>
-
-  <input id="file-input" type="file" accept="application/json" hidden />
-  <dialog id="helpDialog">
+  <dialog id="helpDialog" class="help">
     <h3>Ayuda</h3>
-    <ol>
-      <li>Ajusta el número de preguntas y tiempo.</li>
-      <li>Haz clic en <strong>Comenzar</strong> para iniciar.</li>
-      <li>Navega desde la rejilla lateral o con Anterior/Siguiente.</li>
-      <li>Puedes <em>marcar</em> ítems para revisar luego.</li>
-      <li>Al finalizar, obtén puntaje y revisión con explicaciones.</li>
-      <li>Usa <strong>Exportar</strong> para guardar tu revisión como HTML.</li>
-    </ol>
-    <form method="dialog">
-      <button class="btn primary">Cerrar</button>
-    </form>
+    <ul>
+      <li>Elige el banco de preguntas (archivo JSON) antes de empezar.</li>
+      <li>Puedes ajustar número de preguntas, tiempo y barajado.</li>
+      <li>El progreso se guarda en este navegador.</li>
+    </ul>
+    <button onclick="this.closest('dialog').close()">Cerrar</button>
   </dialog>
 
   <script src="app.js"></script>

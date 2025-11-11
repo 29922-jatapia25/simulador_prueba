@@ -1,8 +1,9 @@
 // Simulador de prueba — App
 const $ = (q) => document.querySelector(q);
-const $$ = (q) => Array.from(document.querySelectorAll(q));
 
 let BANK = [];
+let CURRENT_BANK_FILE = "questions.json";
+const STORAGE_KEY_PREFIX = "simulador_state_v2_";
 
 function randId(){
   const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
@@ -10,38 +11,31 @@ function randId(){
   for (let i=0;i<7;i++) s += chars[Math.floor(Math.random()*chars.length)];
   return s;
 }
-function normalizeText(t){
-  return String(t||"").replace(/\s+/g," ").trim().toLowerCase();
+function getStorageKey(){
+  return STORAGE_KEY_PREFIX + CURRENT_BANK_FILE;
 }
 function dedupeBank(arr){
-  const seenText = new Set();
   const seenId = new Set();
   const cleaned = [];
-  let removedByText = 0, fixedIds = 0, removedBad = 0;
+  let fixedIds = 0, removedBad = 0;
   for (const q of arr){
     if (!q || !q.question || !Array.isArray(q.options)) { removedBad++; continue; }
-    // normalize TF options if needed
     if (q.type === "tf") q.options = ["Verdadero","Falso"];
-    // ensure id
     let id = q.id || randId();
-    // fix duplicate ids
     while (seenId.has(id)) { id = randId(); fixedIds++; }
     q.id = id; seenId.add(id);
-    const key = normalizeText(q.question);
-    if (seenText.has(key)) { removedByText++; continue; }
-    seenText.add(key);
     cleaned.push(q);
   }
-  return {cleaned, removedByText, fixedIds, removedBad};
+  return {cleaned, fixedIds, removedBad};
 }
 
 let EXAM = [];
 let state = {
   idx: 0,
-  answers: {},   // {id: optionIndex}
+  answers: {},
   flagged: new Set(),
   startAt: null,
-  timeLimit: 0,  // seconds (0 = no timer)
+  timeLimit: 0,
   finished: false,
 };
 
@@ -54,13 +48,13 @@ const hhmmss = (sec) => {
 };
 
 async function loadBank(file = "questions.json") {
+  CURRENT_BANK_FILE = file;
   const res = await fetch(file);
+  if (!res.ok) throw new Error("No se pudo cargar " + file);
   const raw = await res.json();
-  const {cleaned, removedByText, fixedIds, removedBad} = dedupeBank(raw);
+  const {cleaned, fixedIds, removedBad} = dedupeBank(raw);
   BANK = cleaned;
-  if (removedByText || fixedIds || removedBad) {
-    console.info(`Banco depurado → ${BANK.length} preguntas (eliminadas por repetidas: ${removedByText}, IDs ajustados: ${fixedIds}, inválidas: ${removedBad}).`);
-  }
+  console.info(`Banco "${file}" cargado → ${BANK.length} preguntas (IDs ajustados: ${fixedIds}, inválidas: ${removedBad}).`);
   return BANK;
 }
 
@@ -73,15 +67,13 @@ function shuffle(arr) {
   return a;
 }
 
-
 function buildExam(n = 50, shuffleAll = true) {
   const pool = shuffleAll ? shuffle(BANK) : BANK.slice();
   if (n > pool.length) {
-    alert(`El banco tiene ${pool.length} preguntas únicas; se usarán ${pool.length}.`);
+    alert(`El banco tiene ${pool.length} preguntas; se usarán ${pool.length}.`);
     n = pool.length;
   }
   const chosen = pool.slice(0, n).map((q, i) => {
-    // Clone to avoid mutating BANK
     const clone = {
       id: q.id,
       type: q.type,
@@ -91,43 +83,35 @@ function buildExam(n = 50, shuffleAll = true) {
       explanation: q.explanation || "",
       n: i + 1
     };
-
-    // Sanity checks
     if (!Array.isArray(clone.options) || clone.options.length === 0) {
       clone.options = ["—"];
       clone.answerIndex = 0;
     }
-
-    // Guard: answerIndex must point to actual correct string BEFORE shuffle
     const correctBefore = clone.options[clone.answerIndex];
-
-    // Shuffle options only for MCQ if requested
     if (shuffleAll && clone.type === "mcq") {
       clone.options = shuffle(clone.options);
     }
-
-    // Remap answerIndex to the new index of the correct option
     const newIdx = clone.options.findIndex(opt => opt === correctBefore);
-    clone.answerIndex = newIdx >= 0 ? newIdx : 0; // fallback safety
-
+    clone.answerIndex = newIdx >= 0 ? newIdx : 0;
     return clone;
   });
   return chosen;
 }
 
-
 function saveProgress() {
   const snapshot = {
+    bank: CURRENT_BANK_FILE,
     EXAM,
     state: {
       ...state,
       flagged: Array.from(state.flagged || [])
     }
   };
-  localStorage.setItem("simulador_state", JSON.stringify(snapshot));
+  localStorage.setItem(getStorageKey(), JSON.stringify(snapshot));
 }
+
 function loadProgress() {
-  const raw = localStorage.getItem("simulador_state");
+  const raw = localStorage.getItem(getStorageKey());
   if (!raw) return false;
   try {
     const parsed = JSON.parse(raw);
@@ -143,16 +127,17 @@ function loadProgress() {
       timeLimit: Number.isFinite(s.timeLimit) ? s.timeLimit : 0,
       finished: !!s.finished
     };
+    console.info("Progreso restaurado para banco:", CURRENT_BANK_FILE);
     return true;
   } catch (err) {
     console.error('No se pudo restaurar el progreso:', err);
-    localStorage.removeItem('simulador_state');
+    localStorage.removeItem(getStorageKey());
     return false;
   }
 }
 
 function renderGrid() {
-  const grid = $("#grid");
+  const grid = document.getElementById("grid");
   grid.innerHTML = "";
   EXAM.forEach((q, i) => {
     const btn = document.createElement("button");
@@ -167,10 +152,9 @@ function renderGrid() {
 
 function renderQuestion() {
   const q = EXAM[state.idx];
-  $("#qtext").innerHTML = `<strong>${q.n}.</strong> ${q.question}`;
-  const ul = $("#options");
+  document.getElementById("qtext").innerHTML = `<strong>${q.n}.</strong> ${q.question}`;
+  const ul = document.getElementById("options");
   ul.innerHTML = "";
-
   q.options.forEach((opt, i) => {
     const li = document.createElement("li");
     const input = document.createElement("input");
@@ -181,7 +165,6 @@ function renderQuestion() {
     const label = document.createElement("label");
     label.setAttribute("for", `opt-${i}`);
     label.textContent = opt;
-
     li.appendChild(input);
     li.appendChild(label);
     li.addEventListener("click", () => {
@@ -190,7 +173,7 @@ function renderQuestion() {
       renderProgress();
       saveProgress();
       li.classList.add("selected");
-      setTimeout(()=>li.classList.remove("selected"), 250);
+      setTimeout(()=>li.classList.remove("selected"), 200);
     });
     ul.appendChild(li);
   });
@@ -199,23 +182,23 @@ function renderQuestion() {
 
 function renderProgress() {
   const answered = Object.keys(state.answers).length;
-  $("#progress-text").textContent = `${answered} / ${EXAM.length}`;
-  const pct = Math.round(100 * answered / EXAM.length);
-  $("#progress-bar").style.width = `${pct}%`;
+  document.getElementById("progress-text").textContent = `${answered} / ${EXAM.length}`;
+  const pct = EXAM.length ? Math.round(100 * answered / EXAM.length) : 0;
+  document.getElementById("progress-bar").style.width = `${pct}%`;
 }
 
 let ticker = null;
 function startTimer() {
   if (state.timeLimit === 0) {
-    $("#timer-text").textContent = "—";
-    $("#timer-icon").textContent = "🕒";
+    document.getElementById("timer-text").textContent = "—";
+    document.getElementById("timer-icon").textContent = "🕒";
     return;
   }
   ticker && clearInterval(ticker);
   ticker = setInterval(()=>{
     const elapsed = Math.floor((Date.now() - state.startAt) / 1000);
     const left = Math.max(0, state.timeLimit - elapsed);
-    $("#timer-text").textContent = hhmmss(left);
+    document.getElementById("timer-text").textContent = hhmmss(left);
     if (left <= 0) {
       clearInterval(ticker);
       submitExam(true);
@@ -235,22 +218,21 @@ function submitExam(auto = false) {
     if (idx === undefined) return;
     if (isCorrect) correct++; else wrong++;
   });
-  const score = Math.round(100 * correct / EXAM.length);
-  $("#kpi-score").textContent = `${score}%`;
-  $("#kpi-correct").textContent = correct;
-  $("#kpi-wrong").textContent = wrong;
-  $("#kpi-blank").textContent = blank;
-  $("#kpi-time").textContent = hhmmss(elapsed);
-
-  $("#exam").classList.add("hidden");
-  $("#results").classList.remove("hidden");
+  const score = EXAM.length ? Math.round(100 * correct / EXAM.length) : 0;
+  document.getElementById("kpi-score").textContent = `${score}%`;
+  document.getElementById("kpi-correct").textContent = correct;
+  document.getElementById("kpi-wrong").textContent = wrong;
+  document.getElementById("kpi-blank").textContent = blank;
+  document.getElementById("kpi-time").textContent = hhmmss(elapsed);
+  document.getElementById("exam").classList.add("hidden");
+  document.getElementById("results").classList.remove("hidden");
   buildReview();
   saveProgress();
   if (auto) alert("Tiempo agotado. Se envió tu simulación automáticamente.");
 }
 
 function buildReview() {
-  const box = $("#review");
+  const box = document.getElementById("review");
   box.innerHTML = "";
   EXAM.forEach((q,i) => {
     const userIdx = state.answers[q.id];
@@ -271,84 +253,142 @@ function buildReview() {
 
 function exportReview() {
   const html = `<!doctype html><html lang="es"><meta charset="utf-8"><title>Revisión</title>
-  <style>body{font-family:Inter,system-ui;padding:24px;color:#111}h1{margin:0 0 8px}
-  .item{border-top:1px solid #ddd;padding:12px 0}.tag{display:inline-block;padding:2px 8px;border-radius:999px;font-size:12px}
-  .ok{background:#063;color:#b6f7d2}.bad{background:#700;color:#ffdcdc}.muted{color:#666}</style>
+  <style>body{font-family:system-ui;padding:24px;color:#111}
+  h1{margin:0 0 8px}.item{border-top:1px solid #ddd;padding:8px 0}
+  .tag{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px}
+  .ok{background:#ecfdf3;color:#166534}.bad{background:#fef2f2;color:#991b1b}
+  .muted{color:#6b7280;font-size:12px}</style>
   <h1>Revisión de simulación</h1>
   <p class="muted">${new Date().toLocaleString()}</p>
-  ${$("#review").innerHTML}`;
+  ${document.getElementById("review").innerHTML}`;
   const blob = new Blob([html], {type:"text/html"});
   const url = URL.createObjectURL(blob);
   const a = document.createElement("a");
-  a.href = url; a.download = "revision_simulacion.html"; a.click();
-  setTimeout(()=>URL.revokeObjectURL(url), 1000);
+  a.href = url;
+  a.download = "revision_simulacion.html";
+  a.click();
+  setTimeout(()=>URL.revokeObjectURL(url), 800);
 }
 
 function clearAnswer() {
   const q = EXAM[state.idx];
   delete state.answers[q.id];
-  renderQuestion(); renderProgress(); saveProgress();
+  renderQuestion();
+  renderProgress();
+  saveProgress();
 }
 
 async function main() {
-  await loadBank();
+  const bankSelect = document.getElementById("bank-select");
+  CURRENT_BANK_FILE = bankSelect ? bankSelect.value || "questions.json" : "questions.json";
+  await loadBank(CURRENT_BANK_FILE);
 
-  // Restore previous session if any
   if (loadProgress() && !state.finished) {
-    $("#setup").classList.add("hidden");
-    $("#exam").classList.remove("hidden");
-    try { renderGrid(); renderQuestion(); renderProgress(); startTimer(); }
-    catch (e) { console.error(e); localStorage.removeItem('simulador_state'); location.reload(); }
+    document.getElementById("setup").classList.add("hidden");
+    document.getElementById("exam").classList.remove("hidden");
+    try {
+      renderGrid();
+      renderQuestion();
+      renderProgress();
+      startTimer();
+    } catch (e) {
+      console.error(e);
+      localStorage.removeItem(getStorageKey());
+      location.reload();
+    }
   }
 
-  $("#btn-start").addEventListener("click", () => {
-    const n = Math.max(5, Math.min(parseInt($("#num-questions").value || 50, 10), 120));
-    const noTimer = $("#no-timer").checked;
-    const minutes = Math.max(5, parseInt($("#time-limit").value || 60, 10));
-    const shuf = $("#shuffle").checked;
+  if (bankSelect) {
+    bankSelect.addEventListener("change", async (e)=>{
+      const file = e.target.value;
+      try {
+        await loadBank(file);
+        EXAM = [];
+        state = { idx:0, answers:{}, flagged:new Set(), startAt:null, timeLimit:0, finished:false };
+        localStorage.removeItem(getStorageKey());
+        document.getElementById("setup").classList.remove("hidden");
+        document.getElementById("exam").classList.add("hidden");
+        document.getElementById("results").classList.add("hidden");
+        document.getElementById("review").classList.add("hidden");
+        document.getElementById("progress-text").textContent = "0 / 0";
+        document.getElementById("progress-bar").style.width = "0%";
+      } catch (err) {
+        console.error(err);
+        alert("No se pudo cargar el banco seleccionado.");
+      }
+    });
+  }
+
+  document.getElementById("btn-start").addEventListener("click", () => {
+    const maxQ = BANK.length || 0;
+    const n = Math.max(5, Math.min(parseInt(document.getElementById("num-questions").value || 50, 10), maxQ || 5));
+    const noTimer = document.getElementById("no-timer").checked;
+    const minutes = Math.max(5, parseInt(document.getElementById("time-limit").value || 60, 10));
+    const shuf = document.getElementById("shuffle").checked;
 
     EXAM = buildExam(n, shuf);
     state = {
-      idx: 0, answers:{}, flagged: new Set(), finished:false,
+      idx: 0,
+      answers: {},
+      flagged: new Set(),
+      finished: false,
       startAt: Date.now(),
       timeLimit: noTimer ? 0 : minutes * 60,
     };
 
-    $("#setup").classList.add("hidden");
-    $("#exam").classList.remove("hidden");
-    renderQuestion(); renderProgress(); startTimer(); saveProgress();
+    document.getElementById("setup").classList.add("hidden");
+    document.getElementById("exam").classList.remove("hidden");
+    renderQuestion();
+    renderProgress();
+    startTimer();
+    saveProgress();
   });
 
-  $("#prev").addEventListener("click", ()=>{
+  document.getElementById("prev").addEventListener("click", ()=>{
     state.idx = (state.idx - 1 + EXAM.length) % EXAM.length;
-    renderQuestion(); saveProgress();
-  });
-  $("#next").addEventListener("click", ()=>{
-    state.idx = (state.idx + 1) % EXAM.length;
-    renderQuestion(); saveProgress();
+    renderQuestion();
+    saveProgress();
   });
 
-  $("#btn-submit").addEventListener("click", ()=>{
+  document.getElementById("next").addEventListener("click", ()=>{
+    state.idx = (state.idx + 1) % EXAM.length;
+    renderQuestion();
+    saveProgress();
+  });
+
+  document.getElementById("btn-submit").addEventListener("click", ()=>{
     if (confirm("¿Enviar simulación? No podrás cambiar respuestas.")) submitExam(false);
   });
-  $("#btn-review").addEventListener("click", ()=> $("#review").classList.toggle("hidden"));
-  $("#btn-export").addEventListener("click", exportReview);
-  $("#btn-restart").addEventListener("click", ()=>{
-    localStorage.removeItem("simulador_state");
+
+  document.getElementById("btn-review").addEventListener("click", ()=>{
+    document.getElementById("review").classList.toggle("hidden");
+  });
+
+  document.getElementById("btn-export").addEventListener("click", exportReview);
+
+  document.getElementById("btn-restart").addEventListener("click", ()=>{
+    localStorage.removeItem(getStorageKey());
     location.reload();
   });
-  $("#btn-clear").addEventListener("click", clearAnswer);
 
-  $("#btn-mark").addEventListener("click", ()=>{
+  document.getElementById("btn-clear").addEventListener("click", clearAnswer);
+
+  document.getElementById("btn-mark").addEventListener("click", ()=>{
     const q = EXAM[state.idx];
     if (state.flagged.has(q.id)) state.flagged.delete(q.id); else state.flagged.add(q.id);
-    renderGrid(); saveProgress();
+    renderGrid();
+    saveProgress();
   });
 
-  $("#btn-help").addEventListener("click", ()=> $("#helpDialog").showModal());
+  document.getElementById("btn-help").addEventListener("click", ()=>{
+    document.getElementById("helpDialog").showModal();
+  });
 
-  $("#btn-import").addEventListener("click", ()=> $("#file-input").click());
-  $("#file-input").addEventListener("change", async (e)=>{
+  document.getElementById("btn-import").addEventListener("click", ()=>{
+    document.getElementById("file-input").click();
+  });
+
+  document.getElementById("file-input").addEventListener("change", async (e)=>{
     const file = e.target.files[0];
     if (!file) return;
     try {
@@ -357,7 +397,9 @@ async function main() {
       if (!Array.isArray(data)) throw new Error("JSON inválido");
       const dep = dedupeBank(data);
       BANK = dep.cleaned;
-      alert(`Banco importado: ${BANK.length} preguntas. (Repetidas eliminadas: ${dep.removedByText}, IDs corregidos: ${dep.fixedIds}, inválidas: ${dep.removedBad})`);
+      EXAM = [];
+      state = { idx:0, answers:{}, flagged:new Set(), startAt:null, timeLimit:0, finished:false };
+      alert(`Banco importado: ${BANK.length} preguntas. (IDs corregidos: ${dep.fixedIds}, inválidas: ${dep.removedBad})`);
     } catch (err) {
       alert("No se pudo importar el JSON: " + err.message);
     }

@@ -1,0 +1,498 @@
+[
+  {
+    "id": "M001",
+    "type": "mcq",
+    "question": "¿Cuál es el objetivo principal del laboratorio de mitosis y meiosis descrito en el manual?",
+    "options": [
+      "Calcular el número exacto de cromosomas humanos",
+      "Identificar y comprender las etapas de mitosis y meiosis y sus diferencias",
+      "Observar únicamente células somáticas en interfase",
+      "Estudiar mutaciones genéticas producidas por radiación"
+    ],
+    "answerIndex": 1,
+    "explanation": "El laboratorio busca reconocer las fases de mitosis y meiosis y resaltar sus diferencias fundamentales."
+  },
+  {
+    "id": "M002",
+    "type": "mcq",
+    "question": "¿Cómo se denominan las células que forman el cuerpo?",
+    "options": [
+      "Haploides",
+      "Germinales",
+      "Somáticas o diploides",
+      "Polinucleadas"
+    ],
+    "answerIndex": 2,
+    "explanation": "Las células corporales se denominan somáticas y son diploides (2n)."
+  },
+  {
+    "id": "M003",
+    "type": "mcq",
+    "question": "Los gametos producidos a partir de células germinales se caracterizan por ser:",
+    "options": [
+      "Diploides",
+      "Tetraploides",
+      "Haploides",
+      "Aneuploides obligatoriamente"
+    ],
+    "answerIndex": 2,
+    "explanation": "Los gametos son haploides (n), con la mitad de cromosomas que la célula progenitora."
+  },
+  {
+    "id": "M004",
+    "type": "mcq",
+    "question": "La mitosis es fundamental principalmente para:",
+    "options": [
+      "Producción de gametos",
+      "Crecimiento y reparación de tejidos",
+      "Generar variabilidad genética",
+      "Formar cuerpos polares"
+    ],
+    "answerIndex": 1,
+    "explanation": "La mitosis permite el crecimiento, renovación y reparación de tejidos somáticos."
+  },
+  {
+    "id": "M005",
+    "type": "mcq",
+    "question": "La meiosis ocurre en:",
+    "options": [
+      "Todas las células del cuerpo",
+      "Células somáticas",
+      "Células germinales de gónadas",
+      "Células de la piel únicamente"
+    ],
+    "answerIndex": 2,
+    "explanation": "Solo las células germinales en las gónadas ingresan a meiosis para formar gametos."
+  },
+  {
+    "id": "M006",
+    "type": "mcq",
+    "question": "¿Cuál es la característica esencial de la meiosis como división celular?",
+    "options": [
+      "Produce dos células diploides idénticas",
+      "Es un proceso reductivo que genera células haploides",
+      "Aumenta el número de cromosomas",
+      "Mantiene constante el número de cromosomas sin divisiones nucleares"
+    ],
+    "answerIndex": 1,
+    "explanation": "La meiosis es una división reductiva que reduce el número de cromosomas a la mitad."
+  },
+  {
+    "id": "M007",
+    "type": "mcq",
+    "question": "El ciclo celular se divide en:",
+    "options": [
+      "Interfase y meiosis",
+      "Interfase y mitosis",
+      "Profase y telofase",
+      "G1, S, G2 únicamente"
+    ],
+    "answerIndex": 1,
+    "explanation": "El ciclo celular comprende interfase (G1, S, G2) y la fase M (mitosis)."
+  },
+  {
+    "id": "M008",
+    "type": "mcq",
+    "question": "Durante la fase S de la interfase ocurre:",
+    "options": [
+      "Condensación de cromosomas",
+      "Separación de cromátidas",
+      "Duplicación del ADN",
+      "Formación del huso mitótico"
+    ],
+    "answerIndex": 2,
+    "explanation": "En la fase S se replica el ADN en preparación para la división celular."
+  },
+  {
+    "id": "M009",
+    "type": "mcq",
+    "question": "La mitosis asegura que las células hijas:",
+    "options": [
+      "Tengan la mitad de cromosomas",
+      "Tengan el doble de cromosomas",
+      "Tengan el mismo número y tipo de cromosomas que la célula madre",
+      "Sean siempre haploides"
+    ],
+    "answerIndex": 2,
+    "explanation": "En mitosis, las células hijas conservan el mismo contenido cromosómico que la progenitora."
+  },
+  {
+    "id": "M010",
+    "type": "mcq",
+    "question": "¿En qué fase de la mitosis se vuelven visibles los cromosomas por condensación?",
+    "options": [
+      "Interfase",
+      "Profase",
+      "Metafase",
+      "Telofase"
+    ],
+    "answerIndex": 1,
+    "explanation": "En profase los cromosomas se condensan y se hacen visibles."
+  },
+  {
+    "id": "M011",
+    "type": "mcq",
+    "question": "El centrómero es:",
+    "options": [
+      "La región donde se replica el ADN",
+      "La región de unión entre cromátidas hermanas",
+      "La zona donde termina la citocinesis",
+      "El lugar donde se forma la placa ecuatorial"
+    ],
+    "answerIndex": 1,
+    "explanation": "El centrómero mantiene unidas a las cromátidas hermanas y sirve de punto de unión al huso."
+  },
+  {
+    "id": "M012",
+    "type": "mcq",
+    "question": "Los cinetocoros son:",
+    "options": [
+      "Regiones de ADN no codificante",
+      "Proteínas asociadas al centrómero donde se une el huso mitótico",
+      "Enzimas que duplican ADN",
+      "Estructuras exclusivas de la interfase"
+    ],
+    "answerIndex": 1,
+    "explanation": "El cinetocoro es un complejo proteico en el centrómero que conecta cromosomas y huso."
+  },
+  {
+    "id": "M013",
+    "type": "mcq",
+    "question": "¿En qué fase de la mitosis los cromosomas se alinean en el plano ecuatorial?",
+    "options": [
+      "Profase",
+      "Metafase",
+      "Anafase",
+      "Telofase"
+    ],
+    "answerIndex": 1,
+    "explanation": "En metafase los cromosomas se ubican en la placa metafásica."
+  },
+  {
+    "id": "M014",
+    "type": "mcq",
+    "question": "Durante la anafase mitótica ocurre:",
+    "options": [
+      "Formación de la placa celular",
+      "Desaparición del huso",
+      "Separación de cromátidas hermanas hacia polos opuestos",
+      "Alineación de tétradas"
+    ],
+    "answerIndex": 2,
+    "explanation": "En anafase se dividen los centrómeros y las cromátidas hermanas migran a polos opuestos."
+  },
+  {
+    "id": "M015",
+    "type": "mcq",
+    "question": "La telofase mitótica se caracteriza por:",
+    "options": [
+      "Máxima condensación cromosómica",
+      "Reaparición de la membrana nuclear y descondensación del ADN",
+      "Inicio de duplicación de ADN",
+      "Desaparición completa del citoplasma"
+    ],
+    "answerIndex": 1,
+    "explanation": "En telofase se reorganizan núcleos hijos y los cromosomas se descondensan."
+  },
+  {
+    "id": "M016",
+    "type": "mcq",
+    "question": "La citocinesis en células animales se da típicamente mediante:",
+    "options": [
+      "Placa celular",
+      "Estrangulamiento o surco de segmentación",
+      "Formación de tétradas",
+      "Separación por lisosomas"
+    ],
+    "answerIndex": 1,
+    "explanation": "En animales aparece un surco ecuatorial que se profundiza hasta separar las células."
+  },
+  {
+    "id": "M017",
+    "type": "mcq",
+    "question": "En células vegetales, la citocinesis se caracteriza por:",
+    "options": [
+      "Formación de un surco profundo",
+      "Fusión de lisosomas",
+      "Formación de una placa celular que origina la pared entre células hijas",
+      "División por gemación"
+    ],
+    "answerIndex": 2,
+    "explanation": "Se forma una placa celular que dará lugar a la pared entre células hijas."
+  },
+  {
+    "id": "M018",
+    "type": "mcq",
+    "question": "En la meiosis I, la profase I se distingue porque:",
+    "options": [
+      "No hay apareamiento de homólogos",
+      "Ocurre el crossing over entre cromosomas homólogos",
+      "Se separan cromátidas hermanas",
+      "Se forman cuerpos polares"
+    ],
+    "answerIndex": 1,
+    "explanation": "Durante profase I se aparean homólogos (tétradas) y ocurre recombinación genética."
+  },
+  {
+    "id": "M019",
+    "type": "mcq",
+    "question": "El crossing over contribuye a:",
+    "options": [
+      "Reducir el número de células hijas",
+      "Generar variabilidad genética",
+      "Eliminar cromosomas dañados",
+      "Duplicar el ADN"
+    ],
+    "answerIndex": 1,
+    "explanation": "El intercambio de segmentos entre homólogos produce nuevas combinaciones alélicas."
+  },
+  {
+    "id": "M020",
+    "type": "mcq",
+    "question": "Durante la metafase I de la meiosis:",
+    "options": [
+      "Los cromosomas individuales se alinean solos",
+      "Las tétradas (pares de homólogos) se alinean en el plano ecuatorial",
+      "Se separan cromátidas hermanas",
+      "Se forma la placa celular"
+    ],
+    "answerIndex": 1,
+    "explanation": "En metafase I se alinean pares de cromosomas homólogos, no cromátidas individuales."
+  },
+  {
+    "id": "M021",
+    "type": "mcq",
+    "question": "En la anafase I meiótica se separan:",
+    "options": [
+      "Cromátidas hermanas",
+      "Cromosomas homólogos hacia polos opuestos",
+      "Telómeros",
+      "Centrómeros en dos mitades"
+    ],
+    "answerIndex": 1,
+    "explanation": "En anafase I se separan los homólogos; las cromátidas hermanas permanecen unidas."
+  },
+  {
+    "id": "M022",
+    "type": "mcq",
+    "question": "Al finalizar la telofase I y citocinesis se obtienen:",
+    "options": [
+      "Dos células diploides idénticas",
+      "Dos células haploides bivalentes",
+      "Cuatro células haploides monovalentes",
+      "Una sola célula tetraploide"
+    ],
+    "answerIndex": 1,
+    "explanation": "El resultado son dos células haploides, pero con cromosomas aún con dos cromátidas."
+  },
+  {
+    "id": "M023",
+    "type": "mcq",
+    "question": "La meiosis II se asemeja a:",
+    "options": [
+      "Una mitosis normal de una célula diploide",
+      "Una mitosis de células haploides",
+      "La interfase",
+      "La profase I"
+    ],
+    "answerIndex": 1,
+    "explanation": "La meiosis II es similar a una mitosis, pero parte de células haploides."
+  },
+  {
+    "id": "M024",
+    "type": "mcq",
+    "question": "En la anafase II ocurre:",
+    "options": [
+      "Separación de homólogos",
+      "Formación de tétradas",
+      "Separación de cromátidas hermanas",
+      "No hay movimiento cromosómico"
+    ],
+    "answerIndex": 2,
+    "explanation": "En meiosis II se separan cromátidas hermanas, generando cromosomas monovalentes."
+  },
+  {
+    "id": "M025",
+    "type": "mcq",
+    "question": "El resultado final de la meiosis (I y II) es:",
+    "options": [
+      "Dos células diploides idénticas",
+      "Dos células haploides idénticas",
+      "Cuatro células haploides genéticamente diferentes",
+      "Cuatro células diploides iguales"
+    ],
+    "answerIndex": 2,
+    "explanation": "La meiosis produce cuatro células haploides con combinaciones genéticas distintas."
+  },
+  {
+    "id": "M026",
+    "type": "mcq",
+    "question": "La gametogénesis es:",
+    "options": [
+      "Solo la meiosis II",
+      "El conjunto de procesos que producen gametos maduros",
+      "La mitosis de células somáticas",
+      "Exclusivamente la formación de cuerpos polares"
+    ],
+    "answerIndex": 1,
+    "explanation": "Incluye meiosis y otros procesos de maduración hasta obtener gametos funcionales."
+  },
+  {
+    "id": "M027",
+    "type": "mcq",
+    "question": "En la espermatogénesis (o formación de polen en plantas) la división es principalmente:",
+    "options": [
+      "Asimétrica",
+      "Simétrica, generando células de tamaño similar",
+      "Mitosis sin citocinesis",
+      "Endomitosis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Las divisiones producen células similares en tamaño, a diferencia de la ovogénesis."
+  },
+  {
+    "id": "M028",
+    "type": "mcq",
+    "question": "En la ovogénesis se observa:",
+    "options": [
+      "División totalmente simétrica",
+      "Producción de cuatro óvulos funcionales",
+      "División asimétrica con un óvulo funcional y cuerpos polares",
+      "Ausencia de meiosis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Solo uno de los productos meióticos se convierte en óvulo funcional; los demás son cuerpos polares."
+  },
+  {
+    "id": "M029",
+    "type": "tf",
+    "question": "En mitosis, las células hijas son genéticamente idénticas a la célula madre.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Verdadero: se conserva el número y tipo de cromosomas."
+  },
+  {
+    "id": "M030",
+    "type": "tf",
+    "question": "La meiosis contribuye a la variabilidad genética mediante el crossing over y la distribución independiente de cromosomas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Verdadero: ambos procesos generan combinaciones genéticas diversas."
+  },
+  {
+    "id": "M031",
+    "type": "tf",
+    "question": "En la metafase I de la meiosis se alinean cromosomas homólogos en pares.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Verdadero: las tétradas se organizan en el plano ecuatorial."
+  },
+  {
+    "id": "M032",
+    "type": "tf",
+    "question": "En la anafase I se separan cromátidas hermanas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "Falso: se separan cromosomas homólogos; las cromátidas se separan en la anafase II."
+  },
+  {
+    "id": "M033",
+    "type": "tf",
+    "question": "La meiosis II comienza con células haploides.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Verdadero: tras meiosis I ya se redujo el número de cromosomas."
+  },
+  {
+    "id": "M034",
+    "type": "tf",
+    "question": "La citocinesis es el proceso de división del núcleo celular.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "Falso: la citocinesis divide el citoplasma; la cariocinesis divide el núcleo."
+  },
+  {
+    "id": "M035",
+    "type": "tf",
+    "question": "En células vegetales, la citocinesis implica la formación de una placa celular.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Verdadero: esta placa origina la pared entre células hijas."
+  },
+  {
+    "id": "M036",
+    "type": "tf",
+    "question": "La mitosis y la meiosis son procesos idénticos porque ambos producen cuatro células hijas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "Falso: la mitosis produce dos células diploides; la meiosis, cuatro haploides."
+  },
+  {
+    "id": "M037",
+    "type": "tf",
+    "question": "Solo las células germinales pueden entrar en meiosis.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Verdadero: las somáticas se dividen por mitosis."
+  },
+  {
+    "id": "M038",
+    "type": "tf",
+    "question": "En el laboratorio se utilizan raíces de cebolla y mitosis en Áscaris para observar fases mitóticas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Verdadero: estos son materiales clásicos para visualizar mitosis."
+  },
+  {
+    "id": "M039",
+    "type": "tf",
+    "question": "En el ejercicio de meiosis se observa la formación de polen en anteras de Lilium.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Verdadero: la antera de Lilium permite ver meiosis I y II en formación de granos de polen."
+  },
+  {
+    "id": "M040",
+    "type": "tf",
+    "question": "Al final de la meiosis II se obtienen cuatro células haploides completamente separadas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "Verdadero: la citocinesis final individualiza las cuatro células hijas."
+  }
+]
