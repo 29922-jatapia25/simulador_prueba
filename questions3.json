@@ -1,0 +1,406 @@
+[
+  {
+    "id": "R001",
+    "type": "mcq",
+    "question": "¿Cuál es la función de la ADN polimerasa III en la hebra adelantada?",
+    "options": [
+      "Eliminar el cebador del extremo 5’",
+      "Sintetizar la hebra adelantada de forma continua",
+      "Unir fragmentos de Okazaki",
+      "Corregir el superenrollamiento del ADN"
+    ],
+    "answerIndex": 1,
+    "explanation": "En la hebra adelantada, la ADN pol III sintetiza la nueva hebra de manera continua."
+  },
+  {
+    "id": "R002",
+    "type": "mcq",
+    "question": "En la hebra retrasada, la ADN polimerasa III:",
+    "options": [
+      "Sintetiza la hebra de forma continua",
+      "Elimina cebadores y los reemplaza por ADN",
+      "Alarga cada fragmento y lo añade a su cebador",
+      "Une los fragmentos de Okazaki"
+    ],
+    "answerIndex": 2,
+    "explanation": "En la hebra retrasada, la ADN pol III extiende cada fragmento desde su cebador."
+  },
+  {
+    "id": "R003",
+    "type": "mcq",
+    "question": "¿Qué proteína sintetiza la hebra adelantada de forma continua?",
+    "options": [
+      "ADN polimerasa I",
+      "ADN polimerasa III",
+      "Ligasa",
+      "Primasa"
+    ],
+    "answerIndex": 1,
+    "explanation": "La ADN polimerasa III es la enzima encargada de la síntesis continua de la hebra adelantada."
+  },
+  {
+    "id": "R004",
+    "type": "mcq",
+    "question": "¿Qué proteína alarga cada fragmento de la hebra retrasada y lo añade a su cebador?",
+    "options": [
+      "ADN polimerasa III",
+      "ADN polimerasa I",
+      "Ligasa",
+      "Topoisomerasa"
+    ],
+    "answerIndex": 0,
+    "explanation": "La ADN pol III extiende los fragmentos de la hebra retrasada a partir de los cebadores."
+  },
+  {
+    "id": "R005",
+    "type": "mcq",
+    "question": "La función de la ADN polimerasa I en la hebra adelantada es:",
+    "options": [
+      "Unir fragmentos de Okazaki",
+      "Eliminar el cebador del extremo 5’ y reemplazarlo por ADN",
+      "Desenrollar la doble hélice",
+      "Sintetizar el cebador de ARN inicial"
+    ],
+    "answerIndex": 1,
+    "explanation": "ADN pol I quita el cebador de ARN del extremo 5’ y lo sustituye por ADN."
+  },
+  {
+    "id": "R006",
+    "type": "mcq",
+    "question": "En la hebra retrasada, la ADN polimerasa I:",
+    "options": [
+      "Sintetiza la hebra continua",
+      "Elimina el cebador del extremo 5’ de cada fragmento y lo reemplaza por ADN",
+      "Une fragmentos de Okazaki",
+      "Corrige el superenrollamiento"
+    ],
+    "answerIndex": 1,
+    "explanation": "En cada fragmento Okazaki, la ADN pol I retira el cebador y rellena con ADN."
+  },
+  {
+    "id": "R007",
+    "type": "mcq",
+    "question": "¿Qué proteína es la principal encargada de eliminar cebadores de ARN y reemplazarlos por ADN en ambas hebras?",
+    "options": [
+      "ADN polimerasa III",
+      "ADN polimerasa I",
+      "Ligasa",
+      "Primasa"
+    ],
+    "answerIndex": 1,
+    "explanation": "La ADN polimerasa I se especializa en retirar cebadores y rellenar con ADN."
+  },
+  {
+    "id": "R008",
+    "type": "mcq",
+    "question": "La ligasa en la hebra adelantada cumple la función de:",
+    "options": [
+      "Unir el extremo 3’ del ADN que reemplaza el cebador al resto de la hebra",
+      "Desenrollar la doble hélice",
+      "Sintetizar cebadores de ARN",
+      "Eliminar cebadores del extremo 5’"
+    ],
+    "answerIndex": 0,
+    "explanation": "La ligasa sella el enlace entre el ADN recién sintetizado y el resto de la hebra."
+  },
+  {
+    "id": "R009",
+    "type": "mcq",
+    "question": "En la hebra retrasada, la ligasa:",
+    "options": [
+      "Une los fragmentos de Okazaki",
+      "Elimina cebadores",
+      "Alarga los fragmentos",
+      "Corrige el superenrollamiento"
+    ],
+    "answerIndex": 0,
+    "explanation": "Su función es unir los fragmentos de Okazaki mediante enlaces fosfodiéster."
+  },
+  {
+    "id": "R010",
+    "type": "mcq",
+    "question": "¿Qué proteína une directamente los fragmentos de Okazaki en la hebra retrasada?",
+    "options": [
+      "ADN polimerasa III",
+      "ADN polimerasa I",
+      "Ligasa",
+      "Helicasa"
+    ],
+    "answerIndex": 2,
+    "explanation": "La enzima que une los fragmentos de Okazaki es la ADN ligasa."
+  },
+  {
+    "id": "R011",
+    "type": "mcq",
+    "question": "La helicasa, tanto en hebra adelantada como en retrasada:",
+    "options": [
+      "Sintetiza cebadores de ARN",
+      "Desenrolla la doble hélice parental en la horquilla de replicación",
+      "Une fragmentos de ADN",
+      "Elimina cebadores 5’"
+    ],
+    "answerIndex": 1,
+    "explanation": "La helicasa rompe los puentes de hidrógeno y abre la doble hélice."
+  },
+  {
+    "id": "R012",
+    "type": "mcq",
+    "question": "¿En qué hebras actúa la helicasa con la misma función?",
+    "options": [
+      "Solo en la hebra adelantada",
+      "Solo en la hebra retrasada",
+      "En ambas hebras",
+      "En ninguna hebra"
+    ],
+    "answerIndex": 2,
+    "explanation": "La helicasa actúa en la horquilla y afecta por igual a la hebra adelantada y retrasada."
+  },
+  {
+    "id": "R013",
+    "type": "mcq",
+    "question": "La proteína de unión a cadena simple (SSB) en la hebra adelantada:",
+    "options": [
+      "Sintetiza cebadores de ARN",
+      "Se une y estabiliza el ADN de cadena simple hasta que se emplee como molde",
+      "Une fragmentos de Okazaki",
+      "Corrige el superenrollamiento"
+    ],
+    "answerIndex": 1,
+    "explanation": "Las SSB evitan que el ADN monocatenario se vuelva a aparear antes de ser copiado."
+  },
+  {
+    "id": "R014",
+    "type": "mcq",
+    "question": "La función de las proteínas de unión a cadena simple en la hebra retrasada es:",
+    "options": [
+      "Desenrollar la doble hélice",
+      "Estabilizar el ADN de cadena simple hasta que se use como molde",
+      "Unir fragmentos",
+      "Eliminar cebadores"
+    ],
+    "answerIndex": 1,
+    "explanation": "En la hebra retrasada también estabilizan el ADN monocatenario."
+  },
+  {
+    "id": "R015",
+    "type": "mcq",
+    "question": "¿Qué proteína se une y estabiliza el ADN de cadena simple en ambas hebras?",
+    "options": [
+      "ADN polimerasa III",
+      "Helicasa",
+      "Proteína de unión a cadena simple (SSB)",
+      "Ligasa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Las proteínas SSB se unen al ADN monocatenario para estabilizarlo."
+  },
+  {
+    "id": "R016",
+    "type": "mcq",
+    "question": "La topoisomerasa, tanto en hebra adelantada como retrasada:",
+    "options": [
+      "Corrige el superenrollamiento delante de la horquilla de replicación",
+      "Sintetiza cebadores",
+      "Une fragmentos de Okazaki",
+      "Elimina cebadores del extremo 5’"
+    ],
+    "answerIndex": 0,
+    "explanation": "Su función es aliviar la tensión causada por el desenrollamiento del ADN."
+  },
+  {
+    "id": "R017",
+    "type": "mcq",
+    "question": "En la hebra adelantada, la primasa:",
+    "options": [
+      "Elimina cebadores",
+      "Sintetiza un cebador de ARN en el extremo 5’",
+      "Une fragmentos de ADN",
+      "Desenrolla la doble hélice"
+    ],
+    "answerIndex": 1,
+    "explanation": "La primasa coloca un cebador de ARN en el extremo 5’ de la hebra adelantada."
+  },
+  {
+    "id": "R018",
+    "type": "mcq",
+    "question": "En la hebra retrasada, la primasa:",
+    "options": [
+      "Sintetiza un cebador de ARN en el extremo 5’ de cada fragmento Okazaki",
+      "Une fragmentos de Okazaki",
+      "Corrige el superenrollamiento",
+      "Estabiliza ADN monocatenario"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cada fragmento Okazaki requiere su propio cebador sintetizado por la primasa."
+  },
+  {
+    "id": "R019",
+    "type": "mcq",
+    "question": "¿Qué proteína sintetiza un cebador de ARN en el extremo 5’ de cada fragmento Okazaki?",
+    "options": [
+      "ADN polimerasa III",
+      "ADN polimerasa I",
+      "Ligasa",
+      "Primasa"
+    ],
+    "answerIndex": 3,
+    "explanation": "La primasa forma los cebadores necesarios para iniciar cada fragmento Okazaki."
+  },
+  {
+    "id": "R020",
+    "type": "mcq",
+    "question": "¿En qué hebra se forman los fragmentos de Okazaki?",
+    "options": [
+      "Hebra adelantada",
+      "Hebra retrasada",
+      "En ambas hebras",
+      "En ninguna hebra"
+    ],
+    "answerIndex": 1,
+    "explanation": "La tabla indica que los fragmentos de Okazaki se relacionan con la hebra retrasada."
+  },
+  {
+    "id": "R021",
+    "type": "mcq",
+    "question": "¿Qué combinación proteína-función para la hebra retrasada es correcta?",
+    "options": [
+      "ADN pol III: sintetiza de forma continua toda la hebra",
+      "ADN pol I: elimina el cebador del extremo 5’ de cada fragmento y lo reemplaza por ADN",
+      "Ligasa: sintetiza cebadores en cada fragmento",
+      "Primasa: une los fragmentos de Okazaki"
+    ],
+    "answerIndex": 1,
+    "explanation": "En la hebra retrasada, la ADN pol I remueve cebadores y los reemplaza por ADN."
+  },
+  {
+    "id": "R022",
+    "type": "mcq",
+    "question": "¿Qué combinación proteína-función para la hebra adelantada es correcta?",
+    "options": [
+      "Primasa: sintetiza un cebador de ARN en el extremo 5’",
+      "Ligasa: elimina el cebador del extremo 5’",
+      "ADN pol I: une fragmentos de Okazaki",
+      "Topoisomerasa: sintetiza la hebra de forma continua"
+    ],
+    "answerIndex": 0,
+    "explanation": "En la hebra adelantada, la primasa coloca un cebador de ARN en el extremo 5’."
+  },
+  {
+    "id": "R023",
+    "type": "mcq",
+    "question": "¿Qué proteína tiene como función principal unir fragmentos de ADN, sin sintetizar ni eliminar cebadores?",
+    "options": [
+      "ADN polimerasa I",
+      "ADN polimerasa III",
+      "Ligasa",
+      "Primasa"
+    ],
+    "answerIndex": 2,
+    "explanation": "La ligasa se encarga de unir extremos de ADN, especialmente fragmentos de Okazaki."
+  },
+  {
+    "id": "R024",
+    "type": "mcq",
+    "question": "¿Qué proteína corrige el superenrollamiento delante de la horquilla de replicación?",
+    "options": [
+      "Helicasa",
+      "Topoisomerasa",
+      "Proteína de unión a cadena simple",
+      "Ligasa"
+    ],
+    "answerIndex": 1,
+    "explanation": "La topoisomerasa corrige el superenrollamiento en ambas hebras."
+  },
+  {
+    "id": "R025",
+    "type": "mcq",
+    "question": "¿Cuál de estas proteínas se une al ADN de cadena simple para estabilizarlo hasta que se use como molde?",
+    "options": [
+      "Proteína de unión a cadena simple (SSB)",
+      "Topoisomerasa",
+      "Ligasa",
+      "ADN polimerasa III"
+    ],
+    "answerIndex": 0,
+    "explanation": "Las SSB estabilizan el ADN monocatenario en la zona de la horquilla."
+  },
+  {
+    "id": "R026",
+    "type": "mcq",
+    "question": "¿Cuál de los siguientes grupos incluye solo proteínas cuya función es la misma en hebra adelantada y retrasada?",
+    "options": [
+      "Helicasa, proteína de unión a cadena simple y topoisomerasa",
+      "ADN polimerasa III, helicasa y ligasa",
+      "Primasa, ADN polimerasa I y ligasa",
+      "ADN polimerasa III, primasa y proteína SSB"
+    ],
+    "answerIndex": 0,
+    "explanation": "Helicasa, SSB y topoisomerasa realizan la misma función en ambas hebras según la tabla."
+  },
+  {
+    "id": "R027",
+    "type": "tf",
+    "question": "La ADN polimerasa III sintetiza la hebra adelantada de forma continua.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "En la columna de la hebra adelantada se indica que la ADN pol III la sintetiza de forma continua."
+  },
+  {
+    "id": "R028",
+    "type": "tf",
+    "question": "En la hebra retrasada, la primasa solo sintetiza un cebador de ARN para toda la hebra.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "La tabla muestra que la primasa sintetiza un cebador en el extremo 5’ de cada fragmento Okazaki, no solo uno."
+  },
+  {
+    "id": "R029",
+    "type": "tf",
+    "question": "Las proteínas de unión a cadena simple se unen y estabilizan el ADN de cadena simple hasta que sea empleado como molde en ambas hebras.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "En ambas columnas de la tabla se indica la misma función para estas proteínas."
+  },
+  {
+    "id": "R030",
+    "type": "tf",
+    "question": "La ligasa elimina el cebador y luego une los fragmentos de ADN.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "La eliminación de cebadores la realiza la ADN polimerasa I; la ligasa solo une los fragmentos."
+  },
+  {
+    "id": "R031",
+    "type": "tf",
+    "question": "La topoisomerasa corrige el superenrollamiento delante de la horquilla de replicación.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 0,
+    "explanation": "En ambas hebras, la función de la topoisomerasa es corregir el superenrollamiento."
+  },
+  {
+    "id": "R032",
+    "type": "tf",
+    "question": "La helicasa solo actúa en la hebra adelantada.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1,
+    "explanation": "La helicasa desenrolla la doble hélice en la horquilla afectando tanto a la hebra adelantada como a la retrasada."
+  }
+]
