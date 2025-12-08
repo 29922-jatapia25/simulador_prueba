@@ -1,0 +1,478 @@
+[
+  {
+    "id": "P001",
+    "type": "truefalse",
+    "question": "El envejecimiento es un proceso natural y universal.",
+    "answerIndex": 0,
+    "explanation": "La diapositiva 3 indica que el envejecimiento es natural y universal."
+  },
+  {
+    "id": "P002",
+    "type": "truefalse",
+    "question": "El envejecimiento NO está inscrito en nuestro código genético.",
+    "answerIndex": 1,
+    "explanation": "La diapositiva 3 señala que está inscrito en nuestro código genético."
+  },
+  {
+    "id": "P003",
+    "type": "truefalse",
+    "question": "La perspectiva social del envejecimiento se construye también en entornos macro y micro sociales.",
+    "answerIndex": 0,
+    "explanation": "La diapositiva 10 menciona que es una construcción social visible en todos los sistemas."
+  },
+  {
+    "id": "P004",
+    "type": "truefalse",
+    "question": "El edadismo es definido por la OMS como estereotipo, prejuicio y discriminación hacia personas por su edad.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 11."
+  },
+  {
+    "id": "P005",
+    "type": "truefalse",
+    "question": "El edadismo es la forma de discriminación más importante según la OMS.",
+    "answerIndex": 1,
+    "explanation": "Es la tercera más importante, después del racismo y sexismo."
+  },
+  {
+    "id": "P006",
+    "type": "truefalse",
+    "question": "Una percepción negativa del envejecimiento puede aumentar la autoexclusión.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 12."
+  },
+  {
+    "id": "P007",
+    "type": "truefalse",
+    "question": "Según la presentación, la esperanza de vida en Ecuador ha disminuido desde 1950.",
+    "answerIndex": 1,
+    "explanation": "Ha aumentado significativamente (diapositiva 22)."
+  },
+  {
+    "id": "P008",
+    "type": "truefalse",
+    "question": "En Ecuador la esperanza de vida saludable en 2016 era de 67.9 años.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 22."
+  },
+  {
+    "id": "P009",
+    "type": "truefalse",
+    "question": "En Latinoamérica el envejecimiento solo afecta a la población adulta mayor.",
+    "answerIndex": 1,
+    "explanation": "La OMS indica que afecta a todo el sistema social, político y económico."
+  },
+  {
+    "id": "P010",
+    "type": "truefalse",
+    "question": "El índice de envejecimiento poblacional en Ecuador para 2050 se proyecta en 165 personas mayores por cada 100 niños.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 21."
+  },
+  {
+    "id": "P011",
+    "type": "truefalse",
+    "question": "La jubilación siempre se vive como una ruptura negativa según todas las teorías presentadas.",
+    "answerIndex": 1,
+    "explanation": "Existen tipos positivos como continuación o nuevo comienzo (diapositiva 31)."
+  },
+  {
+    "id": "P012",
+    "type": "mcq",
+    "question": "¿Cuál de estos NO es un determinante sociodemográfico del envejecimiento según la presentación?",
+    "options": ["Edad", "Género", "Nivel educativo", "Color de ojos"],
+    "answerIndex": 3,
+    "explanation": "Diapositiva 33."
+  },
+  {
+    "id": "P013",
+    "type": "mcq",
+    "question": "¿Qué teoría señala que las personas mayores reducen selectivamente sus relaciones y priorizan las emocionales?",
+    "options": [
+      "Teoría de la desvinculación",
+      "Teoría de la actividad",
+      "Teoría de la selectividad emocional",
+      "Teoría biopsicosocial"
+    ],
+    "answerIndex": 2,
+    "explanation": "Teoría de Laura Carstensen (diapositiva 40)."
+  },
+  {
+    "id": "P014",
+    "type": "mcq",
+    "question": "Según el PDF, ¿cuál es una consecuencia del aislamiento?",
+    "options": [
+      "Aumento de la autoestima",
+      "Mejor sueño",
+      "Alteraciones en el sistema inmune",
+      "Mayor socialización"
+    ],
+    "answerIndex": 2,
+    "explanation": "Diapositiva 62."
+  },
+  {
+    "id": "P015",
+    "type": "truefalse",
+    "question": "El apoyo social informal incluye redes de familiares, amigos y vecinos.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 43."
+  },
+  {
+    "id": "P016",
+    "type": "truefalse",
+    "question": "El apoyo formal proviene únicamente de voluntarios.",
+    "answerIndex": 1,
+    "explanation": "Proviene de servicios sociales, estatales y ONGs (diapositiva 43)."
+  },
+  {
+    "id": "P017",
+    "type": "mcq",
+    "question": "¿El envejecimiento activo busca optimizar oportunidades de…?",
+    "options": ["Riqueza", "Salud, participación y seguridad", "Competencia laboral", "Fuerza física"],
+    "answerIndex": 1,
+    "explanation": "Definición de envejecimiento activo (diapositiva 15)."
+  },
+  {
+    "id": "P018",
+    "type": "mcq",
+    "question": "¿Cuál de estas NO es una actitud ante la jubilación según Agulló-Tomás?",
+    "options": ["Aceptación", "Ambivalencia", "Rechazo", "Hipermotivación"],
+    "answerIndex": 3,
+    "explanation": "Diapositiva 35."
+  },
+  {
+    "id": "P019",
+    "type": "truefalse",
+    "question": "La soledad subjetiva se relaciona con sentir rechazo o incomprensión.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 58."
+  },
+  {
+    "id": "P020",
+    "type": "truefalse",
+    "question": "El aislamiento es una experiencia emocional subjetiva.",
+    "answerIndex": 1,
+    "explanation": "Es una característica objetiva de falta de relaciones (diapositiva 62)."
+  },
+
+  {
+    "id": "P021",
+    "type": "mcq",
+    "question": "Según la encuesta SABE, ¿qué rango de edad presenta mayor porcentaje de adultos mayores que viven solos?",
+    "options": ["60-64", "65-74", "75 o más", "No se especifica"],
+    "answerIndex": 2,
+    "explanation": "Diapositiva 57."
+  },
+  {
+    "id": "P022",
+    "type": "truefalse",
+    "question": "Ser mujer es un factor propiciador de soledad en la vejez.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 56."
+  },
+  {
+    "id": "P023",
+    "type": "mcq",
+    "question": "¿Cuál de estos NO es un tipo de apoyo social?",
+    "options": ["Emocional", "Informativo", "Material", "Clínico obligatorio"],
+    "answerIndex": 3,
+    "explanation": "Diapositiva 44."
+  },
+  {
+    "id": "P024",
+    "type": "truefalse",
+    "question": "Los amigos son un buen indicador de mejor afrontamiento del duelo.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 50."
+  },
+  {
+    "id": "P025",
+    "type": "truefalse",
+    "question": "Los vecinos pueden ser un recurso de apoyo importante en emergencias.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 51."
+  },
+  {
+    "id": "P026",
+    "type": "truefalse",
+    "question": "La teoría de la actividad propone disminuir la participación social para un envejecimiento saludable.",
+    "answerIndex": 1,
+    "explanation": "Propone continuar actividades y relaciones (diapositiva 39)."
+  },
+  {
+    "id": "P027",
+    "type": "truefalse",
+    "question": "El envejecimiento demográfico en América Latina está disminuyendo según los datos presentados.",
+    "answerIndex": 1,
+    "explanation": "Se proyecta un aumento (diapositiva 7)."
+  },
+  {
+    "id": "P028",
+    "type": "mcq",
+    "question": "¿Cuántos millones de adultos mayores se estiman en América Latina para 2050?",
+    "options": ["96 millones", "180 millones", "50 millones", "200 millones"],
+    "answerIndex": 1,
+    "explanation": "Diapositiva 7."
+  },
+  {
+    "id": "P029",
+    "type": "truefalse",
+    "question": "El envejecimiento saludable considera factores sociales, ambientales y biológicos.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 54."
+  },
+  {
+    "id": "P030",
+    "type": "mcq",
+    "question": "¿Qué factor NO aparece como causa biopsicosocial de malestar en la vejez?",
+    "options": ["Dolor crónico", "Crisis económica", "Jubilación", "Altos ingresos garantizados"],
+    "answerIndex": 3,
+    "explanation": "Diapositiva 55."
+  },
+
+  {
+    "id": "P031",
+    "type": "truefalse",
+    "question": "La dependencia está ligada al cuidado y puede presentarse en cualquier etapa del ciclo vital.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 27."
+  },
+  {
+    "id": "P032",
+    "type": "truefalse",
+    "question": "La discapacidad implica necesariamente dependencia.",
+    "answerIndex": 1,
+    "explanation": "Diapositiva 27."
+  },
+  {
+    "id": "P033",
+    "type": "mcq",
+    "question": "¿Qué grupo de jubilados según Hornstein y Wapner vive el retiro como una continuación natural?",
+    "options": [
+      "Grupo I",
+      "Grupo II",
+      "Grupo III",
+      "Grupo IV"
+    ],
+    "answerIndex": 2,
+    "explanation": "Diapositiva 31."
+  },
+  {
+    "id": "P034",
+    "type": "truefalse",
+    "question": "La soledad aumenta el riesgo de mortalidad en un 26%.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 61."
+  },
+  {
+    "id": "P035",
+    "type": "mcq",
+    "question": "¿Qué tipo de apoyo reduce la sobrecarga de tareas?",
+    "options": ["Emocional", "Informativo", "Material", "Simbológico"],
+    "answerIndex": 2,
+    "explanation": "Diapositiva 44."
+  },
+  {
+    "id": "P036",
+    "type": "truefalse",
+    "question": "La jubilación significa siempre pérdida de identidad.",
+    "answerIndex": 1,
+    "explanation": "Solo Grupo IV la vive como ruptura (diapositiva 31)."
+  },
+  {
+    "id": "P037",
+    "type": "mcq",
+    "question": "El envejecimiento exitoso incluye:",
+    "options": ["Aislamiento progresivo", "Actividades mantenidas pese a pérdidas", "Dependencia total", "Ausencia de roles"],
+    "answerIndex": 1,
+    "explanation": "Diapositiva 41."
+  },
+  {
+    "id": "P038",
+    "type": "truefalse",
+    "question": "La soledad es siempre elegida y no produce malestar emocional.",
+    "answerIndex": 1,
+    "explanation": "La soledad subjetiva es desagradable y angustiante (diapositiva 58)."
+  },
+  {
+    "id": "P039",
+    "type": "mcq",
+    "question": "¿Cuál NO es un tipo de servicio formal del MIES?",
+    "options": [
+      "Centros gerontológicos residenciales",
+      "Centros diurnos",
+      "Atención domiciliaria",
+      "Servicios de turismo internacional"
+    ],
+    "answerIndex": 3,
+    "explanation": "Diapositiva 45."
+  },
+  {
+    "id": "P040",
+    "type": "truefalse",
+    "question": "El apoyo familiar retrasa la institucionalización de las personas mayores.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 49."
+  },
+
+  {
+    "id": "P041",
+    "type": "mcq",
+    "question": "¿Qué concepto describe sentir que uno es 'un mueble más' en la familia?",
+    "options": ["Autoeficacia", "Edadismo", "Generatividad", "Cohesión social"],
+    "answerIndex": 1,
+    "explanation": "Diapositiva 13."
+  },
+  {
+    "id": "P042",
+    "type": "truefalse",
+    "question": "El envejecimiento está condicionado también por los entornos en que la persona vive.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 3."
+  },
+  {
+    "id": "P043",
+    "type": "mcq",
+    "question": "¿Cuál es una consecuencia psicológica del aislamiento?",
+    "options": [
+      "Mejor apetito",
+      "Aumento de autoestima",
+      "Predicción de síntomas depresivos",
+      "Mayor energía social"
+    ],
+    "answerIndex": 2,
+    "explanation": "Diapositiva 62."
+  },
+  {
+    "id": "P044",
+    "type": "truefalse",
+    "question": "Los centros gerontológicos residenciales cubren al 20% de la población adulta mayor.",
+    "answerIndex": 1,
+    "explanation": "Cobertura real ~0.11% (diapositiva 48)."
+  },
+  {
+    "id": "P045",
+    "type": "mcq",
+    "question": "¿Qué factor propicia la soledad en la vejez?",
+    "options": ["Tener muchos amigos", "Ser mujer", "Alta salud física", "Vivir con familia"],
+    "answerIndex": 1,
+    "explanation": "Diapositiva 56."
+  },
+  {
+    "id": "P046",
+    "type": "truefalse",
+    "question": "El tabaquismo y alcoholismo pueden aumentar en situaciones de soledad.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 60."
+  },
+  {
+    "id": "P047",
+    "type": "truefalse",
+    "question": "La esperanza de vida en Ecuador en 1950 era aproximadamente 48 años.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 22."
+  },
+  {
+    "id": "P048",
+    "type": "mcq",
+    "question": "La teoría de la desvinculación sugiere:",
+    "options": [
+      "Mayor participación social",
+      "Preparación para la muerte",
+      "Aumento de redes sociales",
+      "Actividades intensas"
+    ],
+    "answerIndex": 1,
+    "explanation": "Diapositiva 39."
+  },
+  {
+    "id": "P049",
+    "type": "truefalse",
+    "question": "La experiencia subjetiva del envejecimiento influye en el bienestar.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 14."
+  },
+  {
+    "id": "P050",
+    "type": "mcq",
+    "question": "¿Cuál de estos NO es un tipo de administración de servicios gerontológicos?",
+    "options": ["Públicos MIES", "Privados sin fondo MIES", "Organizaciones familiares", "Públicos bajo convenio"],
+    "answerIndex": 2,
+    "explanation": "Diapositiva 46."
+  },
+
+  {
+    "id": "P051",
+    "type": "truefalse",
+    "question": "La vejez es una etapa del ciclo vital representada en las fases del desarrollo humano.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 6."
+  },
+  {
+    "id": "P052",
+    "type": "mcq",
+    "question": "El envejecimiento demográfico mundial indica que el porcentaje de mayores de 60 años pasará de:",
+    "options": ["20% a 10%", "12% a 22%", "30% a 15%", "50% a 40%"],
+    "answerIndex": 1,
+    "explanation": "Diapositiva 7."
+  },
+  {
+    "id": "P053",
+    "type": "truefalse",
+    "question": "El futuro se percibe como más limitado a medida que se envejece, según la teoría de selectividad emocional.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 40."
+  },
+  {
+    "id": "P054",
+    "type": "mcq",
+    "question": "¿Cuál es un indicador de envejecimiento poblacional en Ecuador?",
+    "options": ["Más niños que adultos mayores", "89 mayores por cada 100 niños", "Disminución de adultos mayores", "Aumento de nacimientos"],
+    "answerIndex": 1,
+    "explanation": "Diapositiva 21."
+  },
+  {
+    "id": "P055",
+    "type": "truefalse",
+    "question": "La soledad tiene impacto únicamente emocional y no físico.",
+    "answerIndex": 1,
+    "explanation": "Produce impacto físico y emocional (diapositiva 59)."
+  },
+  {
+    "id": "P056",
+    "type": "mcq",
+    "question": "Un beneficio del apoyo social es:",
+    "options": ["Desmotivación", "Aumento de autoestima", "Aislamiento", "Dependencia inmediata"],
+    "answerIndex": 1,
+    "explanation": "Diapositiva 44."
+  },
+  {
+    "id": "P057",
+    "type": "truefalse",
+    "question": "Las nuevas relaciones tienden a mantenerse estables en la vejez según la teoría de Carstensen.",
+    "answerIndex": 1,
+    "explanation": "Se reducen y se mantienen solo las más significativas (diapositiva 40)."
+  },
+  {
+    "id": "P058",
+    "type": "truefalse",
+    "question": "El abandono es una posible consecuencia del aislamiento prolongado.",
+    "answerIndex": 0,
+    "explanation": "Diapositiva 61."
+  },
+  {
+    "id": "P059",
+    "type": "mcq",
+    "question": "¿Cuál de estos es un rol del apoyo formal?",
+    "options": ["Reducción del contacto social", "Atención domiciliaria", "Aumento del aislamiento", "Privación de actividades"],
+    "answerIndex": 1,
+    "explanation": "Diapositiva 45."
+  },
+  {
+    "id": "P060",
+    "type": "truefalse",
+    "question": "El envejecimiento depende únicamente de factores biológicos.",
+    "answerIndex": 1,
+    "explanation": "Incluye factores sociales y del entorno (diapositiva 3)."
+  }
+]
