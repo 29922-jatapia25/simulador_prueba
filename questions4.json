@@ -529,7 +529,7 @@
     "id": "Q071",
     "type": "mcq",
     "question": "La calidad de vida en la vejez depende de:",
-    "options": ["Solo genética", "Determinantes sociales", "Color del cabello", "Número de viajes"]),
+    "options": ["Solo genética", "Determinantes sociales", "Color del cabello", "Número de viajes"],
     "answerIndex": 1,
     "explanation": "Incluye factores sociales como educación, ingreso, red de apoyo."
   },
