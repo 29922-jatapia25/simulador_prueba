@@ -1,0 +1,1302 @@
+[
+{
+"id": "T001",
+"type": "mcq",
+"question": "¿Entre qué edades se sitúa aproximadamente la adultez media según el documento?",
+"options": [
+"De 25 a 40 años",
+"De 40 a 65 años",
+"De 60 a 80 años",
+"De 18 a 30 años"
+],
+"answerIndex": 1,
+"explanation": "La adultez media se describe como un periodo que ocurre aproximadamente entre los 40 y 65 años de edad."
+},
+{
+"id": "T002",
+"type": "mcq",
+"question": "La adultez media se considera principalmente:",
+"options": [
+"Una etapa fija e idéntica para todas las personas",
+"Una etapa que depende solo de la genética",
+"Una temporalidad arbitraria y de transición",
+"Un periodo sin relación con etapas previas"
+],
+"answerIndex": 2,
+"explanation": "El texto afirma que es una temporalidad arbitraria y una época de transición hacia la adultez tardía o la vejez."
+},
+{
+"id": "T003",
+"type": "mcq",
+"question": "¿De qué depende en gran medida cómo se vive la adultez media?",
+"options": [
+"Únicamente del país de residencia",
+"De la salud, el género, la raza y el nivel socioeconómico",
+"Solo del nivel educativo alcanzado",
+"De la cantidad de hijos que se tiene"
+],
+"answerIndex": 1,
+"explanation": "Se menciona que varía según la salud, el género, la raza y el estado socioeconómico."
+},
+{
+"id": "T004",
+"type": "mcq",
+"question": "Según el documento, la adultez media es principalmente el resultado de:",
+"options": [
+"Factores aleatorios sin relación con el pasado",
+"Lo que ocurrió en etapas anteriores de la vida",
+"Las decisiones tomadas solo en la adolescencia",
+"La herencia genética exclusivamente"
+],
+"answerIndex": 1,
+"explanation": "Se afirma que la adultez media es el resultado de lo que ocurrió en etapas anteriores de la vida."
+},
+{
+"id": "T005",
+"type": "mcq",
+"question": "¿Qué afirma Lachman y Whitbourne sobre los cambios fisiológicos en la adultez media?",
+"options": [
+"Son completamente independientes del estilo de vida",
+"Son producto exclusivo del envejecimiento biológico",
+"Pueden verse influidos por hábitos y estilos de vida previos",
+"Aparecen solo después de los 70 años"
+],
+"answerIndex": 2,
+"explanation": "Se indica que los cambios fisiológicos se relacionan tanto con envejecimiento biológico como con conductas y estilos de vida arrastrados desde la juventud."
+},
+{
+"id": "T006",
+"type": "mcq",
+"question": "La presbicia es un problema de la visión que se caracteriza por:",
+"options": [
+"Dificultad para ver objetos lejanos",
+"Pérdida de la visión lateral",
+"Dificultad para enfocar objetos cercanos",
+"Ceguera nocturna total"
+],
+"answerIndex": 2,
+"explanation": "La presbicia es la dificultad para enfocar de cerca que suele aparecer en la adultez media."
+},
+{
+"id": "T007",
+"type": "mcq",
+"question": "La presbiacusia se refiere a:",
+"options": [
+"Pérdida progresiva de la visión periférica",
+"Pérdida auditiva asociada a la edad",
+"Disminución del gusto por los alimentos",
+"Pérdida del olfato en la vejez"
+],
+"answerIndex": 1,
+"explanation": "La presbiacusia es la pérdida de la audición relacionada con la edad que suele comenzar alrededor de los 50 años."
+},
+{
+"id": "T008",
+"type": "mcq",
+"question": "Según el documento, la pérdida auditiva relacionada con la edad ocurre generalmente:",
+"options": [
+"Antes de los 30 años",
+"A partir de los 50 años",
+"Solo después de los 80 años",
+"Entre los 10 y 20 años"
+],
+"answerIndex": 1,
+"explanation": "Se menciona que la presbiacusia aparece aproximadamente a partir de los 50 años."
+},
+{
+"id": "T009",
+"type": "mcq",
+"question": "¿En quiénes es más rápida la pérdida de la audición según el texto?",
+"options": [
+"En las mujeres",
+"En los hombres",
+"En mujeres y hombres por igual",
+"En adolescentes"
+],
+"answerIndex": 1,
+"explanation": "El texto indica que la pérdida del oído es dos veces más rápida en los hombres que en las mujeres."
+},
+{
+"id": "T010",
+"type": "mcq",
+"question": "¿Qué habilidades son más resistentes a los efectos de la edad?",
+"options": [
+"Las que nunca se usan",
+"Las habilidades que se ejercitan con frecuencia",
+"Las que dependen solo de la memoria a corto plazo",
+"Las relacionadas con el olfato"
+],
+"answerIndex": 1,
+"explanation": "Se menciona que las habilidades que más se ejercitan son más resistentes a los efectos de la edad."
+},
+{
+"id": "T011",
+"type": "mcq",
+"question": "¿Cuándo comienza aproximadamente la pérdida de fuerza y coordinación?",
+"options": [
+"En la infancia",
+"En la adolescencia tardía",
+"A partir de los 20 años",
+"Solo después de los 60 años"
+],
+"answerIndex": 2,
+"explanation": "El documento señala que la fuerza y la coordinación empiezan a disminuir a partir de los 20 años."
+},
+{
+"id": "T012",
+"type": "mcq",
+"question": "La sensibilidad al gusto y al olfato comienza a disminuir, en general, a partir de:",
+"options": [
+"Los 30 años",
+"Los 40 años",
+"Los 50 años",
+"Los 70 años"
+],
+"answerIndex": 2,
+"explanation": "Se indica que la sensibilidad al gusto y al olfato disminuye a partir de los 50 años."
+},
+{
+"id": "T013",
+"type": "mcq",
+"question": "Después de los 45 años se suele observar:",
+"options": [
+"Aumento de la sensibilidad al dolor",
+"Pérdida de la sensibilidad al tacto y al dolor",
+"Mejoría en la agudeza táctil",
+"Disminución del umbral del dolor"
+],
+"answerIndex": 1,
+"explanation": "El texto menciona que después de los 45 años se empieza a perder la sensibilidad al tacto y al dolor."
+},
+{
+"id": "T014",
+"type": "mcq",
+"question": "En el desarrollo cerebral de la adultez media se observa:",
+"options": [
+"Aumento de la velocidad motora en todas las tareas",
+"Ausencia de cambios físicos en el cerebro",
+"Disminución de la reacción motora y un cerebro más lento",
+"Imposibilidad de aprender nuevas habilidades"
+],
+"answerIndex": 2,
+"explanation": "Se describen cambios físicos reales en el cerebro con lentificación y disminución de la reacción motora."
+},
+{
+"id": "T015",
+"type": "mcq",
+"question": "El fenómeno de la “punta de la lengua” se refiere a:",
+"options": [
+"Pérdida total del lenguaje",
+"Dificultad temporal para recordar una palabra conocida",
+"Alteración en la pronunciación de sonidos",
+"Problemas de audición súbitos"
+],
+"answerIndex": 1,
+"explanation": "Es la sensación de tener una palabra conocida “en la punta de la lengua” pero no poder recordarla de inmediato."
+},
+{
+"id": "T016",
+"type": "mcq",
+"question": "¿Qué papel cumple el ejercicio físico en la adultez media según el documento?",
+"options": [
+"No tiene efecto sobre el cerebro",
+"Solo sirve para mejorar la apariencia física",
+"Es fundamental para el mantenimiento físico y cerebral",
+"Es peligroso a partir de los 50 años"
+],
+"answerIndex": 2,
+"explanation": "Se enfatiza que el ejercicio físico es fundamental para el mantenimiento físico y cerebral."
+},
+{
+"id": "T017",
+"type": "mcq",
+"question": "Un cambio corporal común en la adultez media es que:",
+"options": [
+"La piel gana elasticidad",
+"El cabello se vuelve más grueso",
+"La piel pierde suavidad y elasticidad",
+"La estatura aumenta ligeramente"
+],
+"answerIndex": 2,
+"explanation": "El documento señala que la piel pierde suavidad y elasticidad en esta etapa."
+},
+{
+"id": "T018",
+"type": "mcq",
+"question": "En la adultez media suele observarse en el cuerpo:",
+"options": [
+"Disminución de la grasa corporal",
+"Acumulación de grasa y pérdida de estatura",
+"Ausencia de cambios en la composición corporal",
+"Aumento de la masa ósea sin límite"
+],
+"answerIndex": 1,
+"explanation": "Se menciona que se acumula grasa con mayor facilidad y se pierde estatura."
+},
+{
+"id": "T019",
+"type": "mcq",
+"question": "La pérdida de calcio en la adultez media se asocia principalmente con:",
+"options": [
+"Mayor resistencia ósea",
+"Debilitamiento de los huesos",
+"Aumento de la masa muscular",
+"Mejora de la flexibilidad articular"
+],
+"answerIndex": 1,
+"explanation": "La disminución de calcio lleva a huesos más débiles y riesgo de enfermedades como la osteoporosis."
+},
+{
+"id": "T020",
+"type": "mcq",
+"question": "¿Qué ocurre con la capacidad vital de los pulmones en la adultez media?",
+"options": [
+"Aumenta progresivamente",
+"Se mantiene inalterada",
+"Empieza a disminuir",
+"Desaparece por completo"
+],
+"answerIndex": 2,
+"explanation": "El texto refiere que la capacidad vital pulmonar empieza a disminuir en esta etapa."
+},
+{
+"id": "T021",
+"type": "mcq",
+"question": "La regulación de la temperatura corporal y el sistema inmune en la adultez media tienden a:",
+"options": [
+"Fortalecerse paulatinamente",
+"Debilitarse",
+"Permanecer iguales que en la juventud",
+"Volverse completamente ineficientes de golpe"
+],
+"answerIndex": 1,
+"explanation": "Se indica que la regulación de la temperatura y el sistema inmune se debilitan."
+},
+{
+"id": "T022",
+"type": "mcq",
+"question": "En relación con el sueño, en la adultez media es frecuente:",
+"options": [
+"Dormir muchas más horas que antes",
+"Dormir menos horas",
+"No presentar cambios en el patrón de sueño",
+"Dormir solo durante el día"
+],
+"answerIndex": 1,
+"explanation": "El documento señala una disminución de las horas de sueño."
+},
+{
+"id": "T023",
+"type": "mcq",
+"question": "Aunque hay poco deterioro orgánico en la adultez media, empiezan a ser comunes:",
+"options": [
+"Enfermedades cardíacas y diabetes",
+"Enfermedades infantiles",
+"Accidentes laborales",
+"Trastornos exclusivamente genéticos"
+],
+"answerIndex": 0,
+"explanation": "Se menciona que enfermedades cardíacas y diabetes comienzan a ser frecuentes en esta etapa."
+},
+{
+"id": "T024",
+"type": "mcq",
+"question": "En la adultez media, los hábitos de salud de etapas anteriores:",
+"options": [
+"No influyen en lo que ocurre en esta etapa",
+"Son determinantes para el estado de salud actual",
+"Se vuelven irrelevantes a partir de los 40 años",
+"Solo afectan a la apariencia física"
+],
+"answerIndex": 1,
+"explanation": "El documento remarca que los hábitos de etapas anteriores son determinantes en lo que ocurre en esta fase."
+},
+{
+"id": "T025",
+"type": "mcq",
+"question": "En relación con la sexualidad, en la adultez media ocurre que:",
+"options": [
+"No hay cambios en las hormonas sexuales",
+"Aumentan los niveles de estrógenos y testosterona",
+"Disminuyen las hormonas sexuales en hombres y mujeres",
+"La fertilidad se incrementa"
+],
+"answerIndex": 2,
+"explanation": "Se señala la disminución de hormonas sexuales como testosterona, estrógenos y progesterona."
+},
+{
+"id": "T026",
+"type": "mcq",
+"question": "Un síntoma común de la transición menopáusica es:",
+"options": [
+"Aumento marcado de la fertilidad",
+"Bochornos y resequedad vaginal",
+"Mejoría en el sueño",
+"Disminución de la presión arterial"
+],
+"answerIndex": 1,
+"explanation": "Entre los síntomas mencionados están los bochornos, la resequedad vaginal y la disfunción urinaria."
+},
+{
+"id": "T027",
+"type": "mcq",
+"question": "En los hombres, un cambio sexual frecuente en la adultez media es:",
+"options": [
+"Erecciones más rápidas e intensas",
+"Mayor número de orgasmos",
+"Erecciones menos frecuentes y más tiempo de recuperación",
+"Desaparición total de la excitación sexual"
+],
+"answerIndex": 2,
+"explanation": "El texto describe erecciones menos frecuentes y un mayor tiempo de recuperación entre eyaculaciones."
+},
+{
+"id": "T028",
+"type": "mcq",
+"question": "La menopausia se define como el momento en que la mujer:",
+"options": [
+"Disminuye levemente su ciclo menstrual",
+"Deja de menstruar y de ovular",
+"Aumenta la frecuencia menstrual",
+"Solo presenta bochornos ocasionales"
+],
+"answerIndex": 1,
+"explanation": "Se indica que la menopausia ocurre cuando la mujer deja de menstruar y de ovular."
+},
+{
+"id": "T029",
+"type": "mcq",
+"question": "Según el documento, mientras más temprano llega la menarquía:",
+"options": [
+"Más tarde llega la menopausia",
+"Más temprano llega la menopausia",
+"No afecta a la menopausia",
+"Desaparece la menopausia"
+],
+"answerIndex": 1,
+"explanation": "Se afirma que cuanto más temprana es la menarquia, más temprano suele llegar la menopausia."
+},
+{
+"id": "T030",
+"type": "mcq",
+"question": "La andropausia NO es equivalente a la menopausia porque:",
+"options": [
+"Implica una pérdida brusca de fertilidad",
+"Es un proceso exactamente idéntico",
+"No supone un cese completo de la función reproductiva",
+"Ocurre solo en mujeres"
+],
+"answerIndex": 2,
+"explanation": "El texto señala que la andropausia no es equivalente a la menopausia; en los hombres no hay un cese total repentino de la fertilidad."
+},
+{
+"id": "T031",
+"type": "mcq",
+"question": "La perimenopausia hace referencia a:",
+"options": [
+"El periodo anterior y de transición hacia la menopausia",
+"Los primeros años después de la menopausia",
+"La ausencia de cambios hormonales",
+"La menarquía tardía"
+],
+"answerIndex": 0,
+"explanation": "La perimenopausia es el periodo de transición alrededor de la menopausia, con cambios hormonales y síntomas."
+},
+{
+"id": "T032",
+"type": "mcq",
+"question": "Entre los factores que influyen en la salud en la adultez media se incluyen:",
+"options": [
+"Solo la herencia genética",
+"Únicamente la ubicación geográfica",
+"Conducta, posición socioeconómica, raza/etnia y género",
+"Exclusivamente el acceso a la tecnología"
+],
+"answerIndex": 2,
+"explanation": "El documento menciona conducta, posición socioeconómica, raza/etnia, género y enfermedades comunes."
+},
+{
+"id": "T033",
+"type": "mcq",
+"question": "La pobreza se relaciona con la salud en la adultez media porque:",
+"options": [
+"Disminuye el riesgo de enfermedades crónicas",
+"Aumenta la probabilidad de enfermedades y discapacidad",
+"No tiene relación con la salud",
+"Reduce el acceso a alimentos poco saludables"
+],
+"answerIndex": 1,
+"explanation": "Se afirma que la pobreza incrementa la posibilidad de sufrir enfermedades o periodos de discapacidad importantes."
+},
+{
+"id": "T034",
+"type": "mcq",
+"question": "Entre las enfermedades comunes mencionadas para la adultez media se encuentran:",
+"options": [
+"Osteoporosis, cáncer, enfermedades cardíacas y estrés",
+"Sarampión, varicela y paperas",
+"Solo infecciones agudas",
+"Exclusivamente trastornos hereditarios raros"
+],
+"answerIndex": 0,
+"explanation": "El texto enumera osteoporosis, cáncer, enfermedades cardíacas y estrés como problemas frecuentes."
+},
+{
+"id": "T035",
+"type": "mcq",
+"question": "Respecto al género, el documento señala que las mujeres poseen:",
+"options": [
+"Menos factores protectores que los hombres",
+"Factores protectores biológicos y sociales",
+"Solo factores de riesgo biológicos",
+"Ausencia de ventajas en salud"
+],
+"answerIndex": 1,
+"explanation": "Se menciona que las mujeres cuentan con factores protectores biológicos y sociales."
+},
+{
+"id": "T036",
+"type": "mcq",
+"question": "El envejecimiento se describe como:",
+"options": [
+"Un proceso exclusivamente patológico",
+"Un proceso natural y universal",
+"Un fenómeno que solo ocurre en algunos grupos",
+"Algo completamente evitable"
+],
+"answerIndex": 1,
+"explanation": "En la presentación se afirma que el envejecimiento es un proceso natural y universal."
+},
+{
+"id": "T037",
+"type": "mcq",
+"question": "Además de ser natural, el envejecimiento está:",
+"options": [
+"Inscrito en nuestro código genético",
+"Determinado solo por la alimentación",
+"Completamente independiente del entorno",
+"Limitado a la vejez avanzada"
+],
+"answerIndex": 0,
+"explanation": "Se dice que el envejecimiento está inscrito en nuestro código genético."
+},
+{
+"id": "T038",
+"type": "mcq",
+"question": "Según el documento, el envejecimiento también está condicionado por:",
+"options": [
+"La moda y las tendencias",
+"Los entornos de la persona",
+"Las fases lunares",
+"El tipo de trabajo de la infancia"
+],
+"answerIndex": 1,
+"explanation": "Uno de los puntos señala que el envejecimiento está condicionado por los entornos de la persona."
+},
+{
+"id": "T039",
+"type": "mcq",
+"question": "Desde la perspectiva social, la vejez suele asociarse erróneamente con:",
+"options": [
+"Autonomía y creatividad",
+"Dependencia, invalidez e inactividad",
+"Mayor participación laboral",
+"Éxito económico garantizado"
+],
+"answerIndex": 1,
+"explanation": "Se menciona que la concepción de vejez suele vincularse con dependencia, invalidez, inactividad y muerte/soledad."
+},
+{
+"id": "T040",
+"type": "mcq",
+"question": "El edadismo se describe como:",
+"options": [
+"Una enfermedad física",
+"Un estilo de vida saludable",
+"Estereotipo, prejuicio y discriminación hacia personas por su edad",
+"Una política pública de inclusión"
+],
+"answerIndex": 2,
+"explanation": "La OMS define edadismo como estereotipo, prejuicio y discriminación hacia personas de ciertas edades."
+},
+{
+"id": "T041",
+"type": "mcq",
+"question": "¿Cómo se ubica el edadismo en relación con otras formas de discriminación según la OMS?",
+"options": [
+"Es la forma menos frecuente",
+"Es la tercera forma más importante después del racismo y el sexismo",
+"Es más importante que el racismo",
+"No se lo considera una forma de discriminación"
+],
+"answerIndex": 1,
+"explanation": "El documento lo presenta como la tercera forma más importante de discriminación luego del racismo y el sexismo."
+},
+{
+"id": "T042",
+"type": "mcq",
+"question": "Una consecuencia del edadismo es que las personas mayores:",
+"options": [
+"Tienen más oportunidades laborales",
+"Son motivadas a asumir conductas activas",
+"Se ven condicionadas a asumir conductas acordes a estereotipos",
+"Son priorizadas en las decisiones políticas"
+],
+"answerIndex": 2,
+"explanation": "Se indica que las personas mayores se ven condicionadas a conductas esperadas socialmente."
+},
+{
+"id": "T043",
+"type": "mcq",
+"question": "En el contexto capitalista, las personas mayores suelen ser consideradas socialmente como:",
+"options": [
+"Sujetos de pleno derecho sin estereotipos",
+"Pasivas o explotables",
+"Principal motor económico",
+"Indiferentes al sistema"
+],
+"answerIndex": 1,
+"explanation": "El documento menciona creencias sociales que las consideran pasivas o explotables con sueldos bajos."
+},
+{
+"id": "T044",
+"type": "mcq",
+"question": "Las percepciones positivas sobre el envejecimiento se asocian con:",
+"options": [
+"Mayor aislamiento social",
+"Peor funcionamiento cognitivo",
+"Mejor salud y bienestar",
+"Disminución de la autoestima"
+],
+"answerIndex": 2,
+"explanation": "Se afirma que percepciones positivas se relacionan con mejor salud, funcionamiento cognitivo y emocional."
+},
+{
+"id": "T045",
+"type": "mcq",
+"question": "El envejecimiento activo, según la OMS (2002), busca principalmente:",
+"options": [
+"Aumentar únicamente la esperanza de vida",
+"Optimizar salud, participación y seguridad para mejorar la calidad de vida",
+"Reducir la participación social de las personas mayores",
+"Promover la jubilación temprana"
+],
+"answerIndex": 1,
+"explanation": "El envejecimiento activo se define como el proceso de optimizar oportunidades de salud, participación y seguridad."
+},
+{
+"id": "T046",
+"type": "mcq",
+"question": "En el envejecimiento activo, el componente de participación se refiere a que las personas mayores:",
+"options": [
+"Vivan aisladas para proteger su salud",
+"Eviten la toma de decisiones",
+"Se sientan miembros de la comunidad y participen en decisiones",
+"No reciban apoyo familiar"
+],
+"answerIndex": 2,
+"explanation": "El pilar de participación implica que se perciban como miembros activos, con relaciones interpersonales y apoyo familiar y comunitario."
+},
+{
+"id": "T047",
+"type": "mcq",
+"question": "En cuanto al lenguaje, llamar a las personas mayores “viejos” o “ancianos” se considera:",
+"options": [
+"Un término técnico neutral",
+"Peyorativo y cargado de prejuicios",
+"La denominación oficial de la OMS",
+"Un sinónimo respetuoso de persona adulta mayor"
+],
+"answerIndex": 1,
+"explanation": "El documento indica que “viejos/ancianos” son términos peyorativos y llenos de prejuicios."
+},
+{
+"id": "T048",
+"type": "mcq",
+"question": "¿Por qué no es adecuado llamar “abuelos” a todas las personas mayores?",
+"options": [
+"Porque es un anglicismo",
+"Porque no todos son abuelos y el término es paternalista",
+"Porque solo se usa en zonas rurales",
+"Porque es un término legal restringido"
+],
+"answerIndex": 1,
+"explanation": "Se explica que no todos son abuelos y que el uso generalizado es paternalista."
+},
+{
+"id": "T049",
+"type": "mcq",
+"question": "El término más recomendado en el documento para referirse a este grupo etario es:",
+"options": [
+"Ancianos",
+"Tercera edad",
+"Personas adultas mayores",
+"Jubilados"
+],
+"answerIndex": 2,
+"explanation": "Se sugiere usar “personas adultas mayores” por ser neutral y sin carga valorativa."
+},
+{
+"id": "T050",
+"type": "mcq",
+"question": "La “cuarta edad” hace referencia a:",
+"options": [
+"Personas de 40 a 60 años",
+"Personas mayores de 80 años",
+"Niños pequeños",
+"Personas entre 60 y 79 años"
+],
+"answerIndex": 1,
+"explanation": "Se menciona que la cuarta edad surge con el aumento de personas mayores de 80 años o más."
+},
+{
+"id": "T051",
+"type": "mcq",
+"question": "En América Latina se estima que la población adulta mayor en 2050 representará aproximadamente:",
+"options": [
+"El 5% de la población total",
+"El 10% de la población total",
+"El 23% de la población total",
+"El 50% de la población total"
+],
+"answerIndex": 2,
+"explanation": "El texto indica que podría alcanzar el 23% de la población total."
+},
+{
+"id": "T052",
+"type": "mcq",
+"question": "A nivel mundial, la proporción de personas mayores de 60 años se espera que pase de 12% a:",
+"options": [
+"15%",
+"18%",
+"22%",
+"30%"
+],
+"answerIndex": 2,
+"explanation": "La OMS estima que se duplicará aproximadamente hasta un 22%."
+},
+{
+"id": "T053",
+"type": "mcq",
+"question": "En Ecuador, alrededor del 2010, el porcentaje de población mayor de 65 años era cercano a:",
+"options": [
+"2%",
+"7%",
+"15%",
+"25%"
+],
+"answerIndex": 1,
+"explanation": "Se menciona que en 2010 se estimaba que el 7% de la población era mayor de 65 años."
+},
+{
+"id": "T054",
+"type": "mcq",
+"question": "El índice de envejecimiento poblacional en Ecuador indica que existen aproximadamente:",
+"options": [
+"89 personas mayores por cada 100 niños",
+"50 personas mayores por cada 100 niños",
+"10 personas mayores por cada 100 niños",
+"200 personas mayores por cada 100 niños"
+],
+"answerIndex": 0,
+"explanation": "El documento indica 89 personas mayores por cada 100 niños menores de 15 años."
+},
+{
+"id": "T055",
+"type": "mcq",
+"question": "Según los datos presentados, la esperanza de vida en Ecuador ha aumentado desde 1950 hasta 2015 pasando de:",
+"options": [
+"20 a 40 años",
+"48,6 a 76,7 años",
+"60 a 65 años",
+"70 a 90 años"
+],
+"answerIndex": 1,
+"explanation": "Se cita un aumento del 63,4%, de 48,6 años a 76,7 años."
+},
+{
+"id": "T056",
+"type": "mcq",
+"question": "La esperanza de vida saludable al nacer en Ecuador en 2016 era aproximadamente de:",
+"options": [
+"40 años",
+"55 años",
+"67,9 años",
+"80 años"
+],
+"answerIndex": 2,
+"explanation": "El documento indica una esperanza de vida saludable de 67,9 años."
+},
+{
+"id": "T057",
+"type": "mcq",
+"question": "Los datos señalan que, en promedio, las personas mayores podrían vivir alrededor de cuántos años en situación de dependencia funcional:",
+"options": [
+"1 año",
+"5 años",
+"9 años",
+"20 años"
+],
+"answerIndex": 2,
+"explanation": "Se menciona un promedio cercano a 9 años de dependencia funcional."
+},
+{
+"id": "T058",
+"type": "mcq",
+"question": "La dependencia se diferencia de la discapacidad porque la dependencia está más directamente ligada a:",
+"options": [
+"La imposibilidad de recibir apoyo",
+"El cuidado y la necesidad de asistencia para actividades",
+"La ausencia de limitaciones en la participación",
+"La plena autonomía en la vida diaria"
+],
+"answerIndex": 1,
+"explanation": "Dependencia se asocia al cuidado y a la necesidad de asistencia para realizar actividades por sí mismo."
+},
+{
+"id": "T059",
+"type": "mcq",
+"question": "La discapacidad, según el documento, implica principalmente:",
+"options": [
+"Deficiencias, limitaciones en la actividad y restricciones en la participación",
+"Solo problemas económicos",
+"Dependencia obligatoria en todas las edades",
+"Ausencia de enfermedades físicas"
+],
+"answerIndex": 0,
+"explanation": "Se define discapacidad como deficiencias, limitaciones de la actividad y restricciones de participación."
+},
+{
+"id": "T060",
+"type": "mcq",
+"question": "La jubilación se describe etimológicamente como:",
+"options": [
+"Pérdida",
+"Descanso",
+"Júbilo",
+"Obligación"
+],
+"answerIndex": 2,
+"explanation": "Se menciona que jubilación proviene de “jubilare”, asociado a júbilo."
+},
+{
+"id": "T061",
+"type": "mcq",
+"question": "Según Atchley (1982), en la etapa de “luna de miel” de la jubilación, las personas suelen:",
+"options": [
+"No realizar ninguna actividad",
+"Realizar muchas actividades que antes no podían por el trabajo",
+"Rechazar todo cambio en su vida",
+"Ingresar inmediatamente en una residencia"
+],
+"answerIndex": 1,
+"explanation": "La fase de luna de miel se caracteriza por una gran variedad de actividades que antes estaban limitadas por el trabajo."
+},
+{
+"id": "T062",
+"type": "mcq",
+"question": "La fase prejubilar es importante porque:",
+"options": [
+"No tiene impacto en la adaptación",
+"Permite generar expectativas realistas o no sobre el cambio",
+"Impide planificar el futuro",
+"Solo afecta a la economía"
+],
+"answerIndex": 1,
+"explanation": "El documento subraya que la fase prejubilar es clave por las expectativas que se crean sobre la jubilación."
+},
+{
+"id": "T063",
+"type": "mcq",
+"question": "El tipo de jubilado del Grupo II, según Hornstein y Wapner, ve la jubilación como:",
+"options": [
+"Una transición hacia la fase final de la vida con poca actividad",
+"Un nuevo comienzo para satisfacer nuevos deseos y metas",
+"Una ruptura impuesta y negativa",
+"Una simple extensión del trabajo previo"
+],
+"answerIndex": 1,
+"explanation": "El Grupo II considera la jubilación como un nuevo comienzo y se relaciona con la teoría de la actividad."
+},
+{
+"id": "T064",
+"type": "mcq",
+"question": "El Grupo IV de jubilados, “ruptura impuesta”, se caracteriza por:",
+"options": [
+"Aceptación tranquila de la jubilación",
+"Vivir la jubilación como una imposición y pérdida de identidad",
+"Alta motivación por nuevos proyectos",
+"Fuerte apoyo institucional"
+],
+"answerIndex": 1,
+"explanation": "Se describe como personas a quienes les cuesta aceptar la jubilación, viviéndola como una imposición y pérdida de identidad."
+},
+{
+"id": "T065",
+"type": "mcq",
+"question": "Entre los determinantes sociodemográficos de la jubilación mencionados se encuentran:",
+"options": [
+"Edad, tipo de actividad, género, estado civil y nivel educativo",
+"Solo la edad",
+"Únicamente el lugar de residencia",
+"Exclusivamente el ingreso económico"
+],
+"answerIndex": 0,
+"explanation": "Se listan edad, tipo de actividad, género, estado civil (casado) y nivel educativo."
+},
+{
+"id": "T066",
+"type": "mcq",
+"question": "Entre los determinantes psicosociales de la experiencia de jubilación se mencionan:",
+"options": [
+"Salud, personalidad, autoeficacia y apoyo social",
+"Únicamente la herencia genética",
+"Solo el contexto laboral previo",
+"Exclusivamente la religión"
+],
+"answerIndex": 0,
+"explanation": "Se citan salud, personalidad, autoeficacia, locus de control interno y apoyo social."
+},
+{
+"id": "T067",
+"type": "mcq",
+"question": "Una recomendación para afrontar la transición de la jubilación es:",
+"options": [
+"Evitar planificar las actividades futuras",
+"Reducir el contacto con la familia",
+"Planificar nuevas actividades y objetivos vitales",
+"No hablar del tema con nadie"
+],
+"answerIndex": 2,
+"explanation": "Se sugiere planificar nuevas actividades, objetivos vitales y hacerlo de forma conjunta con quienes se convive."
+},
+{
+"id": "T068",
+"type": "mcq",
+"question": "Las redes de apoyo social incluyen, según el círculo de apoyo adaptado del modelo de Convoy:",
+"options": [
+"Solo la familia nuclear",
+"Persona, familia, amigos y recursos sociales",
+"Únicamente instituciones estatales",
+"Solo grupos religiosos"
+],
+"answerIndex": 1,
+"explanation": "El círculo muestra a la persona rodeada por familia, amigos y recursos sociales."
+},
+{
+"id": "T069",
+"type": "mcq",
+"question": "El apoyo social se define como:",
+"options": [
+"La cantidad de dinero que recibe una persona",
+"Una red de relaciones que proporciona compañía, ayuda y alimento emocional",
+"Solo los servicios de salud pública",
+"La relación exclusiva con la pareja"
+],
+"answerIndex": 1,
+"explanation": "Se lo describe como una red de relaciones que ofrece compañía, ayuda y apoyo emocional."
+},
+{
+"id": "T070",
+"type": "mcq",
+"question": "El apoyo informal incluye principalmente:",
+"options": [
+"Servicios prestados por el Estado",
+"Ayuda de familiares, amigos, vecinos y voluntarios",
+"Exclusivamente la atención hospitalaria",
+"Únicamente programas de televisión"
+],
+"answerIndex": 1,
+"explanation": "El apoyo informal proviene de allegados como familia, amigos, vecinos y voluntarios."
+},
+{
+"id": "T071",
+"type": "mcq",
+"question": "El apoyo formal se refiere a:",
+"options": [
+"Servicios provistos por redes familiares",
+"Ayuda brindada solo por amigos",
+"Servicios de instituciones estatales o no gubernamentales",
+"Relaciones espontáneas entre vecinos"
+],
+"answerIndex": 2,
+"explanation": "El apoyo formal proviene de servicios sociales, órganos estatales y entidades no gubernamentales."
+},
+{
+"id": "T072",
+"type": "mcq",
+"question": "Entre los servicios formales para personas mayores en Ecuador, el MIES contempla:",
+"options": [
+"Únicamente residencias permanentes",
+"Centros residenciales, diurnos, espacios activos y atención domiciliaria",
+"Solo programas de ocio",
+"Exclusivamente ayudas económicas"
+],
+"answerIndex": 1,
+"explanation": "Se listan residencias, centros diurnos, espacios de socialización, atención domiciliaria y otros servicios."
+},
+{
+"id": "T073",
+"type": "mcq",
+"question": "Según los datos presentados, la cobertura de centros residenciales públicos en 2019 en Ecuador correspondía aproximadamente a:",
+"options": [
+"10% de la población adulta mayor",
+"5% de la población adulta mayor",
+"0,11% de la población adulta mayor",
+"50% de la población adulta mayor"
+],
+"answerIndex": 2,
+"explanation": "Se indica que la cobertura fue de alrededor del 0,11% de la población adulta mayor."
+},
+{
+"id": "T074",
+"type": "mcq",
+"question": "Las normas técnicas del MIES enfatizan que la atención gerontológica debe:",
+"options": [
+"Fomentar la dependencia total de la persona",
+"Ignorar el proyecto de vida del usuario",
+"Basarse en un plan individual que impulse la autonomía y la participación",
+"Eliminar el contacto con la familia"
+],
+"answerIndex": 2,
+"explanation": "Se plantea un plan de atención individual orientado a la autogestión, la autonomía y la participación familiar y comunitaria."
+},
+{
+"id": "T075",
+"type": "mcq",
+"question": "En cuanto al apoyo informal, la familia:",
+"options": [
+"Tiene un rol secundario en el ciclo vital",
+"Proporciona cuidados, apoyo económico y emocional a lo largo de la vida",
+"Solo interviene en emergencias médicas",
+"Debe ser reemplazada por instituciones"
+],
+"answerIndex": 1,
+"explanation": "Se menciona que la familia proporciona cuidados, apoyo económico y emocional durante todo el ciclo vital."
+},
+{
+"id": "T076",
+"type": "mcq",
+"question": "La amistad en la vejez se considera importante porque:",
+"options": [
+"Suele agravar el duelo",
+"Aumenta el aislamiento social",
+"Es un indicador de mejores desenlaces del duelo y menor depresión",
+"Impide la relación con la familia"
+],
+"answerIndex": 2,
+"explanation": "El documento señala que los amigos se relacionan con desenlaces más positivos del duelo y mejor superación de la depresión."
+},
+{
+"id": "T077",
+"type": "mcq",
+"question": "Los vecinos pueden ser un recurso clave porque:",
+"options": [
+"Siempre viven lejos",
+"No tienen vínculo emocional",
+"Pueden brindar apoyo cercano y ayuda en emergencias",
+"Sustituyen completamente a la familia"
+],
+"answerIndex": 2,
+"explanation": "Se destaca que los vecinos, por su proximidad, son un recurso importante, especialmente en situaciones de emergencia."
+},
+{
+"id": "T078",
+"type": "mcq",
+"question": "Entre las actividades sugeridas para fortalecer el apoyo social en la vejez se encuentran:",
+"options": [
+"Aislarse para evitar problemas",
+"Solo comunicarse por redes sociales",
+"Compartir tiempo, conversar, ver programas y participar en eventos comunitarios",
+"Evitar todo contacto con nietos"
+],
+"answerIndex": 2,
+"explanation": "Se proponen actividades como charlar, pasear, ver programas juntos y asistir a acontecimientos comunitarios."
+},
+{
+"id": "T079",
+"type": "mcq",
+"question": "La salud mental se describe en el documento como:",
+"options": [
+"Simple ausencia de enfermedad",
+"Parte integral de la salud y base del bienestar y funcionamiento",
+"Un aspecto independiente de factores sociales",
+"Algo irrelevante en la vejez"
+],
+"answerIndex": 1,
+"explanation": "Se afirma que la salud mental es parte integral de la salud, base del bienestar y depende de factores biológicos, sociales y ambientales."
+},
+{
+"id": "T080",
+"type": "mcq",
+"question": "Entre los factores biopsicosociales que influyen en la salud mental de las personas mayores se mencionan:",
+"options": [
+"Solo la genética",
+"Disminución de neurotransmisores, pérdidas significativas y crisis económicas",
+"Exclusivamente el clima",
+"Únicamente la alimentación"
+],
+"answerIndex": 1,
+"explanation": "Se listan factores biológicos (neurotransmisores, enfermedades, dolor), sociales (crisis económica, dependencia) y psicológicos (estilos de afrontamiento)."
+},
+{
+"id": "T081",
+"type": "mcq",
+"question": "La soledad en la vejez se entiende como:",
+"options": [
+"Una situación siempre deseada",
+"Una condición de bienestar emocional",
+"Una experiencia de malestar cuando faltan recursos sociales adecuados",
+"Un estado físico sin componente emocional"
+],
+"answerIndex": 2,
+"explanation": "Se define como un malestar emocional vinculado a la falta o insatisfacción con las relaciones sociales."
+},
+{
+"id": "T082",
+"type": "mcq",
+"question": "El sentimiento de soledad se relaciona con:",
+"options": [
+"Satisfacción plena con las relaciones",
+"Insatisfacción por falta o pérdida de calidad en los contactos humanos",
+"Mayor integración comunitaria",
+"Ausencia de impacto emocional"
+],
+"answerIndex": 1,
+"explanation": "Se indica que obedece a la insatisfacción motivada por falta o deterioro de relaciones."
+},
+{
+"id": "T083",
+"type": "mcq",
+"question": "Entre los factores propiciadores de la soledad en la vejez se encuentran:",
+"options": [
+"Alta actividad laboral",
+"Viudez, jubilación y falta de apoyo social",
+"Incremento de redes de amigos",
+"Mejoría del estado de salud"
+],
+"answerIndex": 1,
+"explanation": "Se mencionan viudez, jubilación, falta de apoyo social, ser mujer y deterioro de la salud."
+},
+{
+"id": "T084",
+"type": "mcq",
+"question": "Según la Encuesta SABE, un porcentaje importante de adultos mayores:",
+"options": [
+"Vive en grandes instituciones",
+"Vive solo o solo con su pareja",
+"Vive únicamente con sus nietos",
+"Vive en el extranjero"
+],
+"answerIndex": 1,
+"explanation": "Los datos muestran el porcentaje de adultos mayores que viven solos o solo con su pareja."
+},
+{
+"id": "T085",
+"type": "mcq",
+"question": "La soledad, según se describe, tiene impacto en:",
+"options": [
+"Solo el ámbito laboral",
+"La salud física y emocional, aumentando factores de riesgo",
+"Exclusivamente la memoria",
+"Únicamente el apetito"
+],
+"answerIndex": 1,
+"explanation": "Se habla de impacto físico y emocional, aumentando factores de riesgo y problemas de salud."
+},
+{
+"id": "T086",
+"type": "mcq",
+"question": "Entre los comportamientos de riesgo asociados a la soledad se incluyen:",
+"options": [
+"Incremento del ejercicio físico",
+"Tabaquismo, consumo de alcohol y problemas en la dieta y el sueño",
+"Mayor participación en actividades recreativas",
+"Disminución del estrés"
+],
+"answerIndex": 1,
+"explanation": "Se mencionan tabaquismo, alcoholismo y problemas en la dieta, sueño y rutinas."
+},
+{
+"id": "T087",
+"type": "mcq",
+"question": "La teoría de la desvinculación en la vejez plantea:",
+"options": [
+"Incremento constante de las relaciones sociales",
+"Preparación para la muerte mediante un retiro progresivo",
+"Búsqueda de nuevos roles activos",
+"Mayor implicación laboral"
+],
+"answerIndex": 1,
+"explanation": "Esta teoría habla de una progresiva retirada de actividades y relaciones como preparación para la muerte."
+},
+{
+"id": "T088",
+"type": "mcq",
+"question": "La teoría de la actividad sostiene que en la vejez es importante:",
+"options": [
+"Reducir toda actividad social",
+"Mantener actividades y relaciones para un mejor envejecimiento",
+"Evitar el contacto con la comunidad",
+"Centrarse solo en la familia nuclear"
+],
+"answerIndex": 1,
+"explanation": "La teoría de la actividad enfatiza la continuidad de actividades y redes sociales para un buen envejecimiento."
+},
+{
+"id": "T089",
+"type": "mcq",
+"question": "Según la teoría de la selectividad emocional de Carstensen, las personas mayores tienden a:",
+"options": [
+"Aumentar el número de contactos superficiales",
+"Priorizar relaciones emocionales significativas y reducir las superficiales",
+"Evitar las relaciones estrechas",
+"Buscar solo contactos laborales"
+],
+"answerIndex": 1,
+"explanation": "La teoría indica que se reduce el número de contactos, manteniendo los más estrechos y emocionalmente significativos."
+},
+{
+"id": "T090",
+"type": "mcq",
+"question": "En la teoría de la selectividad emocional, las nuevas relaciones o contactos superficiales:",
+"options": [
+"Se convierten en prioridad",
+"Se mantienen sin cambios",
+"Son cada vez más valorados que los vínculos cercanos",
+"Son descartados a medida que envejece la persona"
+],
+"answerIndex": 3,
+"explanation": "Se señala que los contactos más superficiales tienden a ser descartados con la edad."
+},
+{
+"id": "T091",
+"type": "mcq",
+"question": "El envejecimiento saludable y exitoso se caracteriza por:",
+"options": [
+"Pérdida total de la actividad social",
+"Reducción de la actividad social compensada por mantenimiento de relaciones",
+"Ausencia de cambios en la red social",
+"Aislamiento voluntario sostenido"
+],
+"answerIndex": 1,
+"explanation": "Se describe una reducción progresiva de la actividad social compensada con el mantenimiento de relaciones y actividades clave."
+},
+{
+"id": "T092",
+"type": "mcq",
+"question": "El apoyo social favorece la salud psicológica porque:",
+"options": [
+"Reduce todas las responsabilidades personales",
+"Reemplaza roles perdidos por otros nuevos y refuerza el autoconcepto",
+"Evita que la persona se relacione con desconocidos",
+"Garantiza ingresos económicos altos"
+],
+"answerIndex": 1,
+"explanation": "Se indica que la implicación satisfactoria en nuevos roles y apoyos sociales sostiene el autoconcepto y la autoestima."
+},
+{
+"id": "T093",
+"type": "mcq",
+"question": "Entre los tipos de apoyo social descritos se encuentra el apoyo emocional, que consiste en:",
+"options": [
+"Proveer únicamente asistencia económica",
+"Compartir sentimientos y aumentar la autoestima al sentirse valorado",
+"Ofrecer solo información técnica",
+"Otorgar medicamentos"
+],
+"answerIndex": 1,
+"explanation": "El apoyo emocional implica compartir sentimientos y sentirse valorado y aceptado."
+},
+{
+"id": "T094",
+"type": "mcq",
+"question": "El apoyo de información se refiere a:",
+"options": [
+"Dar consejos o información útil para enfrentar situaciones estresantes",
+"Realizar todas las tareas domésticas de la persona mayor",
+"Brindar alojamiento permanente",
+"Organizar solo actividades recreativas"
+],
+"answerIndex": 0,
+"explanation": "El apoyo de información incluye consejos e información para afrontar problemas o situaciones estresantes."
+},
+{
+"id": "T095",
+"type": "mcq",
+"question": "El apoyo material o instrumental permite:",
+"options": [
+"Incrementar la carga de tareas",
+"Reducir la sobrecarga de tareas y liberar tiempo para recreación",
+"Eliminar la necesidad de apoyo emocional",
+"Evitar el uso de servicios formales"
+],
+"answerIndex": 1,
+"explanation": "Se define como servicios que reducen la sobrecarga de tareas y dejan tiempo para actividades recreativas."
+},
+{
+"id": "T096",
+"type": "mcq",
+"question": "La familia, como red de apoyo, contribuye a prevenir o retrasar:",
+"options": [
+"La institucionalización de la persona mayor",
+"El contacto con la comunidad",
+"El envejecimiento activo",
+"Las relaciones intergeneracionales"
+],
+"answerIndex": 0,
+"explanation": "Se menciona que la familia previene y retrasa la institucionalización de las personas mayores."
+},
+{
+"id": "T097",
+"type": "mcq",
+"question": "La norma de reciprocidad y solidaridad intergeneracional implica que:",
+"options": [
+"Solo los jóvenes ayudan a los mayores",
+"El apoyo circula entre generaciones a lo largo del tiempo",
+"No hay intercambio de ayuda entre familiares",
+"La ayuda se limita a los padres"
+],
+"answerIndex": 1,
+"explanation": "Se alude a una reciprocidad y solidaridad en el apoyo entre distintas generaciones de la familia."
+},
+{
+"id": "T098",
+"type": "mcq",
+"question": "Una ciudad verdaderamente inclusiva para personas mayores debería:",
+"options": [
+"Tener aceras en mal estado y ausencia de rampas",
+"Garantizar accesibilidad en aceras, rampas y transporte público",
+"Restringir el transporte a personas jóvenes",
+"Centrarse solo en el uso de vehículos privados"
+],
+"answerIndex": 1,
+"explanation": "Frente a la crítica a la “ciudad inclusiva”, se sugiere la importancia de accesibilidad real en el entorno urbano."
+},
+{
+"id": "T099",
+"type": "mcq",
+"question": "Una familia inclusiva con personas adultas mayores debería:",
+"options": [
+"Rotarlas continuamente de un hogar a otro sin consultarles",
+"Integrarlas en la toma de decisiones y respetar sus deseos",
+"Evitar conversar de temas importantes",
+"Delegar todo el cuidado en instituciones"
+],
+"answerIndex": 1,
+"explanation": "El documento critica la rotación y aboga por una participación real de la persona mayor en la vida familiar."
+},
+{
+"id": "T100",
+"type": "mcq",
+"question": "“Importa lo que pienso sobre el envejecimiento” porque:",
+"options": [
+"La autopercepción no tiene efecto en la salud",
+"Solo las políticas públicas determinan el envejecimiento",
+"Las actitudes y estereotipos personales influyen en salud, bienestar y funcionamiento",
+"El envejecimiento es igual para todas las personas"
+],
+"answerIndex": 2,
+"explanation": "El texto destaca que las percepciones y actitudes hacia el propio envejecimiento se relacionan con salud, bienestar y funcionamiento cognitivo y emocional."
+}
+]
